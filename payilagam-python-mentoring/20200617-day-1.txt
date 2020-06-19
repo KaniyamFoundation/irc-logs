@@ -1,0 +1,306 @@
+01:34:58 <globbot> channel logging requested by shrini: https://freenode.logbot.info/kaniyam
+02:05:15 <Muthuramalingam> hi
+02:05:23 <shrini> hello all
+02:05:28 <shrini> Good Morning
+02:05:36 <shrini> Thanks Muthuramalingam for the video on IRC
+02:05:39 <Muthuramalingam> Did you guys choose the project 
+02:05:45 <Tamil> good Morning
+02:05:48 <Aravind> Hai. Good morning.
+02:05:59 <shrini> Let us wait till 7.45
+02:06:04 <Muthuramalingam> ok
+02:06:04 <shrini> People or joining
+02:06:07 <Murugan> Good morning.
+02:06:10 <Murugan> ok
+02:08:08 <Miranda> Gud morning all
+02:13:53 <shrini> will start in 2 min
+02:16:17 <Muthuramalingam> ok
+02:17:08 <shrini> hello all
+02:17:22 <shrini> Let us start with self introduction
+02:17:39 <Aravind> Hi,
+02:17:50 <karpagamVT> hi 
+02:17:55 <Janet> Hi 
+02:17:56 <shrini> type /me name, city, what are you doing
+02:18:08 * shrini shrini chennai DevOps Engineer
+02:18:30 <Muthuramalingam> Muthuramalingam Trainer Payilagam
+02:18:31 <Aravind> Good morning to all, I am Aravind. Iam currently working in front end development in Chennai.
+02:18:38 <Miranda> Hi, I am Dr.T.Miranda LAkshmi,Assistant Professor,Cuddalore 
+02:18:54 <Janet> Janet - Chennai, Web developer 
+02:19:29 <shrini> ok
+02:19:33 <shrini> others?
+02:19:43 <Murugan> I am Murugan moodle (Learning management system) trainer, Authoor (Thoothukudi Dist.)
+02:20:18 <shrini> karpagamVT: paulpandi saravanan Tamil 
+02:20:25 <shrini> introduce yourself
+02:20:54 <karpagamVT> i am karpagam,i am from uthiramerur.i completed my bachelors degree in sri venkateswara college of engineering in computer science department.my hobbies are traveeling, playing shuttle.my short term goal is became a developper.my long term goal is became a data scientist.
+02:21:10 <Tamil> hi i am Tamilvelan/chennai/ Electronics based working employee
+02:21:25 <shrini> We need a volunteer to take notes of our daily chat and publish as blog post
+02:21:31 <punniyakotty> Hi I'm punniyakotty
+02:21:32 <shrini> who can volunteer for this?
+02:21:41 <karpagamVT> i will take sir
+02:21:52 <karpagamVT> can i take
+02:21:53 <shrini> ok thanks karpagamVT 
+02:21:59 <punniyakotty> Hi I. Am
+02:22:00 <shrini> no sir/madam her
+02:22:02 <shrini> e
+02:22:14 <saravanan> i am saravanan  dindigul  working in marketing
+02:22:17 <shrini> Happy to see you all here
+02:22:18 <karpagamVT> ok
+02:22:20 <Tamil> I am also
+02:22:39 <shrini> happy to see people from divesified fieled
+02:23:02 <shrini> How many of you have blogs?
+02:23:08 <karpagamVT> i have
+02:23:09 <Miranda> I have
+02:23:10 <shrini> share your blog URL here
+02:23:19 <shrini> mine is http://goinggnu.wordpress.com
+02:23:29 <shrini> writing there for around 15 years
+02:23:42 <Murugan> I have blog. I don't maintain it properly.
+02:23:54 <shrini> share the URL of your blog
+02:24:06 <shrini> from today, you have to write there daily
+02:24:06 <Miranda> https://mirandalakshmi.blogspot.com/
+02:24:13 <karpagamVT> https://meyeti199703659.wordpress.com
+02:24:23 <paulpandi> Hi i am paul pandi.I completed BE(CSE) on 2019. I am interesting on learning software development. Hence I learning basics of HTML,CSS,JS,SQL on myself through internet and now i am learning python through payilagam
+02:25:01 <Tamil> https://tamilvelanpython.wordpress.com
+02:25:16 <karpagamVT> not daily ..but i can wite daily in upcoming days..
+02:25:31 <saravanan> https://wordpress.com/home/mypython630111766.wordpress.com
+02:26:14 <Janet> https://janet833259081.wordpress.com/---/
+02:26:26 <shrini> saravanan: your blog url is https://mypython630111766.wordpress.com
+02:26:27 <Punniyakotty> Hi i am  punniyakotty  I am engineering student fyear
+02:26:45 <Punniyakotty> B.tech
+02:26:51 <Janet> https://janet833259081.wordpress.com/
+02:27:05 <shrini> good to know that many of you have started a blog
+02:27:10 <shrini> make it alive
+02:27:19 <Janet> Sure
+02:27:20 <Miranda> Ok
+02:27:25 <Aravind> Ok
+02:27:35 <shrini> write there for the full sprint of this project mentoing - daily
+02:27:41 <Muthuramalingam> Murugan: your blog link please
+02:27:50 <shrini> and share here daily of the post links
+02:28:12 <shrini> we need all these to measure the success/progress of the entire program
+02:28:24 <shrini> I have all of you have learnt python
+02:28:46 <Miranda> s to some extend..
+02:28:58 <shrini> if not - start with this book - pymbook.readthedocs.io/
+02:29:24 <saravanan> ok
+02:29:25 <shrini> Did you see any project idea pages ?
+02:29:30 <Janet> Yes
+02:29:40 <shrini> Or do you have any plans to work on?
+02:29:43 <priya> open
+02:29:46 <shrini> Let us start with your ideas first
+02:29:58 <shrini> if not, then I can assign one project for each here
+02:30:11 <Murugan> murugan638053468.wordpress.com
+02:30:22 <Aravind> Ok Sir
+02:30:29 <karpagamVT> check duplication file names in a directory tree
+02:30:39 <Tamil> project about i confuse please give some ideas
+02:30:50 <Muthuramalingam> https://goinggnu.wordpress.com/2014/07/23/need-50-ideas-for-a-python-hackathon/
+02:31:15 <Muthuramalingam> already shared one - please check ideas here
+02:31:25 <shrini> if you dont have any idea on what to do, check the above link, pick one idea and type it here
+02:31:27 <paulpandi> My blog - https://paul555dreamzzz.wordpress.com/
+02:31:36 <Janet> I have a plan of add user profile with profile pic and resize image, and display in view screen, get date of birth and calculate age 
+02:31:55 <shrini> I can share more info any idea if required
+02:32:13 <shrini> Janet: Do you know html, css ?
+02:32:20 <Janet> Yes
+02:32:33 <shrini> Good. Then, this can be done using flask
+02:32:33 <priya> my blog-https://pathmacom.wordpress.com/
+02:32:43 <Janet> Ok
+02:32:56 <Muthuramalingam> sakthi: Please introduce yourself with blog name 
+02:33:09 <Aravind> I have completed url shortener via command prompt.
+02:33:22 <shrini> good Aravind 
+02:33:31 <shrini> what is your next item?
+02:33:53 <Janet> I have completed ui now focusing on uploading image in a folder
+02:34:10 <Aravind> Using Flask sir or I will take other project idea
+02:34:14 <Muthuramalingam> good Janet
+02:34:21 <Janet> Thank u
+02:35:45 <shrini> Aravind: Janet karpagamVT write a blog post on the project idea you have, with detailed description and how you are going to implement it
+02:35:58 <Janet> OK sure
+02:36:12 <karpagamVT> ok sure..
+02:36:13 <shrini> add sample design, aflowchart or psedo code
+02:36:23 <shrini> it will help you to get clarity on what to do?
+02:36:26 <Janet> Ok
+02:36:38 <shrini> Extened the one line idea to a multi paragraph description
+02:36:42 <Aravind> Ok sure. I have one domain. Just I have plan to write the project idea under the domain.
+02:39:20 <shrini> ajithra: Caroline51 lakshanashana Miranda Murugan Muthuramalingam paulpandi punniyakotty saravanan Tamil 
+02:39:27 <shrini> what about your project ideas?
+02:39:38 <Tamil> Text Editor   
+02:39:48 <Janet> Sample design can be drawn in notebook and upload in blog. Is that OK?
+02:39:58 <shrini> yes Janet 
+02:40:07 <Janet> Ok
+02:40:07 <shrini> it is your blog. you can do whatever you wish
+02:40:17 <shrini> just draw on paper with pen
+02:40:18 <Janet> Ok
+02:40:31 <karpagamVT> ok .
+02:40:32 <shrini> take photo, resize to 100kb and upload there
+02:40:45 <shrini> Tamil: text editor is huge project
+02:40:49 <Janet> Thanks for this information 
+02:40:57 <Miranda> My parents are running a studio ..so i have planned to contribute  something related to that
+02:41:01 <shrini> ping something small that can be done as a command line application
+02:41:14 <shrini> Miranda: photo studio?
+02:41:18 <Miranda> s
+02:41:28 <shrini> good
+02:41:57 <shrini> Miranda: check this idea suits you.
+02:41:58 <Tamil> or assign project for me
+02:42:06 <Miranda> Thank you
+02:42:47 <shrini> resize all the photos in a given folder, add some text over all the images, upload to some website like flickr
+02:42:58 <shrini> Miranda: is this fine for you?
+02:43:12 <Miranda> s I ll try..
+02:44:29 <punniyakotty> get two dates and calculate the no of days between them
+02:44:31 <Miranda> Is basics of python is enough to do this.. or I have to learn more
+02:44:39 <paulpandi> I think to develop cricket inventory as to get sample datas about players, then calculate their economy, average, performance like this then based on this assessemnt to chose a player suggestion for a team.
+02:45:21 <shrini> Miranda: basic python, image manipulating libraries like Pillow and flickr api is fine for you
+02:45:28 <Pathma50> My idea is credit card validator 
+02:45:51 <shrini> Tamil: What is the Weather ? – Scrap any weather site or use any weather api service to find weather of chennai or any given place.
+02:45:55 <shrini> take this idea
+02:46:13 <Miranda> OK.. Sure
+02:46:24 <Tamil> sure
+02:46:26 <shrini> punniyakotty: good start
+02:46:37 <Janet> Can u please explain srcap flipkart project
+02:46:45 <karpagamVT> but its only to do data analytics right
+02:47:29 <shrini> paulpandi: interesting idea
+02:48:14 <shrini> Janet: webscrapping is to get a html page from any website using program
+02:48:34 <Janet> OK. Thank you 
+02:48:37 <shrini> Janet: get the HTML content, parse it and get required values
+02:48:49 <Janet> Ok
+02:48:51 <paulpandi> @shrini thank you.
+02:49:02 <shrini> The program should get input as any product
+02:49:12 <shrini> then search in flipkart.com for the product
+02:49:17 <shrini> get the result page
+02:49:26 <shrini> prase it and get the price of the first result
+02:49:34 <shrini> then display the price to the user in commandline
+02:50:00 <karpagamVT> i already done a flipkart front end..
+02:50:02 <shrini> Muthuramalingam: what is your project idea?
+02:50:19 <Janet> Thanks for the information 
+02:50:23 <shrini> karpagamVT: webscrapping is a full command line application
+02:51:39 <karpagamVT> ok sir.
+02:51:51 <karpagamVT> sorry 
+02:52:09 <karpagamVT> i slighty change to tell sir like
+02:52:18 <shrini> Muthuramalingam: can you work on tamil verb application? given a tamil verb, show all the derieved words?
+02:52:31 <shrini> karpagamVT: no sir required here
+02:52:40 <shrini> karpagamVT: Got it. 
+02:52:46 <Aravind> karpagamVT : can you Just try this below mentioned program via command line
+02:52:51 <paulpandi> Any suggestion about my project like how to start? how I move further?
+02:52:52 <Aravind> import requestsimport jsonx = requests.get('https://w3schools.com/python/demopage.htm')print(x.json)
+02:53:11 <shrini> To all here  - This is not your regular classroom
+02:53:23 <shrini> we all here to learn and grow
+02:53:33 <shrini> feel free to ask anything here
+02:53:49 <shrini> you can share anything on what you are doing
+02:54:00 <shrini> your works will be inspiring to others
+02:54:02 <Muthuramalingam> shrini: Sure, will do that. 
+02:54:07 <Janet> This is the 1st day, once we start doing project a d write blog we will have a lot ask here
+02:54:12 <shrini> ok Muthuramalingam 
+02:54:25 <Muthuramalingam> Janet: yes
+02:54:33 <Miranda> Ok sure..
+02:54:44 <shrini> Janet: your first blog post should be about the experience of this IRC chat meet
+02:54:45 <paulpandi> Any suggestion about my project like how to start? how I move further?
+02:54:57 <Janet> Ok
+02:55:03 <shrini> paulpandi: cricket inventory
+02:55:13 <shrini> what is your idea on the project?
+02:55:25 <shrini> paulpandi: share the some more details here
+02:56:10 <paulpandi> 1.TO start a page with team registration and login.
+02:56:14 <shrini> Aravind: let us talk tech queries some time later, once the project ideas are done with. is it ok?
+02:56:26 <shrini> paulpandi: done think of a web applcation
+02:56:29 <Aravind> Ok sir
+02:56:34 <shrini> paulpandi: think as a command line applicatin
+02:56:45 <shrini> lo login, no web page
+02:56:52 <shrini> no login, no web page
+02:57:04 <shrini> think in command line
+02:57:20 <shrini> make it as a command line app, then you can make as a web application in fututre
+02:57:39 <punniyakotty> shrini ,how  to start project  get two dates and calculate the no of days between them
+02:57:48 <Muthuramalingam> yes, please plan for command line app first
+02:58:43 <shrini> punniyakotty: get the two dates from the users in command line
+02:59:02 <shrini> print them both on screen
+02:59:04 <karpagamVT> can you explain what is command line app ..what are tools are required to make app
+02:59:18 <Muthuramalingam> what we do now is command line app
+02:59:21 <shrini> then use datetime module to get the difference
+02:59:47 <Muthuramalingam> karpagamVT, like console results in java
+02:59:49 <shrini> just search net on "how to get the date difference in python"
+03:00:10 <karpagamVT> Muthuramalingam: ok 
+03:00:31 <shrini> karpagamVT: command line app is simple, can be executed in terminal or command prompt
+03:00:53 <shrini> just get user input in command prompt and display the results
+03:01:15 <karpagamVT> ok ..
+03:01:29 <punniyakotty> shrini,I will search
+03:01:46 <paulpandi> command line app means, doing a project with python, flask and sql to complete our logic first. This is my understanding. Is this right?
+03:02:13 <Muthuramalingam> paulpandi
+03:02:14 <Muthuramalingam> no
+03:02:18 <shrini> there is no flask required for command line application
+03:02:21 <karpagamVT> my understand is without using sql,html
+03:02:30 <shrini> SQL can be used
+03:02:46 <Muthuramalingam> SQL can be used if needed.  
+03:02:47 <shrini> all the user interface is only on commadn prompt
+03:02:55 <shrini> or terminal
+03:03:13 <shrini> how do you run the python programs generally?
+03:04:11 <karpagamVT> terminal
+03:04:46 <shrini> ok
+03:05:08 <shrini> you just run as "python filename.py"
+03:05:17 <karpagamVT> yes
+03:05:18 <shrini> or "python3 filename.py"
+03:05:46 <shrini> get input from user there and print output there itself
+03:05:52 <shrini> it is caommand line appliction
+03:06:06 <shrini> no need of fancy web desigins
+03:06:16 <shrini> just the black terminal is enough
+03:06:41 <shrini> most of the free/open source software can be run as command line applications
+03:06:56 <shrini> we can automate the command line applications easily
+03:07:07 <Muthuramalingam> We use python IDLE 
+03:07:15 <karpagamVT> (y) 
+03:07:19 <Janet> Yes
+03:07:19 <paulpandi> @shrini ok. Now its clear
+03:07:33 <karpagamVT> yeahh now only clear
+03:07:44 <shrini> Even I am attending this IRC chat in  using commandline chat client called weechat in my linux terminal
+03:07:47 <Muthuramalingam> Instead, you can execute the same using Python Terminal
+03:08:01 <shrini> see a screenshot here - https://pasteboard.co/JdrxAE6.png
+03:08:23 <shrini> IDLE can be used to write uick code only
+03:08:29 <Aravind> Suppos we import any other module like Request. How we can find the remaining class or packages in that request module
+03:08:53 <shrini> Aravind: dir(module_name)
+03:09:07 <shrini> will give the available methods and variables
+03:09:08 <Aravind> Ok sir
+03:09:11 <shrini> for any module
+03:09:58 <Muthuramalingam> Shall we wind up now and connect again tomorrow?
+03:10:02 <shrini> Aravind: dont use sir/madam here
+03:10:09 <shrini> we have 5 more minutes
+03:10:10 <karpagamVT> ok shrini
+03:10:19 <Muthuramalingam> ok
+03:10:21 <Aravind> Ok
+03:10:29 <shrini> Aravind: what is your project plan?
+03:10:55 <shrini> We dont get any inputs from ajithra, Aravind, lakshanashana, Murugan, saravanan
+03:11:01 <shrini> from project ideas
+03:11:03 <Miranda> Its already 8.40.. I have classes... Shall we sharply wind up by 8.30
+03:11:14 <shrini> sorry Miranda 
+03:11:23 <shrini> from tomorrow it will be shart 
+03:11:31 <shrini> shorp on time
+03:11:35 <shrini> you can leave now
+03:11:42 <Aravind> Url shortener completed via command prompt and I will choose another project idea
+03:11:53 <Miranda> ok shrini..no problem..
+03:12:00 <shrini> ok Aravind share the idea by tomoorw
+03:12:22 <Aravind> Ok
+03:12:34 <shrini> For all - all we discuss here are bring logged here in public - https://freenode.logbot.info/kaniyam/20200617
+03:12:44 <Murugan>    I am sorry to leave.
+03:12:47 <shrini> you can share the url to friends and all to read
+03:12:58 <shrini> we are ending the session here
+03:13:02 <shrini> Thanks for attending
+03:13:09 <Murugan> thanks
+03:13:14 <Janet> Thank u. 
+03:13:24 <Aravind> Thank you
+03:13:35 <shrini> For all - write a two blog posts today 1. experience about the IRC meet 2.detail about your project idea
+03:13:41 <shrini> share the URLs tomorrow
+03:13:49 <Janet> Sure
+03:13:58 <karpagamVT> sure ..
+03:14:28 <shrini> karpagamVT: write a blog post on minutes of the meeting  and list of project ideas taken and by whom
+03:14:38 <shrini> it will help us to track
+03:16:12 <shrini> we have 8 people took their ideas
+03:16:17 <shrini> karpagamVT - check duplication file names in a directory tree
+03:16:19 <shrini> Janet - I have a plan of add user profile with profile pic and resize image, and display in view screen, get date of birth and  calculate age
+03:16:21 <shrini> Tamil - What is the Weather ? – Scrap any weather site or use any weather api service to find weather of chennai or any given place.
+03:16:23 <shrini> Miranda - resize all the photos in a given folder, add some text over all the images, upload to some website like flickr
+03:16:25 <shrini> punniyakotty - get two dates and calculate the no of days between them
+03:16:27 <shrini> paulpandi - I think to develop cricket inventory as to get sample datas about players, then calculate their economy, average, performance
+03:16:29 <shrini>   like this then based on this assessemnt to chose a player suggestion for a team.
+03:16:31 <shrini> Pathma50 - My idea is credit card validator
+03:16:33 <shrini> Muthuramalingam: tamil verb application. given a tamil verb, show all the derieved words.
+03:16:35 <shrini> karpagamVT: share these in your blog
+03:16:39 <shrini> see you all tomorrow
+03:16:59 <shrini> I will be in chatroom most of the day times
+03:17:15 <shrini> ping here or leave message if you need any help
+03:17:31 <karpagamVT> ok shrini
+03:22:12 <paulpandi> ok. thank you. bye
+06:20:33 <Muthuramalingam> hi
+06:20:38 <Muthuramalingam> in DB.JSON
+06:20:45 <Muthuramalingam> "ச்சிருக்கு":[{"t":"0","w":"த்திருக்கிறது"}]
+06:21:28 <Muthuramalingam> ச்சிருக்கு is the incorrect word
+06:21:40 <Muthuramalingam> த்திருக்கிறது is correct one. 
+06:22:00 <Muthuramalingam> any idea about "t":"0"

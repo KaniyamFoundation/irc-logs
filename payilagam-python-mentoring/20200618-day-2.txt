@@ -1,0 +1,377 @@
+02:00:49 <shrini> hello all
+02:00:54 <shrini> Good morning
+02:01:02 <shrini> Shall we wait for five more minutes?
+02:01:14 <Janet> Good morning all. Sure
+02:01:26 <Miranda> Good morning all..Sure
+02:02:04 <Aravind> Good Morning
+02:02:06 <Tamil> Good moring all
+02:03:33 <paulpandi> Good morning to all
+02:03:40 <Muthuramalingam> Good Morning - 
+02:03:40 <Muthuramalingam> 1. What I Did yesterday - Went through DB.JSON file for Tamil Spell Checker.  Could understand a bit, not completely.  Went through about NLP Basics.  Installed Python NLTK.  Did few sample programs.  
+02:03:40 <Muthuramalingam> 2. What is my plan today - Continuing Python NLTK.  Creating Tamil words list.  
+02:03:40 <Muthuramalingam> 3. Any obstacles - No.  
+02:04:16 <shrini> good Muthuramalingam 
+02:04:25 <Aravind> Good Morning 
+02:04:31 <Muthuramalingam> blog: https://kadanthavai.wordpress.com/2020/06/17/%e0%ae%aa%e0%af%88%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%a9%e0%af%8d-nltk-%e0%ae%a8%e0%ae%bf%e0%ae%b1%e0%af%81%e0%ae%b5%e0%ae%b2%e0%af%8d/
+02:04:34 <shrini> what is mean by creating tamil words like?
+02:04:41 <shrini> nice
+02:05:49 <jprac> jeyaprakash BE cse student dindigul. project idea PNR status using number scrap any website
+02:06:00 <Muthuramalingam> taking a tamil base verb - adding all forms of it (like in English - Go - Go, Goes, Went, gone, going, to go).  
+02:06:31 <shrini> Muthuramalingam: ok
+02:06:33 <Janet> Yesterday : implemented small program using command line, single image upload successfully done. Static resize done. Trying to upload image inside folder
+02:06:37 <shrini> jprac: welcome
+02:06:57 <Muthuramalingam> good to hear Janet
+02:06:58 <jprac> ok
+02:06:59 <shrini> Janet: good
+02:07:10 <Muthuramalingam> jprac - good idea
+02:07:30 <shrini> jprac: do we get PNR status in this corona period?
+02:07:38 <Janet> Experience abt IRC : https://janet833259081.wordpress.com/irc-internet-relay-chat/
+02:07:47 <jprac> i am started today onwards
+02:07:58 <shrini> jprac: if we did not get PNR status, pick some other idea
+02:08:03 <Janet> Project paln: https://janet833259081.wordpress.com/python-form-with-profile-picture/
+02:08:39 <Aravind> Good Morning,I have completed two dates and calculate number of days using date module via command line.Hands-on i have project, url shortener and above mentioned project.Today and Tomorrow my plan, above mentioned two projects are converted into flask.
+02:08:43 <jprac> shrini:ok
+02:08:52 <Miranda> I learnt what is CV2 and also tried to load image and also display images using imread,imshow command.. 
+02:09:20 <Miranda> I wrote a blog about IRC..
+02:09:21 <shrini> Miranda: good
+02:09:42 <Miranda> Thank you
+02:10:35 <jprac> websrap is easy or not, if yes i go other idea
+02:10:50 <shrini> jprac: web scrapping is easy
+02:11:09 <shrini> but PNR status we wont get as there are no training or buses going
+02:11:14 <Muthuramalingam> For all - We can all our blog posts here - http://planet.payilagam.com/ 
+02:11:27 <shrini> Muthuramalingam: adding your blog there now
+02:11:29 <Janet> Ok
+02:11:31 <Muthuramalingam> We can read 
+02:11:33 <Muthuramalingam> ok
+02:11:39 <Miranda> OK
+02:12:10 <Muthuramalingam> Hence - Please visit the above link for reading all our team members blog on regular basis.  Those who did not start writing blogs, please start today itself.  
+02:12:24 <Muthuramalingam> Thanks shrini for implementing this payilagam.com site.  
+02:12:33 <jprac> but PNR status we wont get as there are no training or buses going- share your idea about webscrapping
+02:12:37 <Miranda> Ok
+02:13:11 <shrini> jprac: do you know html/css etc?
+02:14:13 <jprac> already known html and css , bootstrap is learning going on
+02:14:58 <shrini> ok
+02:15:07 <shrini> then you can do any webscrapping project jprac 
+02:15:20 * shrini thinking of a project for jprac
+02:15:32 <jprac> ok shrini
+02:15:57 <Tamil> I complted my weather api using project for min&max temp and  humitity add more content??
+02:16:03 <sakthi> i am sakthivel    completed B.E csc my blog https://pythonprogram006.wordpress.com/2020/06/18/python-project/                                          
+02:16:18 <Muthuramalingam> jprac - go to coursera.org, search for free courses.  Then check any specific course is available for free.  Can you try this one. 
+02:17:12 <jprac> will try  
+02:17:29 <Muthuramalingam> ok
+02:17:42 <shrini> jprac: http://www.tamilvu.org/ta/library-lA475-html-lA475con-152445
+02:18:03 <Miranda>  In swayam courses are available but the courses starts by the month of July... 
+02:19:02 <shrini> jprac: check the above book
+02:19:20 <shrini> you should write a program to traverse all the pages from the index page
+02:19:32 <shrini> get all the book content in a text file
+02:19:33 <jprac> my blog :https://notes279386890wordpress.com/
+02:19:49 <jprac> ok
+02:20:21 <Muthuramalingam> Whoever is writing blog in wordpress.com - Go to Manage -> Settings -> General -> Privacy -> Here Check 'Public'.  Until this is set, others can not read your blog posts.  
+02:20:25 <Muthuramalingam> Please check this settings.  
+02:20:47 <Muthuramalingam> sakthi  I couldnt read your blog.  Please set the above settings.  
+02:20:48 <Janet> Ok
+02:21:03 <shrini> Hi Tamil happy to know that you completed the weather project
+02:21:10 <shrini> any blog post about t?
+02:21:17 <shrini> share the github link
+02:21:32 <Tamil> ok
+02:21:41 <Miranda> Muthu I am not able to create a blog in wordpress for free of cost ... Is there any option??
+02:22:09 <shrini> Miranda: you are already in free plan and creating posts
+02:22:32 <shrini> For all, let us stop general discussions here
+02:23:00 <shrini> update the yesterday status and today plan with blog, github link now
+02:23:12 <shrini> once this is done, we can go for general QA
+02:23:31 <shrini> Shall we go alphabetic order?
+02:23:38 <shrini> Aravind: share your updates
+02:23:43 <sakthi> my project  unversity admission  management system
+02:24:00 <shrini> sakthi: wait
+02:24:10 <shrini> talk on your turn
+02:24:19 <shrini> let us wait for Aravind to update his status
+02:24:27 <Aravind> ,I have completed two dates and calculate number of days using date module via command line.Hands-on i have project, url shortener and above mentioned project.Today and Tomorrow my plan, above mentioned two projects are converted into flask.
+02:24:52 <shrini> nice Aravind any blog post?
+02:25:34 <Aravind> aravindkarthipython.wordpress.com
+02:26:20 <Karpagam> my project is check for duplicatio file name in directory ..my first step is to study file reading,file writing..i completed my first step .now i am stronger in file oriented operation and exception handling.
+02:26:23 <shrini> Aravind: your blog is in protected mode
+02:26:39 <shrini> Karpagam: and all wait
+02:26:44 <Aravind> Yes shirni. I will check it
+02:26:47 <shrini> let us go on alphabetic order
+02:27:01 <shrini> so that it will be easy to manage
+02:27:07 <shrini> Aravind: thanks for your updates
+02:27:13 <shrini> make your blog as public
+02:27:17 <Aravind> Ok
+02:27:23 <Tamil> https://github.com/tamilvelan7/weather-api
+02:27:24 <shrini> write blog posts daily
+02:27:31 <shrini> Tamil: wait
+02:27:37 <Karpagam> ok shrini
+02:27:50 <Miranda> Ok Shrini
+02:27:56 <Aravind> Ok shrini
+02:28:17 <shrini> For all, if you have one hour, work for 45 minutes and in remaining 15 minutes, write blog
+02:28:28 <shrini> dont work all the day and skip blogging
+02:28:47 <shrini> your blog posts are very important
+02:28:55 <Karpagam> (y) 
+02:29:02 <Janet> Ok
+02:29:09 <Miranda> OK
+02:29:17 <Muthuramalingam> yes, please give importance to write blog regularly.  
+02:29:19 <shrini> Afer A, we have only J
+02:29:31 <shrini> Janet: your updates?
+02:29:51 <Janet> Yesterday : implemented small program using command line, single image upload successfully done. Static resize done.Today plan: Trying to upload image inside folderFound bit difficult to upload image to a particular folder. Searching Google for fixing this issue. IRC experience blog:
+02:29:52 <Janet> https://janet833259081.wordpress.com/irc-internet-relay-chat/Project blog: https://janet833259081.wordpress.com/python-form-with-profile-picture/
+02:30:34 <Janet> https://janet833259081.wordpress.com/python-form-with-profile-picture/
+02:30:57 <shrini> good work Janet 
+02:31:08 <Janet> Thank u
+02:31:09 <shrini> I like the hand drawn picture
+02:31:19 <shrini> That gives more clarity on the work ln
+02:31:22 <Janet> Thank u
+02:31:26 <shrini> really good
+02:31:41 <shrini> next jprac 
+02:31:41 <Muthuramalingam> yes
+02:31:52 <shrini> I think we covered for jprac already
+02:31:54 <Janet> U gave motivation to write whatever I wish in my blog. Thanks
+02:32:12 <shrini> jprac: go through the tamilvu book site and scrap it
+02:32:24 <shrini> we can use your code to scrap all the books available on that site
+02:32:34 <shrini> next Karpagam 
+02:32:37 <Karpagam> my project is check for duplication file name in directory ..my first step is to study file reading,file writing..i completed my first step .now i am stronger in file oriented operation and exception handling. and also making a small projects .
+02:32:41 <Karpagam> https://meyeti199703659.wordpress.com/2020/06/17/irc-minutes-of-the-meeting/
+02:32:57 <shrini> good
+02:33:05 <shrini> need any help or any questions?
+02:33:11 <jprac> shrini: trying to scrapping
+02:33:17 <shrini> ok jprac 
+02:33:22 <Karpagam> https://meyeti199703659.wordpress.com/
+02:33:39 <shrini> thanks for the good  blog post on yesterday meeting minutes
+02:33:46 <shrini> can you do the same for today meeting too?
+02:33:48 <shrini> Karpagam: ?
+02:34:00 <Tamil> sure
+02:34:02 <Karpagam> yes of course 
+02:34:15 <shrini> next is M
+02:34:20 <shrini> Miranda: hi
+02:34:26 <shrini> Miranda: share your updates
+02:34:42 <Miranda> I have written a blog about my experience about IRC , this is my blog https://mirandalakshmi.blogspot.com/2020/06/this-is-my-first-experience-about.html,then learnt about CV2... 
+02:34:56 <shrini> ok
+02:35:30 <shrini> what is today's plan?
+02:35:57 <shrini> Miranda: ?
+02:36:01 <Miranda> Today I will try image resizing...
+02:36:06 <shrini> ok
+02:36:23 <shrini> next Muthuramalingam - already done. skipping 
+02:36:30 <shrini> next paulpandi 
+02:36:31 <Muthuramalingam> ok
+02:36:37 <shrini> paulpandi: share your updates
+02:36:59 <paulpandi> I have a rough planning about my project structure . 1.have idea about calculation process related on my project. 2. get player details from users, 3.store to database, 4.retrieve and show specfic details to user like this . surely update my blog and start progress on today onwards 
+02:37:24 <shrini> ok paulpandi 
+02:37:37 <shrini> write in detail on what are the details you are going to get from user
+02:37:44 <shrini> and what are the fields in db
+02:37:52 <shrini> what is the db you are planning to use
+02:38:15 <shrini> like this, write all your ideas first in paper or as a blog post
+02:38:22 <paulpandi> ok i will do
+02:38:27 <shrini> this will help[ a lot
+02:38:35 <shrini> next PRIYA27 
+02:38:46 <shrini> PRIYA27: share your updates
+02:40:19 <shrini> PRIYA27: are you there?
+02:40:36 <shrini> seems PRIYA27 is busy
+02:40:46 <shrini> sakthi: you proceed now
+02:41:43 <shrini> sakthi: are you there?
+02:41:47 <sakthi> my project  unversity admission  management system
+02:42:17 <shrini> sakthi: can explain more about it
+02:42:20 <shrini> ?
+02:42:32 <shrini> what that application will do?
+02:42:48 <sakthi> student detail to insert in db
+02:42:59 <sakthi> then fech it
+02:43:08 <shrini> sakthi: ok
+02:43:32 <shrini> write a details blogpost on the plan, what are fields you are going to get as input
+02:43:51 <shrini> what is the db? what is the fetching process etc
+02:44:04 <shrini> Tamil: you proceed
+02:44:14 <Tamil> blog: https://tamilvelanpython.wordpress.com/2020/06/18/irc-internet-relay-chat/ and github: https://github.com/tamilvelan7/weather-api, i write blog on project detail about in today blog
+02:45:33 <shrini> ok Tamil 
+02:45:33 <Muthuramalingam> Good start Tamil - Please keep writing blog
+02:45:45 <shrini> write blog daily before attending this meet
+02:45:52 <shrini> on your work updates
+02:46:01 <Tamil> ok sure
+02:46:06 <shrini> it will help a lot to review it and share updates and suggestions here
+02:46:35 <Tamil> i want one project 
+02:46:39 <Miranda> Ok sure
+02:46:49 <shrini> Tamil: happy to see th ecode in github
+02:46:54 <shrini> dont upload them
+02:47:01 <shrini> learn git and do commit,push
+02:47:10 <shrini> that is the way to use git and github
+02:48:01 <Tamil> I learning little bit 
+02:49:11 <shrini> Tamil: can you take this project https://github.com/KaniyamFoundation/ProjectIdeas/issues/97 ?
+02:49:35 <shrini> Tamil: it is about web scapping, download books from website and upload them to internet archive
+02:49:45 <Tamil> dont upload them? that's means code!
+02:49:55 <shrini> yes Tamil 
+02:50:01 <shrini> in github, dont upload code
+02:50:08 <shrini> push code from command line
+02:50:16 <shrini> learn git and github
+02:50:18 <Tamil> ok sure.
+02:50:27 <shrini> Tamil: explore this link https://github.com/KaniyamFoundation/ProjectIdeas/issues/97
+02:50:54 <shrini> if you fine with the project idea, add a comment that "I am interested in. will work on this" on the same link
+02:51:00 <shrini> so that others wont take that
+02:51:13 <shrini> is it fine Tamil ?
+02:51:30 <shrini> we have ten more minutes to close the meet today
+02:51:40 <PATHMA00> my project is to display calendar.
+02:51:44 <shrini> For all - do you have ay queries?
+02:51:46 <Tamil> I can't clear in API, Please some website
+02:52:01 <shrini> Hi PATHMA00 welcome
+02:52:09 <Miranda> I am having a blog ID using bloggger... But I want to know about wordpress... I tried with wordpress but its asking some minimum amount...
+02:52:20 <PATHMA00> hello sir
+02:52:23 <shrini> Miranda: choose free plan
+02:52:28 <shrini> there should be free plan also
+02:52:34 <shrini> check the screen for ot
+02:52:44 <shrini> or ask here with a screenshot
+02:52:56 <Miranda> OT means?
+02:53:01 <Aravind> API?
+02:53:18 <shrini> replace ot with it
+02:53:21 <shrini> https://pasteboard.co/
+02:53:32 <shrini> upload the screenshot here and  ask here with link
+02:53:40 <shrini> so that we can understand your issue Miranda 
+02:53:48 <Miranda> Ok sure
+02:53:57 <Karpagam> how many days the free plan work ??
+02:54:08 <Muthuramalingam> life time
+02:54:12 <shrini> free plan is life time
+02:54:27 <shrini> for our life time or the wordpress.com organization lifetime
+02:54:35 <shrini> I use it for free for 15 years
+02:54:41 <Karpagam> ok 
+02:55:05 <shrini> PATHMA00: explain more about your project idea
+02:55:12 <PATHMA00> To take month and year input from the user.Then display the calendar.
+02:55:29 <shrini> interesting
+02:55:50 <shrini> write a blog post on the idea and your plans of implementation, reading links etc
+02:55:56 <shrini> and share here anytime
+02:56:00 <PATHMA00> ok 
+02:56:33 <shrini> Tamil: API is Application Programmable Interface
+02:56:43 <shrini> This is how different applications communicate
+02:56:51 <shrini> we can run a program in our computer
+02:56:52 <PATHMA00> And i know more about API ?
+02:57:18 <shrini> how can we run or use the programms in remote computer or remote server?
+02:57:35 <shrini> API is the way to communicate with remote applications
+02:57:51 <shrini> there are many tutorials in internet
+02:57:58 <shrini> search on youtube
+02:58:02 <shrini> check for REST API
+02:58:13 <shrini> you can get many good tutorials and read them
+02:58:20 <shrini> blog on your learnings
+02:58:28 <shrini> whenever you learn something, take notes
+02:58:30 <Tamil> ok thank you
+02:58:36 <Tamil> sure
+02:58:37 <shrini> write your understanding in your words
+02:58:43 <shrini> then publish them as blog posts
+02:58:53 <shrini> they will help a lot to you and others
+02:58:54 <PATHMA00> sure
+02:59:17 <shrini> Muthuramalingam: I awa your question on DB.json here yesterday
+02:59:40 <Muthuramalingam> yes
+02:59:47 <shrini> Even I dont know what is meant by "t:0" in "ச்சிருக்கு":[{"t":"0","w":"த்திருக்கிறது"}]
+02:59:54 <Muthuramalingam> ok
+03:00:00 <shrini> you have to find it out on the patterns
+03:00:10 <Muthuramalingam> any idea / clue to check that
+03:00:21 <shrini> just go through the patterns
+03:00:29 <Muthuramalingam> ok - on pattern side - i could understand a bit
+03:00:33 <Muthuramalingam> i will continue that
+03:00:37 <shrini> make an excel sheet with the data on that file
+03:00:43 <shrini> it will help to find the patterns
+03:00:43 <Muthuramalingam> sure
+03:00:57 <shrini> you can share the excel sheet online too
+03:01:00 <Karpagam>  Representational State Transfer - a software architectural style,REST is a type of API. Not all APIs are REST, but all REST services are APIs,  REST determines how the API looks like
+03:01:03 <Muthuramalingam> sure
+03:01:19 <shrini> Thanks all
+03:01:23 <Muthuramalingam> Thanks
+03:01:31 <Miranda> Thank you
+03:01:43 <Janet> Thank u all
+03:01:47 <Tamil> Thank you
+03:01:48 <shrini> all the today's meeting chatlog is available here - https://freenode.logbot.info/kaniyam/20200618
+03:02:00 <Karpagam> Thank you all
+03:02:04 <shrini> Karpagam: can you make a meeting minutes blog?
+03:02:17 <Karpagam> yes.
+03:02:25 <shrini> collect only the status updates from all
+03:02:25 <Karpagam> sure
+03:02:28 <shrini> thanks
+03:02:39 <shrini> The floor is open
+03:02:42 <PATHMA00> thanks
+03:02:45 <shrini> anyone can ask any question
+03:02:49 <Aravind> Thank you
+03:02:53 <sakthi> i did address book project in django shall i do unversity addmission project in django 
+03:03:13 <shrini> sure sakthi 
+03:03:18 <shrini> if you know django already
+03:03:23 <shrini> you can proceed with it
+03:03:30 <shrini> Another request for all
+03:03:34 <sakthi> ok
+03:03:39 <shrini> Push your code to github daily
+03:03:48 <Janet> Ok
+03:03:49 <Karpagam> ok sure.
+03:03:50 <shrini> even it is half baked code, publish there
+03:04:12 <shrini> in your blogpost, if you want to show code, dont write there directly
+03:04:17 <shrini> indentation in blog is pain
+03:04:19 <Janet> Sure
+03:04:30 <shrini> paste your code at http://gist.github.com
+03:04:37 <shrini> it will create a URL for your gist
+03:04:48 <shrini> copy/paste the gist code in your blogpost
+03:04:57 <shrini> it will be displayed there neatly
+03:05:16 <Muthuramalingam> good link
+03:05:20 <Janet> Sure. Thank u
+03:05:38 <shrini> for a sample check here - http://www.kaniyam.com/deep-learning-18/
+03:06:00 <shrini> Gokul: hi, seeing you here now only.
+03:06:10 <shrini> Is there any update from you Gokul ?
+03:06:38 <Gokul> @shrini : i missed completely yesterday and today as both the days i got scheduled calls .. so please let me know how to proceed ..both the day i joined around 11 PM EST 
+03:06:46 <Gokul> iam in eastern time zone .. 
+03:07:20 <shrini> Wow. we get people from different timezones too
+03:07:24 <shrini> welcome Gokul 
+03:07:29 <shrini> it is fine you are busy for few days
+03:07:37 <Gokul> Sorry but where to join IRC ?? and then attend the session is that correct ..
+03:07:55 <shrini> you are already in the IRC session 
+03:08:02 <shrini> you are corectly joined
+03:08:15 <shrini> Do you know python?
+03:08:16 <Gokul> ohhh then is that any calls going on ?? 
+03:08:25 <shrini> There are no calls
+03:08:34 <Karpagam> shrini can i leave , i will write the blog of today's conversation
+03:08:36 <shrini> all the discussions are only text based
+03:08:42 <shrini> Karpagam: ok
+03:08:49 <Karpagam> thank you
+03:09:01 <shrini> any one can leave anytime, after their udates
+03:09:16 <shrini> Aravind: make your blog public
+03:09:28 <shrini> Go to Manage -> Settings -> General -> Privacy -> Here Check 'Public'.  
+03:09:39 <Gokul> yeah i learned python somehow earlier but i got interested in muthu session so joined and learned from day 1 session .. 
+03:09:49 <shrini> Gokul: nice
+03:09:57 <shrini> so you are ready for projects
+03:10:05 <shrini> do you have any project idea to work on?
+03:10:09 <Gokul> yeah i am ready for the projects .. 
+03:10:53 <Gokul> web scrapping which you explained in our session i can work on .. 
+03:11:26 <shrini> ok Gokul 
+03:11:33 <shrini> let me check 
+03:12:34 <Gokul> i worked in some analytics for example SAS (statistical analysis) and BIRT (Business intelligence Reporting ) and QLik sense BI - those i worked earlier for project related assignments .. but in python i never tried .. so willing to work and check ..
+03:14:50 <Gokul> but above all licensed version which upto your session which is true even client paying more for the license .. so willing to check alternatives .. 
+03:15:23 <shrini> oh. SAS is too costly
+03:15:37 <shrini> pandas can do all the things
+03:15:55 <shrini> we can alternates for most of the commercial software
+03:16:03 <shrini> only mideset should be changed
+03:17:21 <Gokul> yeah srini SAS is too costly actually for assembly plant (FCA Plant division they used for checking more problematic vins and those related view in Graphical representations we used SAS )
+03:17:24 <shrini> Gokul: can you check this https://github.com/KaniyamFoundation/ProjectIdeas/issues/68 ?
+03:17:46 <shrini> not a webscrapping thing
+03:18:08 <shrini> explore opds.in and document its format
+03:18:24 <shrini> then, create sample xml files on that format
+03:18:45 <Gokul> yeah thats fine .. will check more in detail today .. will keep you post the updates .. 
+03:19:09 <shrini> Gokul: update in the below format
+03:19:32 <shrini> what I did yesterday? - explain shortly. share blog url and any code url
+03:19:43 <shrini> what is today's plan?  - share the plan
+03:19:56 <shrini> any obstacles? - ask any doublts, queries
+03:20:06 <shrini> write blog posts daily
+03:20:49 <Gokul> Shrini : so basically we need to update status regarding the project implemenation here, codes  in github and Blogs for our reference .. is that correct ..
+03:22:55 <shrini> Gokul: correct
+03:23:21 <shrini> if you are working on the github issue, I shared, add a comment that you are working it
+03:23:42 <shrini> share your progress on the same issue too daily with all the links
+03:23:57 <shrini> so that other's wont pick the same issue
+03:24:05 <shrini> we can avoid duplicate works
+03:24:24 <shrini> Gokul: check here - http://planet.payilagam.com
+03:24:46 <shrini> all the blogs will be aggregated here every hour
+03:25:01 <shrini> start a blog and share the URL here
+03:25:40 <shrini> Gokul: If it too late for you, you can leave now
+03:25:52 <shrini> I will be in the channel most of the times
+03:26:07 <shrini> Leave mesage here anytime
+03:27:35 <Gokul> Shrini: Sure will the post the updates .. one quick doubt .. for example this week i may get more my office related to issue next week i have more time  .. i am just explanining my current scenario last week i had more time and this week analysing one critical plant issue .. 
+03:29:48 <Gokul> Shrini : i will leave status updates in IRC chat and blogs .. thanks for your inputs ..
+03:35:18 <shrini> Gokul: I got it
+03:35:22 <shrini> no issues 
+03:35:28 <shrini> you can take your own time
+03:35:52 <shrini> This 15 days mentoring plan is for students and freshers
+03:36:02 <shrini> you can take your time
+03:38:08 <shrini> Gokul: you can read the chatlogs here - https://freenode.logbot.info/kaniyam/20200618
+03:38:16 <shrini> yesterday - https://freenode.logbot.info/kaniyam/20200617
+03:38:23 <shrini> if you miss anything
+03:39:07 <Gokul> Shrini: sure thanks .. will check on the github issue briefly and will post the updates ..
+03:40:23 <Gokul> Shrini: * will check on the github issue in detail and post my updates .thanks .
+03:44:11 <shrini> Gokul: thanks
+03:44:24 <shrini> you can leave comments on the issue itself on any quewreis
+03:44:30 <shrini> will reply there
+03:55:12 <Gokul> Shrini : okay thanks will do that .. 

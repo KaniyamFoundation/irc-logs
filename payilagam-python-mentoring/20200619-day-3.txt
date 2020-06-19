@@ -1,0 +1,158 @@
+02:00:18 <karpagam> good morning to everyone
+02:00:23 <Muthuramalingam> Good Morning
+02:00:39 <Aravind> Good Morning
+02:00:52 <Tamil> Good Morning
+02:01:00 <Janet> Good morning all
+02:01:53 <PATHMA00>  Good morning to all
+02:02:11 <shrini> Good morning all
+02:02:35 <Muthuramalingam> We shall start with Status update in alphabetical order.  Please mention 1) What you did yesterday?  2) What is your plan today?  3) Any obstacles 4) Your Blog link, Git Link
+02:02:57 <Muthuramalingam> Aravind please
+02:03:24 <Aravind> Yes.
+02:03:54 <Aravind> Good Morning to all. Below I have Mentioned My blog.
+02:03:57 <Aravind> http://www.aravind.darlingstudio.in/
+02:05:02 <Muthuramalingam> ok
+02:05:15 <Muthuramalingam> Please answer for first 3 questions. 
+02:05:31 <Aravind> I have completed two project via command prompt and i have take another one project webscrab and simultaneously i have above mentioned project change to flask.
+02:06:13 <Muthuramalingam> ok
+02:06:48 <Aravind> Today my plan to work in that project.  What are all the modules need to create the webscrab to leran 
+02:06:51 <Aravind> learn.
+02:06:57 <Muthuramalingam> ok
+02:07:11 <Muthuramalingam> Janet shall we get your updates 
+02:07:28 <Janet> Sure
+02:07:33 <Janet> Yesterday : worked with uploading user data with photo in database. Posted doubts in telegram, found few mistakes in my code. Corrected those code, still not able to store data
+02:07:48 <Janet> Today plan: insert data into database and upload image inside folder.
+02:08:17 <Muthuramalingam> posted doubts in telegram? to group ?
+02:08:21 <Janet> Obstacles : not able to store data in db
+02:08:52 <Janet> Yes, few mistakes are corrected by team members
+02:09:08 <Janet> Getting help from Google trying to store data without profile picture, so I can get where the problem is. Then work on image upload concept. 
+02:09:21 <Muthuramalingam> ok
+02:09:35 <Muthuramalingam> did you register yourself in ChennaiPy Mailing list
+02:09:36 <Janet> Blog :https://janet833259081.wordpress.com/project-draft-1/
+02:09:50 <Miranda> Yesterday:Started to post blog related to my project and uploaded the code to read and show image..
+02:10:08 <PATHMA00> 1.In yesterday i am creating the Database connection of my program and create a front end page using HTML&CSS.2.Today my plan to work in that projecToday i am write my program in flask.
+02:10:32 <Janet> Yes registered
+02:10:40 <Muthuramalingam> ok Janet
+02:10:54 <Muthuramalingam> PATHMA00 We are going by alphabetical order 
+02:11:22 <PATHMA00> sry sir 
+02:12:03 <Muthuramalingam> no issues
+02:12:22 <Muthuramalingam> good try Janet
+02:12:41 <Muthuramalingam> Karpagam - your status please
+02:12:41 <Janet> Still trying. Thank you
+02:12:49 <karpagam> there are n nomber of moudules in python ,My program is going to compute a hash for every file, allowing us to find duplicated files even though their names are different. All of the files that we find are going to be stored in a dictionary, with the hash as the key, and the path to the file as the value: { hash: [list of paths] }. there are many
+02:12:50 <karpagam> constant attribute in hashlib,they arehash.digest_size,hash.block_size,hash.update,hash.digest(),hash.hexdigest()
+02:13:20 <karpagam> https://meyeti199703659.wordpress.com/2020/06/18/why-i-choose-this-project-check-for-duplication-file-name-in-directory-python/
+02:14:10 <Miranda> Yesterday:Started to post blog related to my project and uploaded the code to read and show image..
+02:14:11 <Miranda> https://mirandalakshmi.blogspot.com/2020/06/reading-and-displaying-image-using-cv2.html
+02:14:50 <Gokul> Good morning everyone .. Shrini & Muthu : Just joined .. saw some note from Muthu regarding alphabetical order so pls let me know when i can update my status ..thanks 
+02:15:17 <Muthuramalingam> Miranda - good one, what is your project plan?
+02:15:52 <Miranda> I have written in my blog, shall explain now?
+02:15:55 <Muthuramalingam> ok Gokul
+02:16:11 <Miranda> Shall I Explain?
+02:16:15 <Muthuramalingam> Miranda - yes, I read that.  Title please
+02:16:41 <Muthuramalingam> Gokul and jrak - after Miranda - please go ahead. 
+02:16:46 <Muthuramalingam> jprak
+02:16:50 <Miranda> Snap and store your photos...
+02:16:56 <Muthuramalingam> ok
+02:17:15 <Muthuramalingam> What is today's plan?
+02:18:40 <Muthuramalingam> Miranda - are you there?
+02:18:59 <Miranda>  plan to resize images, learn about pillow module... Just now I came across pillow module...Now I'm working in anaconda Jupiter.. but don't know how to work in python IDLE
+02:19:05 <Miranda> s muthu
+02:19:11 <Muthuramalingam> ok
+02:19:26 <Muthuramalingam> please continue. 
+02:19:50 <Miranda> How to run html files in jupiter?
+02:20:16 <shrini1> Don't go with jupyter
+02:20:17 <Muthuramalingam> python IDLE is only for beginning.  you can try in jupiter or other IDEs
+02:20:34 <shrini1> Just use notepad++ or atom editors
+02:20:56 <shrini1> Edit code in editor and run from command prompt
+02:21:03 <Miranda> ok shrini.. reason ?
+02:21:27 <shrini1> Too many tools add too many complexity
+02:21:43 <Miranda> Ok shrini..
+02:21:54 <shrini1> See here, you asked how to run HTML files in jupyter?
+02:22:05 <Miranda> S
+02:22:22 <Muthuramalingam> shrini1 yes, this is good point.  When we start using tools, we slowly shift from our project and will move about learning the tool
+02:22:22 <shrini1> We can avoid these kind of new issues, if you use simple editor
+02:22:38 <Miranda> Ok muthu..
+02:23:21 <shrini1> Tech questions later
+02:23:31 <shrini1> Let us finish the status updates first
+02:23:43 <Muthuramalingam> Gokul - could you please brief 
+02:23:43 <Miranda> Ok shrini..
+02:24:08 <jprak> My project is to scrap a product details from 2 webites  and compare the prize . I was done the one details from website how to scrap multiple website product data's and compare it 
+02:24:16 <Gokul> My Blog : https://gokulpayilagam.wordpress.com/2020/06/18/joined-irc-chat-for-learn-more-technical-discussions/
+02:25:19 <Muthuramalingam> ok
+02:25:27 <Muthuramalingam> today's plan?
+02:25:40 <Gokul> Just started reading what is OPDS (Open Publication distribution system) how to implement and how to read the xml content and how pulling the data 
+02:25:58 <Muthuramalingam> ok
+02:26:27 <Gokul> I implemented reading xml to java ..but python xml and interconnecting OPDS little new to me .. so first trying to understand what is OPDS 
+02:26:38 <Gokul> and then need to go further from there .. 
+02:26:44 <Muthuramalingam> ok
+02:27:17 <Muthuramalingam> jprak - today's plan is scrapping multiple websites?
+02:27:25 <Muthuramalingam> blog and git link please
+02:28:00 <Gokul> As i mentioned got my office related high priority issue this week which pulling me back .. So plan to dedicate some hours this weekend and try to be in good shape may be next week .. 
+02:28:51 <Muthuramalingam> ok Gokul
+02:29:03 <Muthuramalingam> it seems jprak is not availbe
+02:30:33 <Muthuramalingam> My updates: I didnt spend time on tamil word pattern yesterday. Went out and couldnt spend time.  Prepared a small video on Tamil - Speech to Text last night https://www.youtube.com/watch?v=EyZHRnKV4dM .  Today - I will start working on Tamil word pattern.  No obstacles.  
+02:30:53 <Muthuramalingam> PATHMA00 -  your updates please
+02:32:39 <jprak> https://notes279386890wordpress.com/
+02:32:59 <Muthuramalingam> jprak - please check this link
+02:34:25 <Muthuramalingam> Ok, PATHMA0032 - already shared status
+02:34:38 <Muthuramalingam> sakthi - status please
+02:34:43 <sakthi> using username and password login default username and password value store in database if it same open home page
+02:34:48 <sakthi> https://pythonprogram006.wordpress.com/2020/06/18/python-project/
+02:36:05 <Muthuramalingam> sakthi - do you know django framework?
+02:36:06 <shrini1> Github link sakthi ?
+02:36:17 <sakthi> yes
+02:36:27 <Muthuramalingam> yes, you can add git link in blog post itself
+02:36:41 <sakthi> not cretae github link
+02:37:09 <Muthuramalingam> please do and share your code
+02:37:10 <shrini1> Commit to git daily and share here along with the blog link
+02:37:35 <sakthi> sure
+02:38:13 <Muthuramalingam> today's plan sakthi?
+02:38:43 <sakthi> get student details 
+02:38:55 <sakthi> store in database
+02:39:11 <Muthuramalingam> ok
+02:39:30 <Muthuramalingam> Tamil - your status please
+02:39:55 <Tamil> What you did yesterday: install all module for using web scraping.
+02:40:21 <Tamil> obstacles: I install pandas module for web scraping. but i can't import pandas
+02:40:44 <Tamil> can I share error message?
+02:41:06 <Muthuramalingam> did you first try in internet for getting the answer?
+02:41:54 <Tamil> already seaching but i can't clear the error.
+02:43:11 <Janet> I like to share one thing, if all of us have typed Yesterday work, today's plan, obstacles details before starting this session, it will be easy to paste when asked for updates. we get some more time to discuss about technical issues
+02:43:40 <Muthuramalingam> what error you are getting Tamil
+02:43:49 <Muthuramalingam> sakthi - what db you plan to use?
+02:43:58 <Tamil> Error messsage: import pandas._libs.window.aggregations as window_aggregations
+02:43:58 <Tamil> ImportError: DLL load failed while importing aggregations: The specified module could not be found.
+02:44:27 <sakthi> django have database
+02:45:35 <Muthuramalingam> yes, django supports MySQL.  Do you have enough ideas - like creating tables, maintaining them. 
+02:46:36 <sakthi> yes it will support mysql 
+02:47:40 <Muthuramalingam> Tamil - please skip importing pandas as of now.  As Pandas is related to data analysis.  
+02:48:22 <Tamil> ok
+02:48:22 <Muthuramalingam> Tamil - Please start writing your steps in a paper first.  What is your first step, second step and so on.  Try to complete the steps one by one.  
+02:49:11 <sakthi> with sql query can't connect database in django It have own format to connect database
+02:49:51 <Tamil> ok sure
+02:49:56 <Muthuramalingam> sakthi - django supports mysql.  But it is our responbility to create and maintain the tables.  
+02:50:21 <Muthuramalingam> if you dont have idea about this, try doing the same as command line project
+02:50:36 <sakthi> ok
+02:51:29 <Tamil> blog: https://tamilvelanpython.wordpress.com/2020/06/19/what-is-the-weather-scrap-any-weather-site-or-use-any-weather-api-service-to-find-weather/ and Github: https://github.com/tamilvelan7
+02:51:44 <Tamil> Today Plan: Learn more about Web Scraping
+02:52:01 <Muthuramalingam> ok
+02:52:20 <Muthuramalingam> sakthi - think about - 4)after enter student details then store in the database.
+02:52:34 <Muthuramalingam> and have a detailed plan on the same
+02:52:55 <Muthuramalingam> mohan43u - sorry we missed you
+02:53:08 <Muthuramalingam> your status, blog and git link please
+02:54:49 <Muthuramalingam> mohan43u are you there
+02:57:42 <Miranda> Time is running out..Please answer..
+02:58:11 <shrini1> mohan43u: is a ilugc member
+02:58:17 <Muthuramalingam> ok
+02:58:17 <shrini1> He is a mentor
+02:58:21 <Muthuramalingam> oh.. ok
+02:58:38 <shrini1> He is the maker of training.ilugc.in
+02:58:40 <Miranda> ok shrini..
+02:59:03 <Muthuramalingam> shall we wind up then, if everything is covered?
+03:00:53 <mohan43u> Muthuramalingam: sorry, I was away from my laptop. just now looked your messages, not able to respond quickly
+03:02:15 <Muthuramalingam> no issues, we got details from shrini
+03:03:24 <Muthuramalingam> ok, fine.  Let us finish our discussions here.  Thanks all 
+03:04:25 <Gokul> Muthu & Shrini : one quick doubt or suggestion .. why cant we have email group for our folks ..so instead of sharing the error message we can share to the email group so it will be easy for future reference before checking any issues in google, we can check in our email box also .. 
+03:05:58 <Janet> Thanks 
+03:05:59 <Muthuramalingam> Gokul - Yes, thats the plan.  If they face any issue, they can send mail to ChennaiPy Mailing list.  Thus, we could get answer from python experts easily.  
+03:06:47 <Gokul> Because seeing doubts either in screenshot or attachment is not clear .. or if we we missed 3 to 4 days of chats .. we want to go top to the Telegram to see what happned last 4 days .. 
+03:06:59 <Gokul> Ohhh okay okay .. then fine .. thanks 
