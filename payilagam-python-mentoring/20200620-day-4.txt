@@ -1,0 +1,255 @@
+01:59:15 <Muthuramalingam> Good Morning
+01:59:48 <Aravind> Good Morning
+02:00:27 <Muthuramalingam> Shall we start in two minutes
+02:00:37 <karpagam> ok muthu
+02:00:53 <Muthuramalingam> Please have your updates - What you did yesterday, What is your plan today, any obstacles
+02:01:21 <Muthuramalingam> Alphabetical order
+02:01:27 <Muthuramalingam> From Aravind
+02:01:30 <Aravind> Ok
+02:01:43 <Aravind> Good morning to all,
+02:01:48 <Tamil> Good morning
+02:01:54 <Janet> Good morning all
+02:02:34 <Muthuramalingam> First of all, thanks to karpagam for daily writing Minutes of Meeting in her blog - https://meyeti199703659.wordpress.com/2020/06/19/irc-day-3-minutes-of-the-meeting/
+02:02:50 <Aravind> Idea of this project and obstacles:-
+02:02:51 <Aravind> product name and view in table format only. After, that i have analysis that full project idea.
+02:02:52 <Aravind> framework.
+02:03:16 <Muthuramalingam> Aravind - blog and git link please
+02:03:31 <Aravind> Below, I have mention the blog:-
+02:04:32 <Muthuramalingam> your blog looks private
+02:04:45 <Aravind> No
+02:04:45 <Muthuramalingam> please go to Manage - Settings - public 
+02:05:05 <karpagam> Muthuramalingam : thank you sir 
+02:05:08 <Muthuramalingam> I am getting "This site is marked private by its owner. If you would like to view it, you’ll need permission from the site owner. Request an invite and we'll send your username to the site owner for their approval." message
+02:05:51 <Muthuramalingam> Aravind - can you narrate more on your tasks 
+02:06:09 <Aravind> Ok Muthu
+02:06:56 <karpagam> My pycharm display (no interpreter) while i am running the program
+02:07:02 <Aravind> Scrap the flipkart.com and when i enter any product the display the price rate.
+02:07:16 <karpagam> actually i installed 2 time in my laptop
+02:08:04 <Muthuramalingam> karpagam as shrini instructed yesterday, please do in notepad++ or atom - No Pycharm or other IDEs. 
+02:08:21 <Gokul> Good morning all ..
+02:08:32 <karpagam> Muthuramalingam: ok sir
+02:08:41 <Muthuramalingam> Aravind - What you did yesterday on that project.  What is today's plan. 
+02:09:51 <Aravind> I have completed price rate Today Plan: Scrab the product name.
+02:10:06 <Muthuramalingam> ok good to hear.  git link please
+02:11:12 <Muthuramalingam> For All - please remember our Status Update Structure - 1. What you did yesterday.  2. What is your plan today.  3. Any obstacle  4. Blog and git link.  
+02:11:16 <Aravind> I am not pull my project via git. Once, I have completed that project. i will uplode it.
+02:11:35 <Muthuramalingam> Aravind - No, please start using git immediately.  
+02:11:45 <Aravind> Ok Muthu
+02:11:53 <shrini1> Commit daily
+02:12:00 <Muthuramalingam> No upload in git.  Please learn Pull Request, Commit.  
+02:12:10 <shrini1> Push daily
+02:12:17 <Aravind> Ok Muthu & Shirni
+02:12:27 <Muthuramalingam> thanks, please share your blog link also. 
+02:13:03 <Aravind> Today onwords, I will start to learn pull and commit and uploded my project.
+02:13:21 <Aravind> http://www.aravind.darlingstudio.in/python.html
+02:13:51 <Aravind> This is my domain link. http://www.aravind.darlingstudio.in/python.html
+02:14:14 <Muthuramalingam> Good one Aravind
+02:14:31 <Aravind> Thanks
+02:14:53 <Muthuramalingam> In your blog, for reading separate posts, you can have proper URL.  Now, it looks like same URL for all posts.  
+02:15:20 <Aravind> Ok 
+02:15:25 <Muthuramalingam> Gokul - great to see your commitment.  Though it is late night for you, you connected here.  
+02:15:29 <Muthuramalingam> Your status please
+02:16:53 <Muthuramalingam> Gokul - are you there
+02:17:08 <Muthuramalingam> If he is busy, Janet please
+02:17:08 <Gokul> Sure thanks Muthu .. actually today tried implementing some opds web client .. which i can parse the xml which shrini wanted formated 
+02:18:10 <Muthuramalingam> ok, today's plan and blog, git link please
+02:18:16 <shrini1> It can be a command line client Gokul 
+02:18:25 <shrini1> No fancy is required
+02:19:07 <Gokul> Sorry typing technical details  if i going anything wrong either of you can correct me right .. so trying to detail .. and more over github i will move the code tomo for sure .. its really not completed .. but will upload end of the day 
+02:19:08 <Gokul> ohhh
+02:20:13 <shrini1> Put all the details in a blog post 
+02:20:20 <shrini1> We can read all there
+02:20:42 <Gokul> Shrini : okay will check the command line client .. nothing fancy .. just created web page and where i am trying to read the xml ..
+02:20:54 <Gokul> okay shrini will do that today .. 
+02:21:06 <shrini1> In standup meet, just give status updates
+02:21:53 <Muthuramalingam> Janet - I couldnt read your blog posts from https://janet833259081.wordpress.com/ link.  Can you please check and make readers to view other posts.  It is just settings change.  You can easily do.  
+02:22:00 <Muthuramalingam> Janet - your updates please
+02:22:09 <Janet> OK sure
+02:22:15 <Janet> Yesterday : User information is stored along with profile picture in database and uploads folder
+02:22:24 <Gokul> Shrini : Sure will do that .. 
+02:22:38 <Janet> Today's plan: need to work with view user data with profile picture. Calculate age from stored data of birth. Obstacles : struggled little to upload image inside folder. 
+02:22:55 <Janet> Project blog:  https://janet833259081.wordpress.com/project-user-profile-upload/
+02:23:09 <Janet> Github link: https://github.com/janetaj/User-Profile-Upload---Python-SQLITE3
+02:25:20 <Muthuramalingam> Good Janet. 
+02:25:27 <Muthuramalingam> - For blog writers - humble request - you can create n number of wordpress sites with single account.  When you name your wordpress - please have readable and easily rememberable wordpress site name.  
+02:25:51 <Janet> OK. Thank you
+02:26:01 <Muthuramalingam> For example, janet833259081.wordpress.com, https://meyeti199703659.wordpress.com/ are very difficult to remember.  
+02:26:31 <Janet> Will update shorter
+02:26:57 <shrini1> Check in settings for displaying latest posts in home page Janet 
+02:27:06 <Muthuramalingam> https://tamilvelanpython.wordpress.com/ , https://gokulpayilagam.wordpress.com/ are easy to remember.  Now, Janet, Karpagam - cannot even tell their wordpress site link to others.  
+02:27:11 <Janet> OK shrini
+02:27:16 <Muthuramalingam> karpagam - status please
+02:27:47 <karpagam> Yesterday i did write a code  to check a image duplication but i got some other issue,,my todays  plan to  complete the check image duplication and then write a code on video duplication.. i can't write a blog yesterday because i can't get the correct output
+02:27:54 <karpagam> Muthuramalingam: ok sure
+02:28:06 <Muthuramalingam> Janet - you can add git link in blog post itself.  
+02:28:26 <Janet> OK will update that too
+02:28:37 <shrini1> karpagam: blog is to record the travel
+02:28:44 <shrini1> Not only the results
+02:28:58 <shrini1> We can record all the errors and failures too
+02:29:09 <shrini1> Blog daily
+02:29:22 <Muthuramalingam> Karpagam - Why Image duplication and video duplication - I could remember your project is about duplication file name in directory
+02:29:29 <shrini1> For code, Commit often, push daily
+02:29:39 <karpagam> ok shrini ,i will post my code in the blog
+02:30:18 <shrini1> Use gist.github.com to paste code and paste that link in WordPress post
+02:30:18 <karpagam> Muthuramalingam:i thought file means txt,doc,jpd,..
+02:30:59 <Muthuramalingam> yes, you are going to find duplicate file names right.  
+02:31:07 <karpagam> yes
+02:31:34 <Muthuramalingam> ok, please share your blog and git link later if it is not available immediately.  
+02:31:58 <karpagam> ok sure.
+02:32:50 <Miranda> Yesterday : Installed notepad ++.....Learnt about pillow image library and uploaded the code to read and show image
+02:32:51 <Miranda> ModuleNotFoundError: No module named 'flask' 
+02:32:56 <Miranda> https://mirandalakshmi.blogspot.com/2020/06/pillow-image-library-installation.html
+02:35:15 <Muthuramalingam> Miranda - your project is resizing images right.  
+02:35:22 <Muthuramalingam> you can leave flask issues as of now. 
+02:35:23 <Miranda> S muthu
+02:35:44 <Miranda> ok muthu
+02:36:10 <Muthuramalingam> what is today's plan Miranda
+02:36:31 <Muthuramalingam> please commit your code regularly in git as well. 
+02:36:36 <Miranda> resizing the image.. i mentioned above
+02:36:42 <Miranda> ok muthu
+02:36:47 <Muthuramalingam> ok
+02:37:04 <Muthuramalingam> Now, it is my turn.  Yesterday - I spent some time on reading Tamil words Grammar structure. Listened to Nannool video in youtube.  Learned few things for my spell checker project.  Today I will continue that.  
+02:37:12 <Muthuramalingam> My blog link: https://kadanthavai.wordpress.com/2020/06/19/%e0%ae%a8%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%82%e0%ae%b2%e0%af%8d-%e0%ae%95%e0%af%81%e0%ae%b1%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%a8%e0%ae%be%e0%ae%b3/
+02:37:27 <Muthuramalingam> no git commit is needed for yesterday's task. 
+02:37:49 <Muthuramalingam> sakthi - your status updates please
+02:38:03 <sakthi> https://pythonprogram006.wordpress.com/2020/06/18/python-project/
+02:39:36 <Muthuramalingam> sakthi - no post is written for yesterday's task?
+02:40:03 <Muthuramalingam> Please share - What you did yesterday, Whats today's plan, any obstacle
+02:40:40 <sakthi> enter the student details fields name,father name,gender,dob,email,mark,fees,phone number,address stored in database sqlite3 in django framework. This module completed.gender field is not working today i will finished this work and fetch the given student details in database.then show in frontend.githublink:
+02:40:40 <sakthi> github.com/sakcse006/university_admission
+02:41:11 <Muthuramalingam> For everyone - Please write about yourself in your wordpress site's 'About' page.  You can introduce yourself there.  
+02:41:15 <shrini1> Add screenshots sakthi in blog posts. They will help a lot
+02:41:29 <sakthi> sure 
+02:41:43 <shrini1> Muthuramalingam: don't use please here
+02:41:51 <shrini1> No fancy words
+02:42:01 <shrini1> Just write straightly
+02:42:11 <Janet> OK 
+02:42:20 <Miranda> ok
+02:42:31 <Muthuramalingam> shrini1 sure. 
+02:43:40 <Muthuramalingam> Tamil - your turn now
+02:44:26 <Tamil> yesterday I complete web scraping using download book
+02:44:39 <Tamil> Today task is Upload book to Internet archive
+02:45:00 <Tamil> blog: https://tamilvelanpython.wordpress.com/2020/06/20/web-scraping-using-download-books-from-website/
+02:45:18 <Tamil> my github: https://gist.github.com/tamilvelan7/039b54321d5810a37f474330476247ff
+02:46:35 <shrini1> Tamil: you should get all the book URLs programmatically
+02:46:46 <shrini1> Don't give the URLs manually
+02:47:11 <shrini1> Parse the HTML content of the page given and get all the PDF URLs programmatically
+02:47:20 <shrini1> Upload is last part
+02:47:45 <shrini1> First parse the HTML and Print all the PDF URLs
+02:47:52 <shrini1> Then download them all
+02:47:59 <shrini1> Then look for upload
+02:48:07 <Tamil> ok my today task is get all the book URL
+02:48:09 <Muthuramalingam> Tamil - yes, learn parsing HTML and printing PDF URL
+02:48:17 <shrini1> Ok
+02:48:19 <Tamil> ok
+02:48:51 <Muthuramalingam> all statuses are done.  
+02:49:04 <Muthuramalingam> Anything we missed today?
+02:49:16 <Muthuramalingam> shrini - you can add more if missed. 
+02:50:42 <Muthuramalingam> shrini1 - what is the difference between gist.github.com and github.com - which link we should give. 
+02:51:06 <shrini> github.com is to host all our entire git repositories
+02:51:32 <shrini> gist is to store one program snippet and share it on blogposts quickly
+02:51:53 <shrini> it blogs, indentation is very tough. we have to indent manually for all lines
+02:51:56 <shrini> it is too tough
+02:52:05 <shrini> just paste in gist.github.com 
+02:52:15 <shrini> it knows all languages and will keep the indentations
+02:52:22 <shrini> then paste the links in blogposts
+02:52:42 <shrini> Miranda: did you search net for the error "no module named flask"
+02:52:45 <shrini> ?
+02:52:55 <Miranda> s shrini
+02:53:20 <shrini> ok
+02:53:26 <Miranda> In that only I got different options to install Flask
+02:53:45 <shrini> what are they?
+02:54:42 <shrini> write a blog about it too
+02:54:44 <Miranda> one using setting option, other using pip command, next pip3, then last i tried with virtual environment..
+02:54:45 <Muthuramalingam> Miranda - Upload your screenshot in any site like https://paste.pics/ and share it here
+02:54:55 <Miranda> ok muthu
+02:55:20 <Miranda> ok shrini
+02:55:52 <shrini> use pip3 for now
+02:56:10 <shrini> virtual environment is seperate learning task
+02:56:13 <shrini> do it later
+02:56:18 <Miranda> ok shrini
+02:56:30 <shrini> Hope you all joined chenaipy mailing list
+02:56:37 <shrini> did you all get approved?
+02:56:40 <Janet> Yes 
+02:56:44 <Aravind> Yes
+02:56:50 <karpagam> No
+02:56:56 <Tamil> yes
+02:57:04 <Miranda> S got approved ..I am receiving mail..
+02:57:13 <shrini> feel free to ask questions there
+02:57:29 <shrini> remember - no attachments - no HTML mail
+02:57:41 <shrini> just send plain text mail to any mailing list
+02:57:44 <Miranda> but don't know how to join that meeting shrini
+02:59:04 <shrini> seems only one talk today
+02:59:07 <shrini> https://www.meetup.com/Chennaipy/events/271384907/
+02:59:19 <Miranda> ok shrini
+02:59:23 <shrini> join here also and mark as "Attending"
+02:59:35 <shrini> link will be shown for people who like to attend
+02:59:36 <Miranda> ok shrini
+02:59:41 <shrini> just to make spam free
+03:00:16 <shrini> Can anyone write a meeting minutes blog post for today's meeting?
+03:00:25 <shrini> karpagam did for past 3 days
+03:00:40 <shrini> shall we have a new volunteer for today?
+03:00:47 <Janet> Shall i
+03:00:51 <shrini> just make a post with everyones updates
+03:00:54 <shrini> sure Janet 
+03:01:00 <Janet> OK. 
+03:01:25 <shrini> https://freenode.logbot.info/kaniyam/20200620
+03:01:33 <shrini> All todays chatlogs are here
+03:01:56 <Janet> OK shrini
+03:02:06 <Aravind> http://www.aravind.darlingstudio.in/mailing.html
+03:02:17 <Aravind> Daily Chatlog link
+03:03:06 <shrini> Aravind: ok. change the html file name from "mailing.html" to irclogs.html
+03:03:13 <shrini> will be relevant
+03:03:25 <shrini> check here - http://planet.payilagam.com/
+03:03:32 <Aravind> Ok Shirni
+03:03:39 <shrini> to get all ours blog posts on a single page
+03:03:49 <shrini> This is called RSS aggregation
+03:04:10 <shrini> you write on your blog and we read on our own software/platform
+03:04:52 <shrini> we wont get these on properitory software like facebook, medium etc
+03:05:17 <shrini> so always write on open source blog software like wordpress, write.as etc
+03:05:55 <shrini> I see enourmous efforts are being put 
+03:05:58 <shrini> Thanks all
+03:06:21 <Janet> Thank u all
+03:06:24 <shrini> Another assignment - read this post - http://www.catb.org/~esr/faqs/smart-questions.html
+03:06:35 <shrini> and write a blog post on your learnings
+03:06:43 <miranda> Thank you all
+03:06:46 <Aravind> Thank you to all
+03:06:54 <shrini> This will be a lifetime learning
+03:07:27 <shrini> while reading this, make notes with paper/pen or a text editor like emacs, vim or notepad++
+03:07:39 <shrini> then make a blogpost from the notes
+03:07:46 <shrini> write notes on your words
+03:08:08 <shrini> this note taking habit will be a great asset for your entire life.
+03:08:17 <shrini> Thats all from me today
+03:08:48 <shrini> Muthuramalingam: what about tomorrow?
+03:09:14 <shrini> Shall we have meeting or sunday leave?
+03:09:23 <shrini> all -  share your thoughts
+03:10:03 <Muthuramalingam> we can leave sunday
+03:10:14 <shrini> hmm
+03:10:16 <Muthuramalingam> can connect by Monday
+03:10:23 <Aravind> ok
+03:10:25 <shrini> what others say?
+03:10:30 <shrini> let them decide Muthuramalingam 
+03:10:35 <Muthuramalingam> ok
+03:10:39 <Tamil> sunday leave. post blog on How To Ask Questions The Smart Way on Monday!
+03:11:37 <shrini> Aravind: Gokul miranda  ?
+03:12:30 <Aravind> Sunday Leave. We have more time spent time with our project. Most of them working profession in this group.
+03:14:08 <shrini> okey
+03:14:14 <Aravind> We need more time to spent with our project.
+03:14:16 <Aravind> Ok
+03:14:24 <Aravind> thank you to all
+03:14:25 <shrini> then see you all on monday
+03:14:42 <Tamil> thank you all 
+03:14:47 <Aravind> We will connect Monday 
+03:14:49 <shrini> check meetup.com 
+03:15:03 <shrini> there will be many online meeting hapeening all the weekends
+03:15:10 <shrini> try to attend few meetings
+03:15:28 <shrini> bye all
+03:15:49 <Gokul> Shrini : Yes Please .. Just reading above messages
+03:16:25 <shrini> ok Gokul thanks for all your efforts
+03:28:54 <Gokul> Sure actually i used to webniar sessions in techgig related to cloud computing ,
+03:29:35 <shrini> ok Gokul 
+03:30:31 <Gokul> recently mango db session but not concentrated much ..so if everybody okay then i can post the link in our telegram group as well .. thought not to confuse freshers or newly joined folks .. just posted to logesh and asked to share what are all needed pls share .. 
+03:45:41 <shrini> Gokul: feel free to share anything on telegram group, if relevant to tech
+03:46:16 <shrini> there are around 120 people there and only 5-8 are doing project
+03:47:30 <Gokul> Yes iam talking about tech details only .. 
+03:49:46 <Gokul> sure will share from now on  .. and regarding Sunday ( for me anything okay even if we have meeting its okay for me ) .. based on others decision we will proceed .. thanks ..
