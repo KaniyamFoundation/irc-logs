@@ -1,0 +1,288 @@
+02:01:28 <Muthuramalingam> Good Morning
+02:01:36 <karpagam> good morning
+02:02:03 <Muthuramalingam> We have  a new comer today?  jasonbraganza?
+02:02:45 <Muthuramalingam> Shall we start our status updates alphabetically
+02:02:51 <Muthuramalingam> From Janet
+02:03:40 <Muthuramalingam> 1) What we did yesterday?  2) What is your plan today?  3) Any Obstacles 4) Blog and git link
+02:03:47 <Muthuramalingam> Janet are you there?
+02:04:15 <Janet> Sure
+02:04:46 <Janet> Yesterday : All the  User information is displayed with view, edit, delete option. Once view button is clicked displayed corresponding data with profile picture. 
+02:04:58 <Janet> Today's plan: need to work with edit and delete user data. 
+02:05:10 <Janet> Obstacles : calculation age from date of birth. 
+02:05:30 <Janet> Blog: https://janetpython.wordpress.com/project-view-user-profile/
+02:05:55 <Muthuramalingam> nice that you changed your wordpress blog name 
+02:06:13 <Janet> With help of your guidance. Thank u
+02:06:48 <Muthuramalingam> Hope Janet will complete this project today 
+02:07:08 <Muthuramalingam> Good to see the project updates in blog
+02:07:17 <Muthuramalingam> karpagam status
+02:07:23 <karpagam> yesterday : i did a program check file in a directory.and learn about python os module,python hashlib module.
+02:07:34 <karpagam> https://wordpress.com/block-editor/post/meyeti199703659.wordpress.com/230
+02:07:35 <Janet> Bit difficult in age calculation, that I have mentioned in my blog. Today I will fix that
+02:07:42 <karpagam> https://wordpress.com/block-editor/post/meyeti199703659.wordpress.com/243
+02:07:49 <karpagam> https://wordpress.com/block-editor/post/meyeti199703659.wordpress.com/250
+02:08:10 <Muthuramalingam> can you please share proper link karpagam 
+02:08:17 <Muthuramalingam> you are sharing admin link
+02:08:47 <karpagam> https://meyeti199703659.wordpress.com/2020/06/20/python-sys-module/
+02:08:59 <karpagam> https://meyeti199703659.wordpress.com/2020/06/21/python-hashlib/
+02:09:00 <Muthuramalingam> https://meyeti199703659.wordpress.com/2020/06/21/check-file-in-a-directory/
+02:09:11 <karpagam> https://meyeti199703659.wordpress.com/2020/06/21/check-file-in-a-directory/
+02:09:42 <Muthuramalingam> In blog, instead of screenshot of the programs - you can use gist.github.com and share the code
+02:09:53 <Muthuramalingam> thus Search Engines can easily find your blog
+02:09:59 <karpagam> ok sure
+02:10:24 <Miranda> Yesterday : uploaded the code to rotate an image,resized the image. 
+02:10:25 <Miranda> https://mirandalakshmi.blogspot.com/2020/06/how-to-install-uninstall-and-check.html
+02:10:25 <Muthuramalingam> how far you reached in your project goal karpagam
+02:11:03 <karpagam> check file in a directory
+02:11:25 <Muthuramalingam> ok, what is pending and what is today's plan?
+02:12:35 <Muthuramalingam> karpagam - are you there
+02:12:50 <karpagam> sorry to ask this,think about what i can store in database
+02:13:50 <Muthuramalingam> database is not necessary for all projects. If needed in your project - you can add that.  Otherwise, you can leave it. 
+02:14:37 <karpagam> so   my project is over right?
+02:15:19 <Muthuramalingam> yes.  What is your next plan?  
+02:15:49 <Muthuramalingam> Please think about it.  Write a detailed blog on the same. 
+02:16:12 <Muthuramalingam> Miranda - your status please
+02:16:21 <Miranda> Yesterday : uploaded the code to rotate an image,resized the image. 
+02:16:22 <Miranda> https://mirandalakshmi.blogspot.com/2020/06/how-to-install-uninstall-and-check.html
+02:17:39 <Muthuramalingam> karpagam - commit and push your code to git repository.  If you dont know commit and push in git - learn, do and write a blog on the same. 
+02:18:20 <Muthuramalingam> Nice Miranda - you wrote blog on flask installation as shrini suggested. 
+02:18:28 <Miranda> S muthu
+02:18:40 <Miranda> Thank You..
+02:19:01 <Muthuramalingam> Where is upload, rotate, resize image - blog and git link. 
+02:19:54 <Miranda> I have uploaded in my blog...Now only trying to learn about Git..
+02:20:13 <Muthuramalingam> blog link?
+02:20:29 <Miranda> https://mirandalakshmi.blogspot.com/2020/06/image-processing-using-pillow.html
+02:21:05 <Miranda> I have already uploaded three link one for falsk, other for project and another one for assignment
+02:21:56 <Miranda> https://mirandalakshmi.blogspot.com/2020/06/dos-and-donts-in-forum-e-mail-and-irc.html
+02:22:00 <Muthuramalingam> Miranda - So, your task is done?
+02:22:19 <Muthuramalingam> What is your plan today?
+02:22:30 <Miranda> S muthu..But I have to upload in flickr...
+02:23:09 <shrini1> Miranda: you have to add a footer text on images
+02:23:20 <shrini1> Before flicker
+02:23:24 <Miranda> Ok sure Shrini...
+02:23:42 <Miranda> Today I ll try to add...
+02:23:43 <shrini1> Get text from user and add the text at bottom or as watermark
+02:23:54 <Muthuramalingam> good idea. 
+02:24:00 <Miranda> Ok shrini..
+02:24:03 <Muthuramalingam> Miranda you can implement this. 
+02:24:18 <Miranda> Ok muthu..
+02:25:54 <Muthuramalingam> My Updates: Saturday - I spent time on learning tamil grammar basics and I had a thirukkural session.  Thus saturday went.  Sunday - I attended 2.5 hours session on Wikidata Queries.  It was quite interesting.  
+02:26:08 <shrini1> Like this Miranda https://www.flickr.com/photos/ilugc/albums/72157701199767685
+02:26:54 <Miranda> Ok Shrini .. I will try.. Thank you
+02:27:19 <shrini1> My notes on wikidata training is here https://goinggnu.wordpress.com/2020/06/21/writing-wikidata-queries-workshop-notes/
+02:27:32 <Muthuramalingam> Today's plan: Learning Tamil Grammar structure more 
+02:28:38 <Muthuramalingam> I will share once I consolidate the grammar parts, preparation is going on
+02:28:47 <shrini1> Ok
+02:28:47 <Muthuramalingam> (blog)
+02:29:03 <Muthuramalingam> Tamil1 your status
+02:29:43 <Tamil1> Yesterday: I complete my program of download pdf file for HTML parser, write blog on How To Ask Questions The Smart Way
+02:30:01 <Tamil1> Today: Upload file from internet archive, write blog on HTML parser
+02:30:20 <Tamil1> https://tamilvelanpython.wordpress.com/2020/06/21/web-scraping-using-download-book/
+02:30:44 <Tamil1> github link: https://gist.github.com/tamilvelan7/ff2f44e9fbd3d3a0f2e8872f12d0093c
+02:30:54 <Muthuramalingam> good you shared both the links.  
+02:32:18 <Tamil1> The blog link incomplete program.
+02:32:39 <Muthuramalingam> ok, you can edit and complete the same page. 
+02:33:06 <Tamil1> The github link is full program
+02:33:18 <Muthuramalingam> https://tamilvelanpython.wordpress.com/2020/06/21/how-to-ask-questions-the-smart-way/
+02:33:56 <Muthuramalingam> any obstacle - anyone facing?
+02:34:12 <jasonbraganza> hello!
+02:34:21 <shrini> hello jasonbraganza 
+02:34:25 <jasonbraganza> May I introduce myself?
+02:34:26 <shrini> introduce yourself 
+02:34:37 <jasonbraganza> Good morning folks
+02:34:53 <Muthuramalingam> good morning
+02:35:09 <jasonbraganza> I am a 41 year ex it engineer / manager
+02:35:31 <jasonbraganza> I am currently semi retired due to health issues
+02:35:41 <Muthuramalingam> 41 years experience?
+02:35:52 <jasonbraganza> :)
+02:35:57 <shrini> Ex-IT Engineer
+02:36:00 <shrini> not now
+02:36:03 <shrini> :-)
+02:36:03 <Muthuramalingam> oh.. 
+02:36:16 <jasonbraganza> Sorry, should have used commas
+02:36:28 <jasonbraganza> On the phone, please forgive me :)
+02:36:34 <Muthuramalingam> no issues
+02:36:48 <jasonbraganza> I came here following shrini
+02:37:14 <jasonbraganza> Will just sit in the back and learn for a couple of months
+02:37:28 <Muthuramalingam> Shall we get more about you - through your blog / git ?
+02:38:01 <jasonbraganza> Because right now a I am prepping for my 12th standard exams (college dropout, long story)
+02:38:19 <jasonbraganza> Will focus more SEP onwards
+02:38:40 <jasonbraganza> Muthuramalingam, blogs are at
+02:38:56 <jasonbraganza> https://janusworx.com/
+02:38:58 <jasonbraganza> Ani
+02:39:02 <jasonbraganza> *and
+02:39:13 <jasonbraganza> https://mjbraganza.com/
+02:39:28 <jasonbraganza> Thank you for having me <EOM>
+02:39:45 <shrini1> Welcome jasonbraganza 
+02:40:12 <shrini1> Check planet.Payilagam. com for all the blogs we write
+02:40:21 <Janet> We will read Ur blog and will know about u. We are happy to have u here
+02:40:26 <jasonbraganza> Subscribed shrini  :)
+02:40:37 <jasonbraganza> Thank you Janet :)
+02:41:13 <shrini1> karpagam: like to know more about your project status
+02:41:24 <shrini1> Have we done for sakthi ?
+02:41:44 <Muthuramalingam> no, we missed sakthi
+02:41:56 <Muthuramalingam> sakthi - sorry, we missed to hear you
+02:42:06 <shrini1> sakthi: share your updates
+02:42:11 <sakthi> my blog muthu: https://pythonprogram006.wordpress.com/2020/06/21/university-admission-project-using-python-django-framework/
+02:43:28 <shrini1> Happy to see you are using Ubuntu linux sakthi 
+02:43:46 <shrini1> Welcome to the world of freedom
+02:43:54 <sakthi> thank u shrini
+02:44:41 <karpagam> ok shrini .. now i complete check the file in a directory ..  my program  will count the searching  also
+02:45:02 <shrini1> Wait karpagam 
+02:45:15 <shrini1> sakthi: share updates in the format we asked for
+02:47:27 <shrini1> sakthi: are you there?
+02:47:47 <sakthi> yes what format
+02:48:21 <shrini1> Yesterday status, today's plan, git & blog links, any obstacles
+02:48:50 <sakthi> sorry 
+02:50:34 <sakthi> obstacles not written in blog next time i will do
+02:51:39 <shrini1> What is today's plan sakthi ?
+02:51:47 <Muthuramalingam> no worries. today's plan sakthi
+02:52:31 <sakthi> choose the student picture and upload in database.this module using by file reading concept.
+02:52:39 <shrini1> Ok
+02:52:56 <Muthuramalingam> karpagam - your turn now
+02:53:08 <shrini1> Don't upload photos to db. Store in some folder and store the file path in db
+02:53:25 <shrini1> Give a unique Id to the filename and store
+02:53:42 <shrini1> To avoid issues by same filename upload multiple times
+02:53:46 <shrini1> For all
+02:54:09 <karpagam> my program is check file and  count the file also
+02:54:15 <karpagam> can you give me any ideas what shall i do next in my project.
+02:54:29 <shrini1> Prepare the status in below format in a text file before the meet.    Yesterday status, today's plan, git & blog links, any obstacles
+02:54:42 <shrini1> And copy/paste here quickly
+02:54:56 <shrini1> So that we can save time have some discussions
+02:55:08 <Janet> Yes I agree
+02:55:18 <Muthuramalingam> true
+02:55:35 <Miranda> S , true shrini
+02:55:50 <shrini1> karpagam: so if I put a copy of a file somewhere on any folder, can your program find it and tell
+02:56:09 <shrini1> And list the original filename, path
+02:56:27 <shrini1> And duplicate file(s) name and path
+02:56:29 <shrini1> ?
+02:56:54 <karpagam> yes but it will work only specific path like  c drive, d drive
+02:57:28 <shrini1> That's fine
+02:57:58 <shrini1> Can you show demo ?
+02:58:16 <shrini1> Record as screencast and upload in youtube
+02:58:22 <karpagam> yes ofcourse
+02:58:29 <shrini1> Do a code walkthrough too
+02:58:39 <Muthuramalingam> For all - please plan for a demo of your projects
+02:58:50 <Janet> OK. Sure
+02:58:56 <karpagam> sure .
+02:59:03 <Miranda> Sure muthu
+02:59:15 <sakthi> ok
+02:59:52 <shrini1> Can anyone post today's meeting minutes?
+03:00:04 <Janet> I will do
+03:00:11 <shrini1> OK Janet 
+03:00:39 <Muthuramalingam> if all topics are done, thank you all. 
+03:00:58 <Janet> Thank you all
+03:01:28 <jasonbraganza> Have a lovely day, folks!
+03:01:59 <shrini> Offtopic discussions now
+03:02:16 <Miranda> Ok Shrini..
+03:02:26 <shrini> if you need good oreganizer for all your notes, todo, projects
+03:02:37 <shrini> check emacs editor and orgmode
+03:02:54 <shrini> it is helping me to do more things
+03:03:06 <shrini> and better in organizing things
+03:03:50 <shrini> if project management are new, just list down your todo list for the day in paper/pen or a text file daily
+03:04:08 <shrini> mark as done or strike that line, once a task is done
+03:04:31 <Muthuramalingam> yes, preparing a todo list - will help me to be more productive 
+03:04:37 <shrini> prioritize the tasks and do only the top 3 priorities at first
+03:05:01 <shrini> use plain text files for all the todo items
+03:05:18 <shrini> you can learn emacs and orgmode slowly
+03:05:28 <shrini> but use any file editor now to make the todo items
+03:05:36 <shrini> we can have emacs sessions later
+03:05:47 <shrini> I hope emacs is available for windows too
+03:06:00 <shrini> anyone can use it
+03:06:10 <karpagam> Emacs for Linux is a customizable text editor 
+03:06:18 <Janet> OK shrini we will try
+03:06:32 <Muthuramalingam> shrini - i have issues in tamil typing in my linux mint machine. 
+03:06:46 <Muthuramalingam> let me know your free time to fix that
+03:06:48 <shrini> Emacs has weird keyboard shortcuts, dont get confused of them
+03:06:54 <shrini> learn it very slowly
+03:06:58 <shrini> one commadn at a time
+03:07:08 <shrini> it may take few weeks to learn it
+03:07:23 <jasonbraganza> yes it is, https://www.gnu.org/software/emacs/download.html
+03:07:23 <karpagam> (y) 
+03:07:32 <shrini> but once learnt, will be  a lifetime tool to do all the things
+03:07:51 <shrini> jumping to next topic
+03:07:55 <shrini> Muthuramalingam: what is the issue?
+03:08:13 <shrini> give more details on the issue
+03:08:37 <shrini> read "how to ask smart questions" blog by ESR
+03:08:45 <Muthuramalingam> sure
+03:08:51 <shrini> our friends have read it abd blogged the notes
+03:09:04 <Muthuramalingam> yes, I do
+03:09:53 <shrini> what is the issue in typing?
+03:09:55 <Muthuramalingam> I have ibus installed in linux mint machine, though it is not typing tamil there
+03:10:12 <shrini> did you select the tamil keyboard layout?
+03:10:17 <Muthuramalingam> I can choose tamil as a choice but still I couldnt get 
+03:10:20 <shrini> like tamil99 or phonetic?
+03:10:29 <Muthuramalingam> I tried for phonetic
+03:10:35 <Muthuramalingam> tamil99 - i should learn
+03:10:56 <Miranda> I will leave now..I have a webinar...Thank you Muthu and Shrini..
+03:11:06 <shrini> thanks all
+03:11:15 <shrini> thank Miranda 
+03:11:24 <Muthuramalingam> bye Miranda
+03:11:25 <shrini> you all can leave
+03:11:41 <shrini> Muthuramalingam: did you select the phonetic keyboard?
+03:11:46 <Muthuramalingam> yes
+03:11:49 <shrini> hmmm
+03:11:53 <shrini> thenit should come
+03:11:59 <Miranda> Ok Shrini..Thank You
+03:12:57 <karpagam> Thank you..shrini and muthu
+03:13:35 <shrini> Muthuramalingam: https://www.youtube.com/watch?v=Q6fYn3OvfUE
+03:13:41 <shrini> check the above video
+03:13:57 <shrini> sudo apt-get install ibus ibus-m17n m17n-db m17n-contrib ibus-gtk ttf-tamil-fonts 
+03:14:04 <shrini> run the above command
+03:16:10 <Muthuramalingam> sure, will do and get back
+03:16:30 <Janet> Will try and update
+03:16:35 <Janet> Thanks
+03:17:12 <shrini> happy to see http://planet.payilagam.com/ is filling with more blog posts
+03:17:14 <shrini> thanks all
+03:17:22 <Tamil1> shrini I tryed for html parser but download book for : http://www.e-books-chennaimuseum.tn.gov.in/chennaimuseum/index.php?option=com_content&view=article&id=19&letter=A&Itemid=116 
+03:17:49 <Tamil1> But download for one book
+03:18:14 <Tamil1> for other website is working well 
+03:19:08 <shrini> Tamil1: I think there is no direct link to download
+03:19:26 <shrini> you have to automate the web browsing using python
+03:19:27 <Tamil1> yes
+03:19:35 <shrini> simulate what we do manually
+03:19:40 <shrini> click each book link
+03:19:42 <shrini> goto next page
+03:19:46 <shrini> get download link
+03:19:51 <shrini> download the file
+03:19:57 <shrini> then com back
+03:20:00 <shrini> do for next book
+03:20:45 <shrini1> Do the same for first page
+03:20:57 <shrini1> Then goto next page and repeat
+03:21:11 <shrini1> Explore the Python library beautifulsoup
+03:21:46 <shrini1> and mechanize
+03:21:59 <Tamil1> ok thanks 
+03:22:08 <shrini1> They both will help you automate all browsing
+03:24:02 <Tamil1> to get download link manually?
+03:24:20 <Tamil1> or beautifulsoup module
+03:24:41 <shrini1> Don't download manually
+03:25:13 <Tamil1> ok
+03:25:23 <shrini1> First using mechanize and beautifulsoup, browse the site and PDF links for all books in all pages
+03:25:40 <shrini1> List down all the pdf links
+03:25:53 <Muthuramalingam> Tamil phonetic is working properly.  
+03:26:15 <shrini1> Nice Muthuramalingam 
+03:26:15 <Muthuramalingam> When I tried typing thamizh ூபோஸiெ
+03:26:30 <Muthuramalingam> sorry, not working 
+03:26:55 <shrini1> Oh
+03:27:14 <shrini1> What issue you get?
+03:30:01 <Muthuramalingam> தற்போது ஒழுங்காக வேலை செய்கிறது
+03:30:11 <Tamil1> ok i will try using mechanize and beautifulsoup.
+03:30:47 <Muthuramalingam> but couldnt type in search bar and firefox browser. above text - i typed in telegram and pasted.  
+03:31:14 <shrini1> You may have to relogin
+03:31:19 <shrini1> OK Tamil1 
+03:31:33 <Muthuramalingam> ok, will do 
+03:31:41 <shrini1> Learn tamil99 layout Muthuramalingam 
+03:31:49 <shrini1> :-)
+03:34:45 <shrini1> Is it OK now Muthuramalingam ?
+03:35:44 <Muthuramalingam>  no its not working
+03:35:58 <Muthuramalingam> working fine in Telegram 
+03:36:13 <Muthuramalingam> tried Searching, tried typing in libre writer, firefox - nothing worked
+03:36:29 <shrini1> Hmm
+03:36:38 <shrini1> Interesting issue
+03:37:17 <shrini1> Will explore
+03:37:44 <shrini1> Record your setup,issue and share the video 
+03:37:48 <shrini1> Will check
+04:03:26 <Muthuramalingam> https://youtu.be/6Lbyc-lHTQQ
+04:03:34 <Muthuramalingam> added record here
+04:20:18 <shrini1> Will check Muthuramalingam 
+04:20:27 <shrini1> Will answer tomorrow
+04:23:19 <Muthuramalingam> ok thanks
