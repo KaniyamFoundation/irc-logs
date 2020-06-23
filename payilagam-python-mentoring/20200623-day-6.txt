@@ -1,0 +1,180 @@
+01:59:07 <Muthuramalingam> Good Morning
+02:00:38 <Aravind> Good Morning
+02:01:40 <Muthuramalingam> We shall start our status updates. 
+02:01:45 <Muthuramalingam> Aravind
+02:01:53 <Aravind> Ok
+02:02:14 <Aravind> My Project Name:-
+02:02:30 <Aravind> Obstacles:-
+02:02:39 <Aravind> Gitup link:- https://github.com/AravindKarthi/Url_Shortner.git
+02:03:03 <Muthuramalingam> Dont forget the status update format: 1) What you did yesterday?  2) What is your plan today?  3) Any obstacle 4) Git and Blog link
+02:03:17 <Muthuramalingam> Aravind - follow above format
+02:03:42 <Aravind> Yes. I have follow above mentioned format
+02:04:44 <Muthuramalingam> Answer separately for each question - 1) What you did yesterday?  2) What is your plan today?  3) Any obstacle 4) Git and Blog link
+02:04:57 <Aravind> Ok
+02:05:34 <Aravind> What you did yesterday:-
+02:06:00 <Muthuramalingam> Yesterday shrini requested to have our status updates in notepad before the meeting.  Once the meeting started you can paste it here.  Thus, you can save others time also.  Now, everyone else should wait until you type.  
+02:06:47 <Aravind> What is your plan today
+02:07:00 <Aravind> My Blog:- http://www.aravind.darlingstudio.in/python-III.html
+02:07:37 <Muthuramalingam> Aravind - I believe you did not understand properly.  Check for others updates and let us come back to you. 
+02:07:42 <Muthuramalingam> Janet - your status
+02:07:48 <Janet> Yesterday : edit and delete user information is completed. Updated details are displayed in view page.  Today's plan: Need to fix calculate age from date of birth issue
+02:08:05 <Janet> Project blog:  https://janetpython.wordpress.com/update-user-profile/
+02:08:26 <Janet> I will add Obstacles once all status are updated
+02:08:48 <Muthuramalingam> No need.  You can mention now.  We shall discuss later. 
+02:09:19 <Muthuramalingam> you mentioned yesterday - calculating age is an obstacle.  Still it is there?
+02:09:22 <Janet> Obstacles : facing issue in age calculationcrud.py:current_date = date.today()return render_template(“view_user.html”,rows = rows, now_date = current_date).view_user.html{{now_date}} –> getting today date as output:now i tried to calculate age:{% set age = now_date – row[“dob”] %}Age : {{age}}
+02:09:32 <Janet> Yes
+02:09:53 <Muthuramalingam> ok
+02:10:27 <Muthuramalingam> jasonbraganza - your status
+02:10:50 <shrini1> jasonbraganza: is a viewer
+02:10:56 <Muthuramalingam> ok
+02:10:56 <shrini1> And mohan43u 
+02:11:02 <Miranda> Yesterday : Displayed the text in the image...Attended a webinar in data science 
+02:11:06 <shrini1> Skip them
+02:11:11 <Muthuramalingam> sure
+02:11:21 <Miranda> Sry muthu
+02:11:42 <Miranda> I ddin't notice karpagam
+02:11:59 <Muthuramalingam> yes, we can get from karpagam 
+02:12:22 <karpagam> hi
+02:12:26 <karpagam> https://youtu.be/2wzxHPLAQB4
+02:12:48 <karpagam> is this my project video
+02:13:40 <Muthuramalingam> karpagam - did you add what shrini asked in your project yesterday?
+02:15:31 <Muthuramalingam> karpagam - are you there
+02:16:40 <Muthuramalingam> if karpagam is busy, Miranda - already you shared yesterday's task.  Whats your plan today?  Blog and Git link
+02:17:00 <Miranda> Muthu I have updated..
+02:17:08 <Miranda> Yesterday : Displayed the text in the image...Attended a webinar in data science 
+02:17:46 <Muthuramalingam> Whats your plan today?  Blog and Git link
+02:18:07 <Miranda> Today:Plan to learn about flickrapi
+02:18:17 <Miranda> Obstacles: No
+02:18:37 <Miranda> Blogs:https://mirandalakshmi.blogspot.com/2020/06/snap-and-store-version-2.html
+02:18:47 <Miranda> GIT link : https://gist.github.com/mirandalakshmi/154227bb54cc2c9037f008568028c3e4
+02:19:12 <Miranda> I have shared in this IRC muthu.. But I think Your not able to view..
+02:19:15 <Muthuramalingam> You're not a channel operator // Sorry for this message in between.  I just checked the settings.   Leave those. 
+02:20:09 <Miranda> I am not able to get you muthu
+02:21:01 <Muthuramalingam> no issues, let us go with your status update. Miranda
+02:21:29 <shrini1> Miranda: is done her updates
+02:21:47 <shrini1> Next?
+02:21:57 <karpagam> here bad net connection because of rain
+02:22:05 <Muthuramalingam> its mine.  
+02:22:15 <Muthuramalingam> Yesterday - Learnt many grammar rules in Tamil and blogged those here https://kadanthavai.wordpress.com/2020/06/22/%e0%ae%a8%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%82%e0%ae%b2%e0%af%8d-%e0%ae%89%e0%ae%af%e0%ae%bf%e0%ae%b0%e0%af%80%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%af%81%e0%ae%a3/Today: Continuing the same.  Need to fix
+02:22:15 <Muthuramalingam> tamil typing issue in my Linux Mint machine.  
+02:22:29 <Muthuramalingam> I was typing few things for Miranda's project.  
+02:22:34 <Muthuramalingam> Let me share those later. 
+02:22:48 <shrini1> Let us fix tamil typing after this meeting Muthuramalingam 
+02:22:49 <karpagam> Muthuramalingam : yes
+02:22:53 <Muthuramalingam> sakthi - your status
+02:23:04 <sakthi> Yesterday update:-Choose the student image through file reading concept for verify image name display in near. enter submit button the image will store in database sqlite3. then see image name in database.finally fetch student image in database show in front end.
+02:23:18 <sakthi> Today update:-While entering student details some time wrong details many be enterd for that reason edit and delete operation used in student detail files.obstacles:-Nil
+02:23:46 <Muthuramalingam> blog, git?
+02:23:51 <sakthi> https://pythonprogram006.wordpress.com/2020/06/22/university-admission-project-using-python-django-framework-2/
+02:24:07 <sakthi> https://youtu.be/uF7QmrvYHv0
+02:24:45 <shrini1> sakthi: use bootstrap CSS framework
+02:24:59 <sakthi> no shrini
+02:25:00 <shrini1> To get beautiful pages
+02:25:13 <sakthi> finally use css
+02:25:14 <shrini1> Learn it and use it
+02:25:36 <sakthi> know css basic
+02:25:46 <shrini1> It is 10 min task only
+02:26:05 <shrini1> Just import it and use it
+02:26:12 <sakthi> ok update 
+02:26:32 <Muthuramalingam> Tamil1 turn 
+02:26:58 <Tamil> yesterday i did what is mechaniza and try to write program but i can't.i write blog on beatifulsoup. 
+02:27:34 <sakthi> import coding all so
+02:28:21 <Tamil> Unfortunately, Mechanize is incompatible with Python 3, is it True
+02:29:08 <shrini1> Not sure Tamil
+02:29:15 <Tamil> I searched for mechaniza framework. but no document available for internet. for exp: https://www.crummy.com/software/BeautifulSoup/bs4/doc/   like this. for any document is available on please share.It is just what is what information on net. I m not satisfy information about mechaniza. so i can't write program about using mechaniza.
+02:29:15 <shrini1> How do you say that?
+02:29:19 <shrini1> Share links
+02:29:48 <shrini1> You can write with requests and bs4 too
+02:29:57 <shrini1> You search and decide
+02:30:46 <Tamil> yes. shrini1: You can write with requests and bs4 too
+02:31:22 <Tamil> How do you say that : https://piratefache.ch/python-3-mechanize-and-beautifulsoup/#:~:text=Unfortunately%2C%20Mechanize%20is%20incompatible%20with,You'll%20see%20it%20later.
+02:31:43 <shrini1> Ok
+02:32:22 <shrini1> We are missing many people here
+02:32:30 <Tamil> can I continue on mechanize?
+02:32:35 <shrini1> Punniyakoti, paulpandy and more
+02:32:53 <shrini1> Tamil:  if it is not for python3, leave it
+02:33:03 <shrini1> Try with requests, bs4
+02:33:10 <Tamil> ok 
+02:33:27 <shrini1> If anyone know the missing people, ask to join
+02:33:59 <Tamil> shrini1: Try with requests, bs4--> already finished
+02:34:23 <shrini1> Ok
+02:34:49 <shrini1> If all updates done, general QA now
+02:35:12 <shrini1> I see karpagam execute python in IDLE itself
+02:35:18 <shrini1> Don't run that way
+02:35:26 <shrini1> Open command prompt
+02:35:40 <shrini1> Run as python3 name.py
+02:35:54 <karpagam> i am adding the path where its available.. can you see the demo.. na innum athula ethavathu add pannumah?
+02:37:11 <karpagam> shrini1 : ok shrini
+02:37:59 <Tamil> blog: https://tamilvelanpython.wordpress.com/2020/06/23/beautiful-soup-library/
+02:38:16 <Tamil> yesterdat I did't write github.
+02:41:03 <shrini1> karpagam: I am yet to see the full video
+02:41:19 <shrini1> Will see today and update on telegram
+02:41:46 <Tamil> On my blog is any mistake or i write wrong information please comment it. otherwise i do know the mistake.
+02:42:36 <Miranda> I learnt about Git, Github and Gist.github ,but I am not able to get a clear idea about this three...Can you explain me shrini?
+02:43:13 <Muthuramalingam4> Sorry, my internet got disconnected in between
+02:43:22 <shrini1> Git is source code version management system
+02:43:45 <shrini1> Github is a common place to host the repos
+02:44:45 <Miranda> Git :To maintain the version control.. Github: To hold our full version of our project is it correct shrini
+02:45:36 <Muthuramalingam4> I missed the topics in between.  For Miranda - If we give a folder name, will your program update text in all jpeg files present there.  If not, you can add. 
+02:46:10 <shrini1> Github is to share our git repositories to the world, so that anyone can clone and use them
+02:46:31 <shrini1> If we keep the git folders ourself, how can we share with the world?
+02:46:49 <shrini1> We need a place to put them
+02:46:49 <Miranda> Ok shrini..
+02:47:00 <shrini1> We can share via google drive
+02:47:15 <shrini1> But github is advanced one with many features
+02:47:37 <shrini1> Like issues, wiki, releases, role based access control etc
+02:47:49 <shrini1> Like github, we have many sites
+02:48:01 <Miranda> Ok shrini..gist.github?
+02:48:04 <shrini1> Gitlab, gittea, phabricator etc
+02:48:30 <shrini1> Gist is just to paste a small code snippet to share to world quickly
+02:48:31 <Miranda> Ok shrini
+02:48:50 <shrini1> It is just like a pastebin site
+02:49:05 <Miranda> Ok Shrini..
+02:49:15 <Miranda> No ..Now I tired with only one Photo...
+02:49:19 <Miranda> muthu
+02:52:03 <Muthuramalingam4> Miranda, ok - read folder, add text for all photos in that folder.  add this.  later you can use flickrapi
+02:52:17 <Miranda> Ok muthu..
+02:52:37 <shrini1> Ask the resolution for the images from user
+02:52:50 <shrini1> Resize all the images based on the user input
+02:53:07 <Miranda> Ok shrini..I will try..
+02:53:39 <sakthi> shirini pal pandi is my friend he not have time to  do a project because of personal commit.what idea will given to him
+02:53:59 <Muthuramalingam4> shrini1 Janet - I missed points in between.  Janet - your obstacle discussed? I missed karpagam answer also for my question.  If already discussed, leave those
+02:54:15 <Janet>  Not yet
+02:55:01 <shrini1> You can read all the logs here
+02:55:12 <Muthuramalingam4> sakthi - if he does not have enough time.  you can ask him to replicate your project and learn.  You can guide him where he struggles. 
+02:55:55 <sakthi> ok muthu
+02:56:00 <Janet> current_date = date.today()return render_template(“view_user.html”,rows = rows, now_date = current_date).
+02:56:23 <Janet> Here I am passing current date, which gives output in template file
+02:56:45 <Janet> {% set age = now_date – row[“dob”] %}
+02:57:09 <Janet> Set a variable called age and finding the difference of days
+02:57:30 <shrini1> Check the topic Muthuramalingam4 
+02:57:50 <Janet> Error: unsupported operand type for :- datetime. Date and str
+02:58:07 <Muthuramalingam4> Janet - did you search answer in internet?
+02:58:12 <Janet> Can anyone suggest me how to search this type of issue in google
+02:58:24 <Muthuramalingam4> link shrini1
+02:58:37 <shrini1> Check topic on top
+02:58:44 <Muthuramalingam4> found
+02:58:51 <shrini1> https://freenode.logbot.info/kaniyam
+02:59:04 <shrini1> All the chats are stored here at live
+02:59:08 <Janet> It gives finding date in python only, not able to find the fix for flask template file
+02:59:27 <Muthuramalingam4> got, live update - I didn't know this.  good place to get. 
+03:00:13 <shrini1> Janet: separate that task as a pure python code
+03:00:27 <shrini1> Do the calculation on python 
+03:00:35 <Muthuramalingam4> Janet - it is not flask specific. Check what you are returning.  Add your logic and return the value.  
+03:00:36 <shrini1> And display as flask variable
+03:00:41 <Muthuramalingam4> yes
+03:00:49 <Janet> OK. I will try
+03:01:02 <shrini1> Make the entire date calculation in another small python file
+03:01:13 <shrini1> Then use it in your project
+03:01:32 <Janet> OK thanks for this idea
+03:01:36 <karpagam> Today's plan  :i used command prompt  to write code and run it in python 3 name.py
+03:02:14 <karpagam> and then i will upload a new demo video
+03:03:06 <Miranda> I have class...Shall I leave Shrini and Muthu?
+03:04:12 <Muthuramalingam4> yes sure.  thanks Miranda
+03:04:18 <Miranda> Thank You Shrini and Muthu...
+03:04:34 <Muthuramalingam4> whoever is done with their status and discussions can leave.  
+03:04:56 <Janet> Thank u all
+03:06:08 <karpagam> Thank you all
+03:07:07 <Muthuramalingam4> shrini1 I will install anydesk and connect you for tamil typing
+03:21:04 <shrini1> OK Muthuramalingam4 
