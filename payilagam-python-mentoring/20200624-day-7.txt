@@ -1,0 +1,184 @@
+02:02:09 <Muthuramalingam> Good Morning
+02:02:53 <Muthuramalingam> Remember - 1) What you did yesterday 2) What is your plan today?  3) Any obstacle 4) Git and Blog link.  
+02:03:16 <Muthuramalingam> Please have your status ready in a note pad and share
+02:03:48 <Miranda> Good morning muthu & Shrini ..OK...
+02:04:00 <Muthuramalingam> We shall start from Miranda
+02:04:12 <Miranda> Yesterday : Learnt about BLOB data type to store an image in the database 
+02:05:11 <Muthuramalingam> Yes, go ahead with today's plan, git and blog link
+02:05:29 <Miranda> I have pasted muthu...
+02:06:10 <Miranda> Is it not visible? Shall I type again muthu?
+02:06:20 <Muthuramalingam> If you updated your status, you can check "all discussinos are logged here" above link. 
+02:06:24 <Muthuramalingam> Yes, not visible. 
+02:06:47 <Miranda> Yesterday : Learnt about BLOB data type to store an image in the database 
+02:07:00 <Miranda> Today:Plan to learn how to read an image folder, add text for all photos in that folder
+02:07:10 <Miranda> Obstacles: No
+02:07:21 <Miranda> Blogs:https://mirandalakshmi.blogspot.com/2020/06/blob-datatype.html
+02:07:31 <Miranda> Github link : I have given in the Blog
+02:07:46 <Muthuramalingam> ok
+02:07:46 <Miranda> Now are you able to view muthu??
+02:07:50 <Muthuramalingam> yes
+02:08:09 <Muthuramalingam> My Status - 
+02:08:09 <Miranda> IF i paste it from notepad its not visible...
+02:08:21 <Muthuramalingam> Yesterday: I listened to couple of videos on Tamil grammar.  Today: Planning to continue the remaining. Blog: https://kadanthavai.wordpress.com/2020/06/23/%e0%ae%a8%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%82%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%af%e0%af%80%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%af%81/
+02:09:12 <Muthuramalingam> We missed Karpagam, Janet, Sakthi, jeyaprakash today.  
+02:09:18 <Muthuramalingam> Tamil - your status
+02:09:47 <Tamil> yesterday I tryed to upload file using selenium webdriver but i write program for automated login and learning about internetarchive module
+02:09:58 <Muthuramalingam> Miranda - confirm it is properly copied.  Paste it in another software like word. 
+02:09:58 <Tamil> today task is upload file using internetarchive module and demo video for youtube. 
+02:10:25 <Tamil> Blog Is : https://tamilvelanpython.wordpress.com/2020/06/24/selenium-webdriver/ and 
+02:10:25 <Tamil> Github link: https://gist.github.com/tamilvelan7/13023c5cbfa756d5e227cbd759a20f17
+02:10:37 <Miranda> ok muthu I ll paste...But I am able to view in this IRC..
+02:12:48 <Muthuramalingam> ok Tamil - store Username and Password in an textpad / librecalc /excel and read that using Selenium WebDriver.  
+02:12:59 <Tamil> miranda upload to image: https://pasteboard.co/ send a link here.
+02:13:35 <Miranda> OK tamil
+02:13:39 <Tamil> ok muthu
+02:13:57 <Muthuramalingam> any obstacle Tamil
+02:14:07 <Tamil> No
+02:14:12 <Muthuramalingam> ok
+02:14:41 <Muthuramalingam> tomraj - can you introduce yourself here
+02:15:38 <Muthuramalingam> tomraj - are you there?
+02:16:07 <tomraj> Hi all, Tomraj. I am from mechanical background. Beginner to this IT field. 
+02:16:50 <shrini1> Welcome tomraj 
+02:17:08 <Muthuramalingam> ok, Go through this link - https://goinggnu.wordpress.com/2014/07/23/need-50-ideas-for-a-python-hackathon/
+02:17:26 <tomraj> I learned this python course through Payilagam youtube videos. I am planning to create a small project to start myself. 
+02:17:36 <Muthuramalingam> Everyone here started doing project from this list.  
+02:18:08 <Muthuramalingam> Sure tomraj. good to hear.  Check above link for project ideas. 
+02:18:43 <Muthuramalingam> if you have any idea also, have a blog (in wordpress.com) - write your ideas and share it here.  
+02:18:43 <tomraj> I am preparing the specification in a blog, once it is done. I will post in it. Please advise me when I am struck and in need of help. Thanks. 
+02:18:58 <Muthuramalingam> Sure
+02:19:02 <shrini1> So we have only Miranda  and Tamil for updates
+02:19:11 <tomraj> Sure thing.
+02:19:16 <shrini1> Missing others
+02:19:26 <Muthuramalingam> yes shrini1 
+02:19:29 <shrini1> Is the meeting too early?
+02:19:34 <Miranda> S  Shrini
+02:19:39 <Miranda> no Shrini
+02:19:49 <shrini1> Ok
+02:19:51 <Muthuramalingam> no
+02:19:56 <Miranda> Its Correct time shrini..
+02:20:01 <shrini1> Ok
+02:20:11 <Tamil> Is the regular time 
+02:20:19 <shrini1> Ok
+02:20:41 <shrini1> Then fine
+02:20:49 <Muthuramalingam> any other topics to be discussed?
+02:21:09 <Muthuramalingam> all - any obstacles, topics left?
+02:22:04 <Miranda> Shrini can you explain about chennaipy..I am getting mail from chennaipy..What I have to response them
+02:22:11 <Miranda> ?
+02:22:29 <Tamil> how to choose which project is use which module
+02:22:38 <shrini1> Noting to response, if you don't have any content to reply
+02:23:21 <shrini1> Mailing list is a common platform to communicate with many people with single mail
+02:23:22 <Miranda> Ok Shrini..The meeting on 27th will be like IRC or Zoom
+02:23:33 <shrini1> Every mail goes to all members
+02:23:47 <shrini1> Anyone can ask question and anyone can answer
+02:24:02 <shrini1> Feel free to ask questions there
+02:24:21 <Miranda> OK shrini..
+02:24:32 <shrini1> Do RSVP at meetup.com event
+02:25:00 <shrini1> Online meet link will be displayed for attending people only
+02:25:03 <shrini1> No IRC
+02:25:18 <shrini1> Some online meeting tool like zoom
+02:25:26 <shrini1> Not sure what they use
+02:25:47 <Muthuramalingam> Tamil - it depends.  modules should be decided based on our need - we should search for our need and confirm. 
+02:25:47 <shrini1> Attend it and write blog post on the learnings
+02:25:49 <Miranda> I have added in that...Ok Shrini meet up ..Thank you
+02:26:25 <shrini1> If you did not get the link, add a comment on meetup page or ask in mailing list
+02:26:40 <Muthuramalingam> Tamil if nothing is found from internet, you can ask Chennaipy team through mail. 
+02:26:47 <shrini1> Tamil: yes, it depends on the requirement
+02:27:26 <Miranda> Ok Shrini..They will send the meeting details to our mail right?
+02:27:51 <Tamil1> ok
+02:27:53 <Muthuramalingam> shrini few days before you said one command line tool for IRC in linux.  whats the name of that. I forgot. 
+02:27:55 <Miranda> Ok muthu
+02:29:04 <shrini1> Weechat
+02:29:13 <Muthuramalingam> ok
+02:29:35 <Miranda> Is any meeting available like chennaipy..Becoz I registered in one meeting they told zoom..but I didn't get any response the person didn't start the meeting for more than an hour..
+02:29:36 <shrini1> Miranda: yes. They will send to the mailing list
+02:29:53 <Miranda> Ok shrini..
+02:29:58 <shrini1> Check meetup.com
+02:30:13 <shrini1> There are too many groups
+02:30:21 <shrini1> Check the calendar section
+02:30:27 <Miranda> Ok Shrini..Thank you..
+02:30:34 <Muthuramalingam> https://www.meetup.com/Chennaipy/events/271384907/
+02:30:52 <shrini1> Calendar section will list the events with date and time
+02:31:05 <Miranda> Thank you Shrini and Muthu..
+02:32:29 <shrini1> install some irc client and use that to join irc channels
+02:32:55 <shrini1> Webchat is for quick connection usage only
+02:33:01 <Miranda> I am interested in data Science..But I am not aware of Statistics becoz its more than 20 years before I learnt statistics..Can Anyone suggest how to move forward?
+02:33:04 <Miranda> Ok Shrini..
+02:33:06 <Muthuramalingam> sure
+02:33:21 <shrini1> Pidgin and xchat are good clients
+02:33:27 <Muthuramalingam> ok shrini
+02:33:40 <Miranda> Ok Shrini..
+02:34:08 <shrini1>  https://goinggnu.wordpress.com/2018/10/17/how-to-learn-bigdata-ml-dl-ai-etc/
+02:34:17 <shrini1> Read this Miranda 
+02:36:08 <shrini1> For data science, maths and stats is essential
+02:36:22 <shrini1> Spend one hour to learn them daily
+02:36:38 <shrini1> And write blog posts on the learning's daily
+02:37:05 <shrini1> It will take you to heights
+02:37:35 <Miranda33> Ok sure..I will do Shrini..
+02:37:54 <shrini1> Read the link I shared above
+02:38:02 <shrini1> And do all the things said
+02:38:29 <Miranda33> Ok Shrini..
+02:38:35 <Muthuramalingam> your blog contains all information needed to be data scientist.  
+02:39:53 <shrini1> freetamilebooks.com/authors/nithyaduraisamy
+02:40:38 <shrini1> Just explore the machine learning and deep learning books here
+02:41:27 <Miranda33> Ok shrini sure
+02:42:06 <Miranda33> After Joining in this Payilagam from youtube...I joined for only 3 weeks .. I learnt more new things..Which is entirely different from Academic(College point of view)
+02:42:38 <Miranda33> I ll share more ideas to my students in the up coming years...
+02:42:55 <Miranda33> Thank You Shrini and Muthu for your great support..
+02:43:45 <shrini> :-)\
+02:43:57 <Muthuramalingam> good to hear.  you can write a blog on what and how students should be taught technical things. This can be an eye opening article for many.  
+02:43:59 <shrini> Miranda33: are you a college teacher?
+02:44:47 <shrini> we have a big dream of creating tamil video tutorials for college subjects
+02:45:13 <shrini> all the MOOC course videos are only in english
+02:45:24 <Muthuramalingam> shrini yes - we discussed about video tutorials this for all departments 
+02:45:28 <shrini> we need them in tamil
+02:46:49 <miranda> Its Automatically disconnecting .I don't know whats the problem in webchat..
+02:47:22 <miranda> S shrini..
+02:47:35 <miranda> Now learning MOOCs
+02:47:44 <shrini> desktop client like pidgin will be very useful
+02:47:56 <shrini> miranda: we need MOOC in tamil
+02:48:10 <shrini> if payilagam can do for python and java
+02:48:23 <shrini> college teachers can make for their subjects in tamil
+02:48:27 <miranda> sure muthu and Shrini..
+02:48:42 <Gokul> Hi Shrini and Muthu .. Actually iam quite busy for last 4 to 5 days working on Plant critical issue due to which not getting enough time to work on .. Hope will be working from tomo .. 
+02:48:57 <shrini> just imagine if payilagam did the same course on english, we wont get thesegood  results
+02:49:15 <shrini> Gokul: no worries
+02:49:22 <shrini> Gokul: take your time
+02:49:47 <shrini> miranda: check if you can make video tutorials on tamil for any college subject
+02:49:53 <shrini> no urgent
+02:49:55 <Tamil1> yes shrini
+02:49:58 <shrini> take your time
+02:50:21 <Gokul> I agree .. if payilagam did python course in english i wont be joined .. i joined mainly listening to his tamil teaching and started liking watched all his java video multiple times .. 
+02:50:29 <miranda> Normally I ll be searching for tamil videos for many concepts... I will try to implement ...
+02:51:31 <shrini1> Ok
+02:52:21 <shrini1> Miranda then try to create videos in tamil for the subjects you take
+02:52:35 <miranda> Normally i have not subscribed channel... only this channel long before i subscribed to teach my kids.. So i got updates in mail.. Which helped me to learn more..
+02:52:51 <shrini1> It is a one time effort but will be a great asset for all students
+02:53:26 <miranda> S shrini..
+02:53:54 <shrini1> Take this idea to all your teachers in your circle
+02:54:27 <shrini1> Just record in casual tamil, with tech words in english
+02:54:54 <shrini1> We need more college teachers to join this project
+02:55:38 <miranda> Sure already one mam is attending the python classes .. 
+02:55:39 <miranda> S Sure shrini
+02:55:40 <miranda> I have asked my husband also to join this class..
+02:55:50 <miranda> and learn python basics..
+02:57:51 <shrini1> Any other queries Tamil1?
+02:58:04 <Tamil1> No 
+02:59:22 <Muthuramalingam> shrini1 you can add few points if missed.  
+02:59:47 <Muthuramalingam> otherwise, we can wind up here.  
+03:01:22 <Muthuramalingam> ok guys thank you all 
+03:01:52 <miranda> Thank you Shrini and Muthu..
+03:02:18 <Tamil1> Thank you muthu and shrini.
+03:02:22 <shrini1> Ok
+03:02:30 <shrini1> See you all tomorrow
+03:02:54 <shrini1> Mutu, ask in telegram 
+03:03:27 <shrini1> All project mentoring team should attend standup meeting
+03:04:02 <shrini1> Even they can say like I did not worked yesterday
+03:04:06 <shrini1> That's fine
+03:04:16 <shrini1> But attending this meet is mjst
+03:04:31 <Muthuramalingam> sure Shrini1
+03:04:36 <Muthuramalingam> will ask them
+03:05:19 <shrini1> If they miss here, they should send update to telegram
+03:10:30 <Muthuramalingam> ok
+03:48:26 <Gokul> My wordings is not correct above  .. if i dont see tamil related videos i would not notified or i would not checked payilagam videos .. after saw tamil teaching related videos i got excited and started viewing payilagam .. 
+03:48:28 <Gokul> thanks 
+04:26:19 <shrini> thanks Gokul 
