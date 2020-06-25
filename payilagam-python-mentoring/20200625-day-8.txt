@@ -1,0 +1,216 @@
+02:00:09 <Muthuramalingam> Good Morning
+02:00:38 <Tamil> good morning
+02:01:31 <Janet> Good morning all 
+02:01:38 <Muthuramalingam> We shall start our status updates
+02:02:00 <Janet> Yesterday : Age calculation from date of birth is completed.
+02:02:15 <Janet> Today's plan : create demo of user profile upload & view.
+02:02:25 <Janet> Obstacles : No
+02:02:36 <Janet> Project blog:  https://janetpython.wordpress.com/project-user-profile-upload-and-view/
+02:03:02 <Muthuramalingam> ok
+02:03:16 <shrini1> Janet:  git URL ?
+02:03:32 <Janet> Attached in my blog
+02:03:34 <Muthuramalingam> is present in blog 
+02:03:47 <shrini1> Share it here too
+02:03:57 <Janet> github : https://github.com/janetaj/python
+02:04:08 <Tamil> i will joined to 7.50am.
+02:04:08 <shrini1> We keep record of all the status updates 
+02:04:19 <shrini1> OK Tamil 
+02:04:40 <Muthuramalingam> Miranda your status
+02:04:47 <miranda> Yesterday : Learnt about OS module to read bulk images from a folder 
+02:05:01 <miranda> Today:Plan to learn how to store the folder in the database
+02:05:12 <miranda> Obstacles: No
+02:05:23 <miranda> https://mirandalakshmi.blogspot.com/2020/06/os-module.html
+02:05:25 <shrini1> miranda: don't store images in db
+02:05:39 <shrini1> Store in a directory
+02:05:47 <shrini1> Store that path only in db
+02:06:00 <shrini1> Give a unique I'd as a name for the images
+02:06:07 <miranda> ok shrini..
+02:06:11 <shrini1> And store that name and path in db
+02:06:30 <shrini1> Use glob module
+02:06:43 <shrini1> To get all files in a directory
+02:06:55 <shrini1> And in sub directories
+02:06:55 <miranda> ok shrini.. today i ll read..
+02:06:59 <Muthuramalingam> Miranda - so your today's plan will be changed accordingly.  
+02:07:11 <miranda> S muthu..
+02:07:22 <Muthuramalingam> Status Updates: Yesterday: I continued by grammar learning.  Updates are here 
+02:07:28 <Muthuramalingam> https://kadanthavai.wordpress.com/2020/06/24/%e0%ae%a8%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%82%e0%ae%b2%e0%af%8d-%e0%ae%89%e0%ae%b0%e0%af%81%e0%ae%aa%e0%af%81-%e0%ae%aa%e0%af%81%e0%ae%a3%e0%ae%b0%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%b5/
+02:07:47 <Muthuramalingam> Today: Will continue the same.  Will focus on completing Python material.  
+02:07:48 <shrini1> Muthuramalingam: use slug in WordPress
+02:08:00 <shrini1> Give a English slug
+02:08:08 <shrini1> So that we can get URL in english
+02:09:11 <Muthuramalingam> Ok, thanks shrini - tamil content in URL are not displayed properly. They are lengthy too.  
+02:10:13 <Muthuramalingam> Janet - almost your project is done right.  What is the next step?  Resizing the image?
+02:10:59 <Janet> Yeah, in individual view page I will have a resize button 
+02:11:24 <Janet> Once we click that image resized and store in another folder
+02:12:43 <Muthuramalingam> Are you cropping images of all users and storing in same size?  
+02:13:32 <Janet> Yes I need to try in this way only
+02:14:26 <Muthuramalingam> ok do this way.  Thus all images will be of same size 
+02:14:36 <Janet> OK muthu
+02:15:00 <Muthuramalingam> Tamil said he will by 7.50 only.  
+02:15:17 <Muthuramalingam> any other obstacles, discussions needed today? 
+02:16:11 <Janet> I have general doubts
+02:16:24 <Muthuramalingam> yes Janet
+02:16:50 <Janet> Once our mini project got completed, what is our's next step
+02:18:22 <Muthuramalingam> Mini Project is the area, where we can get good confidence to do real projects.  
+02:18:23 <Muthuramalingam> https://github.com/kaniyam
+02:18:29 <Muthuramalingam> Check here.  
+02:19:00 <Muthuramalingam> There are no. of projects in pipe line.  
+02:19:31 <Janet> Oh OK. We keep on doing multiple projects right
+02:19:31 <Muthuramalingam> you can pick any one and start contribute to that.  
+02:19:38 <Muthuramalingam> yes
+02:20:06 <Tamil> I m in share my updates
+02:20:37 <Muthuramalingam> welcome sakthi 
+02:20:59 <Muthuramalingam> Tamil - we share get from sakthi and then from you. 
+02:21:06 <Tamil> ok
+02:21:07 <Muthuramalingam> sakthi - your updates
+02:21:15 <sakthi> yesterday status:-In the view student details added delete field if click the delete option that particular row student details delete.click the delete button is access by student id,get the id go to server the same id in database delete the particular student row.
+02:21:34 <sakthi> today planIn student details form enter fees field there while enter the fees in the view student page pending fees all so displayObstacles:- nil
+02:22:00 <sakthi> blog https://pythonprogram006.wordpress.com/2020/06/23/university-admission-project-using-python-django-framework-3/
+02:24:04 <Muthuramalingam> sakthi -If i am correct, I thought you did this day before yesterday itself.  
+02:24:33 <sakthi> yes
+02:24:41 <Muthuramalingam> yesterday's update then?
+02:25:17 <sakthi> yesterday no worked
+02:25:34 <Muthuramalingam> ok
+02:25:47 <Muthuramalingam> for all - in stand up call meetings - it is ok to say "Yesterday I did not do anything as I was involved in other things".  
+02:26:13 <Muthuramalingam> Tamil - your updates
+02:27:03 <Tamil> yestesday I completed my project upload files using internetarchive
+02:27:16 <Tamil> today make a demo video for my project.
+02:27:30 <Tamil> blog: https://tamilvelanpython.wordpress.com/2020/06/25/upload-file-using-internetarchive/
+02:27:40 <Tamil> Github: https://gist.github.com/tamilvelan7/9ecc404c994287c0a5d38876376e8731
+02:28:29 <Tamil> And what will do next?
+02:29:27 <Muthuramalingam> Tamil - dont hard code your file location like uploadfile=upload('tamilvelanpython','C://Users/ELCOT/Downloads/internetarchive.pdf')
+02:30:11 <shrini1> Tamil: did you download all the PDF files from that site using code?
+02:30:33 <Tamil> yes
+02:31:02 <Tamil> merge the all program!
+02:31:11 <Muthuramalingam> Tamil store all the PDF locations in a text file.  Open that file.  Read each PDF location and pass that to uploadfile.  
+02:31:50 <Tamil> ok
+02:33:00 <Tamil> today i will try.
+02:34:23 <Muthuramalingam> ok, any other questions?
+02:35:11 <Muthuramalingam> For all - Have your 'About Us' page in blog properly.  Think about yourself.  Give a good self intro. there
+02:35:34 <Janet> Ok
+02:36:20 <shrini1> Janet: make a command line version of your tool first
+02:36:29 <shrini1> Let us make it as web ui later
+02:36:56 <Janet> OK shrini
+02:37:03 <shrini1> Make a config file as config.yaml
+02:37:53 <Janet> I will start working on command line version
+02:38:04 <shrini1> In that file, give variables and values like text to add, images resolution, images folder path, flicker api, flicker album name etc
+02:38:18 <shrini1> Then parse that file and run all the process
+02:38:38 <shrini1> Command line applications are really powerful in realtime
+02:38:38 <miranda> Command line version means without flask or django shrini?
+02:38:43 <shrini1> Yes
+02:38:55 <shrini1> In works as a command
+02:39:21 <shrini1> Once CLI version is done, we can make it as a web application
+02:39:51 <Muthuramalingam> shrini1 you mixed both Miranda and Janet codings.  Anyways, Janet - if you are not working on flickr right now, you can skip that part alone in your file. 
+02:40:18 <shrini1> Imagine we have to use your application for 1000 0 images
+02:40:30 <shrini1> Oh sorry if I mixed
+02:40:59 <Muthuramalingam> no issues, both their projects are closed aligned.  
+02:41:02 <Janet> No issues 
+02:41:06 <shrini1> My above suggestion is for the image resize, add label, upload to flickr project
+02:41:10 <Muthuramalingam> *closely
+02:42:01 <Muthuramalingam> Tamil has changed his wordpress favicon .  Others can also try during free time.  
+02:42:51 <miranda> ok muthu
+02:43:14 <miranda> ok shrini
+02:44:41 <Muthuramalingam> other questions if any
+02:45:19 <Janet> As for now no questions from my side
+02:46:31 <shrini1> Tamil: are you using IA upload?
+02:46:53 <Tamil> yes
+02:46:57 <Tamil> blog: https://tamilvelanpython.wordpress.com/2020/06/25/upload-file-using-internetarchive/
+02:47:30 <shrini> ok Tamil 
+02:48:07 <miranda> I can retrieve the path with os module.. are i have to use glob module shrini?
+02:48:20 <shrini> glob will be easy
+02:48:34 <miranda> ok shrini..
+02:48:49 <miranda> Today i ll learn glob module..
+02:49:10 <shrini> search on how to get all files in a directory using glob
+02:49:43 <miranda> ok shrini..
+02:49:59 <shrini> Dont use double .. miranda 
+02:50:08 <shrini> for full stop single . is enough
+02:50:17 <miranda> ok shrini
+02:50:43 <shrini> off topic discussion now
+02:50:53 <shrini> any one can leave if required
+02:51:12 <shrini> how many of you are writing journal or diary daily?
+02:51:27 <Janet> No
+02:51:37 <Muthuramalingam> no
+02:51:40 <miranda> I wrote journals but not now..
+02:51:52 <Tamil> no
+02:51:59 <Muthuramalingam> writing journal daily? shrini
+02:52:19 <Muthuramalingam> journal is science and tech publications right. 
+02:52:31 <shrini> hahah
+02:52:43 <shrini> journal is another name for diary
+02:53:04 <Muthuramalingam> oh.. :') :') 
+02:53:20 <shrini> https://en.wikipedia.org/wiki/Journal
+02:53:44 <shrini> if you are not writing, make a habit of writing daily
+02:53:53 <karpagam> Hi all
+02:54:03 <Muthuramalingam> I took meaning from here - https://ta.wiktionary.org/wiki/journal
+02:54:10 <shrini> on a personal diary with paper or in blog or on a plain text file
+02:54:12 <Muthuramalingam> I will edit and add right now. 
+02:54:27 <shrini> karpagam: welcome
+02:54:42 <shrini> karpagam: share your updates
+02:54:55 <karpagam> Because of internet issues its delayed 
+02:55:33 <miranda> Thank you shrini and muthu.I am leaving.
+02:55:48 <shrini1> OK miranda 
+02:55:54 <karpagam> Yesterday I did a program to separate a original file and duplicate file.
+02:56:20 <karpagam> Now i am using my mobile phone
+02:56:49 <karpagam> Unfortunately  the wifi is not connecting in my laptop 
+02:57:07 <karpagam> I sure i will ping you both i telegram 
+02:57:15 <karpagam> In**
+02:57:31 <shrini1> OK karpagam 
+02:57:44 <shrini1> You can update on our telegram group
+02:58:02 <karpagam> Ok shrini
+02:58:47 <shrini> on journaling, write daily 
+02:58:56 <shrini> start with 3-4 lines
+02:59:08 <shrini> just add important things hapened on that day
+02:59:28 <shrini> this will improve your writing skills
+02:59:50 <shrini> if you use computer to write diary, use plantext file
+03:00:09 <shrini> dont use any fancy applications like word processor
+03:00:25 <shrini> learn markdown markup 
+03:00:37 <shrini> use markdown to setup the headings and sub headings
+03:00:58 <shrini> use only text editor like emacs or notepad++
+03:01:23 <shrini> use one single text file, to write all your diary entries
+03:01:35 <shrini> this will be a great asset over years
+03:01:58 <shrini> Thats all for today
+03:02:11 <Muthuramalingam> ok
+03:04:37 <shrini> Tamil: just now checked your blog
+03:04:46 <shrini> good writeup on ia
+03:04:53 <shrini> hope you enjoy it 
+03:04:59 <shrini> instead of trying with selenium
+03:06:00 <shrini> how many PDF you downloaded from that site Tamil?
+03:06:16 <shrini> Muthuramalingam: happy to see many java related blogs on our planet
+03:06:23 <shrini> ask all the students to write
+03:06:39 <shrini> only by writing, they can learn a lot
+03:06:59 <Tamil> that means archive?
+03:07:25 <Tamil> 3 number.
+03:08:25 <Tamil> shrini: hope you enjoy it --> yes :)
+03:08:26 <shrini> Tamil: I asked for the source website
+03:08:43 <shrini> from where we asked to download the books
+03:08:44 <Tamil> 3 pdf 
+03:09:03 <Tamil> gov website 
+03:09:14 <shrini> ttp://www.e-books-chennaimuseum.tn.gov.in
+03:09:18 <shrini> ok
+03:09:25 <shrini> first download all the books
+03:09:33 <shrini> to a local folder
+03:09:43 <shrini> download script should be seperate
+03:10:05 <shrini> then write another script to upload to archive.org from the give folder with pdf files
+03:10:28 <shrini> so taht you can have stages on the project
+03:11:02 <Tamil> ok 
+03:11:46 <shrini> download all the pdf files today and share the count on telegram once done
+03:11:57 <Tamil> which library is used for download for all books
+03:12:36 <shrini> you have to parse the html with requests
+03:12:43 <shrini> and get the URLs
+03:13:06 <shrini> http://github.com/KaniyamFoundation/ProjectIdeas/issues/97
+03:13:21 <shrini> leave a comment here that you are working on this
+03:13:32 <shrini> with your blog url and code url
+03:13:42 <shrini> ask in chennaipy mailing list Tamil 
+03:13:47 <Tamil> ok
+03:14:05 <shrini> on how to browse this website and get the PDF file links
+03:14:07 <Tamil> defintly
+03:14:26 <shrini> tell that you tried with mechanize and it is not supported in python3
+03:14:42 <shrini> before that confirm the support of mechanize for python3
+03:15:00 <shrini> add all your blogpost links and code links on that mail
+03:15:18 <shrini> so that they can understand the project and share their thoughts
+03:15:24 <Tamil> sure
+03:15:34 <shrini> explain in detail on what you try and what you need
+03:15:47 <shrini> ok
+03:15:54 <Tamil> done
+03:16:27 <Tamil> thank you shrini
+03:22:59 <shrini> Thanks all
+03:23:05 <shrini> see you tomorrow
