@@ -1,0 +1,207 @@
+02:00:26 <Muthuramalingam> Good Morning all
+02:00:46 <Tamil> Good Morning
+02:01:51 <Muthuramalingam> We shall start our status updates.  Others may join later.  
+02:01:52 <miranda> Good morning all
+02:01:59 <Muthuramalingam> Miranda - your status
+02:02:07 <miranda> Yesterday : Learned about glob module 
+02:02:36 <miranda> Today:Plan to learn how to store the path in the database
+02:02:50 <miranda> Obstacles: No
+02:02:58 <miranda> https://mirandalakshmi.blogspot.com/2020/06/glob-module-in-python.html
+02:03:10 <miranda> Github link : Nil
+02:03:31 <Muthuramalingam> ok
+02:03:35 <Muthuramalingam> Yesterday: I did not get time to work on Tamil grammar.  Spent little time in testing jitsi vs 8x8.  Created video on Tamil Voice typing in Android.  Today: Will work on Tamil grammar part, prepare Python material.  
+02:04:10 <Muthuramalingam> https://www.youtube.com/watch?v=Myo2pSYIKK0
+02:04:24 <Muthuramalingam> Janet good morning.  
+02:04:36 <Janet23> Good morning muthu
+02:04:38 <Muthuramalingam> share your status.  
+02:04:38 <Janet23> Good morning all
+02:05:04 <Janet23> Yesterday : go through the tutorials about PIL module and CLI. Today's plan : Implement CLI version of user profile uploadObstacles : Finding difficult to create form using CLI. 
+02:05:46 <Muthuramalingam> blog and git link. 
+02:06:01 <Janet23> Project blog:  https://janetpython.wordpress.com/learning/
+02:06:22 <Janet23> Did not work on coding, so not updated github
+02:06:36 <Muthuramalingam> ok
+02:06:47 <Muthuramalingam> Tamil1 your status
+02:07:17 <Tamil1> yestersday try to download all books for goverment site but i can't. so I sent mail to chennaipy.org and  write blog of inhertitance
+02:07:31 <Tamil1> blog : https://tamilvelanpython.wordpress.com/2020/06/26/python-classinheritance/
+02:08:27 <Muthuramalingam> ok
+02:08:29 <Tamil1> Then what is my today task?
+02:08:50 <Muthuramalingam> What is your struggle?  
+02:08:58 <Muthuramalingam> Did you  write a blog post on the same?
+02:09:34 <Tamil1> yes. already shared
+02:09:45 <Muthuramalingam> link?
+02:09:57 <Muthuramalingam> can you share the link Tamil?
+02:10:50 <Tamil1> https://tamilvelanpython.wordpress.com/2020/06/21/web-scraping-using-download-book/?preview_id=86&preview_nonce=11aff2c844&preview=true
+02:13:20 <Muthuramalingam> Tamil1 Did you complete the remaining parts - removing hardcode links from your code?  
+02:13:53 <Muthuramalingam> Janet - what is your obstacle.
+02:14:55 <shrini1> Janet if your application is for the user profile web application, then no need of CLI
+02:15:23 <shrini1> Yesterday I told for the project of image resize, upload to flicker application
+02:15:30 <Tamil1> yes,  hardcode links means?
+02:15:40 <shrini1> You proceed with your original plans Janet21 
+02:16:20 <shrini1> Tamil1: don't add any absolute path in code
+02:16:36 <Muthuramalingam> Tamil1: mentioning the links directly in your code. 
+02:16:59 <shrini1> Your code won't run on my computer, as the headcode directory won't be there in my computer
+02:17:37 <shrini1> Tamil1: if you know selenium, use that to browse the govt website, and get all the PDF links in a text file
+02:18:07 <Tamil1> Ok I will try selenium.
+02:19:01 <Muthuramalingam> any other questions we have to discuss? 
+02:19:41 <miranda> glob.glob("D:/aPython/IRCProjectmiranda/[0-9]*.txt")
+02:20:02 <miranda> one obstacle i faced .when I run in command prompt its working.But if i run in an IDLE program .output is not coming sir.just a empty space is coming
+02:20:18 <shrini1> Tamil1: check the replies from chennaipy 
+02:20:49 <shrini1> IDLE is for quick testing only
+02:21:10 <shrini1> miranda: edit code in a text editor and run in command prompt
+02:21:21 <shrini1> That is the way to go
+02:21:36 <shrini1> IDLE is for running quick code snippet
+02:21:39 <Tamil1> chennaipy-request mail recevied.
+02:22:02 <miranda> Shrini for some programs I am getting the output . Is this a wrong way?
+02:22:37 <shrini1> It is not wrong
+02:22:52 <shrini1> But don't develop your programs in IDLE
+02:22:53 <Muthuramalingam> miranda: IDLE will not work properly some times for big programs.  Dont work on IDLE, command prompt is good to go. 
+02:23:26 <miranda> Then y its not running.i wrote only single line code
+02:25:00 <shrini1> It should run
+02:25:08 <shrini1> What is your code?
+02:25:11 <shrini1> Share here
+02:25:32 <miranda> import glob 
+02:25:40 <miranda> sry shrini
+02:25:55 <miranda> glob.glob(" ")
+02:27:19 <Muthuramalingam> What is the expected output here.  What is the actual output you are getting?
+02:28:10 <miranda> expected output from the imagefolder it should display all the files
+02:28:35 <miranda> but I am getting empty space 
+02:29:02 <miranda> but if I run without IDLE its working
+02:29:09 <shrini1> glob.glob(*)
+02:29:24 <miranda> I have shown in my blog
+02:29:35 <shrini1> all_files=glob.glob(*)
+02:29:51 <shrini1> print(all_files)
+02:29:58 <shrini1> This should work
+02:30:22 <miranda> ok I ll try.
+02:30:55 <miranda> In notepad++ after saving I am running my code. where I ll c my output?
+02:31:17 <shrini1> How do you run the code?
+02:31:37 <miranda> I pressed f5.Just a command prompt flashes and closed
+02:31:54 <shrini1> Open command prompt
+02:32:11 <shrini1> goto the directory where the code is
+02:32:22 <shrini1> cd directry
+02:32:26 <shrini1> Then
+02:32:37 <shrini1> python3 filename.py
+02:32:54 <miranda> S this I tired its working. but is this the procedure?
+02:33:35 <Muthuramalingam> command line execution - using command prompt
+02:33:46 <Muthuramalingam> notepad++ is also another editor like IDLE
+02:34:00 <Muthuramalingam> welcome karpagam 
+02:34:28 <miranda> S muthu.then y its not working in IDLE?
+02:34:29 <karpagam> good morning
+02:34:53 <Muthuramalingam> For all - We are collecting feedback about your IRC Experience here - https://forms.gle/8tUJNLRQ6mvys1o4A
+02:35:08 <Muthuramalingam> Update your feedback without fail. 
+02:35:24 <miranda> OK muthu.
+02:36:15 <Muthuramalingam> karpagam your status
+02:36:32 <Muthuramalingam> sakthi - welcome 
+02:36:43 <karpagam> enakku error eppadi clear panrathu nu therila.. sys.argv kudukalla na eppadi command line access aagum?
+02:36:46 <sakthi> hi muthu
+02:36:56 <karpagam> yesterday i did a program..
+02:37:09 <Muthuramalingam> karpagam - avoid tamilenglish conversation.  
+02:37:24 <Muthuramalingam> and avoid two dots .. too
+02:37:31 <karpagam> ok.
+02:37:48 <Muthuramalingam> give status first.  add your struggles in obstacles part. 
+02:38:18 <Muthuramalingam> sakthi - will you share your status.  then we can get from karpagam. 
+02:38:24 <sakthi> yesterday updateIn the student details page enter the fees in input type, college fees is 50000 means student did not pay full fees.if student pay 20000 means remaining 30000 pending fees show in view student details page.
+02:38:30 <sakthi> TodayAdding the css design in the projectObstacles:- nil
+02:38:58 <sakthi> blog link:https://pythonprogram006.wordpress.com/2020/06/25/university-admission-project-using-python-django-framework-4/
+02:40:02 <Muthuramalingam> ok
+02:40:14 <Muthuramalingam> karpagam - your status
+02:40:25 <karpagam> yesterday i did a program to separate original file and duplicate    obstacles: i got Idexerror while i running the code  
+02:41:44 <Muthuramalingam> today's plan?
+02:41:55 <shrini1> karpagam: how you are running the program?
+02:42:19 <karpagam> i know indexerror means access an index that is outside the bound of a list. but here sys.argv[1] is they only way to access a comand line?
+02:42:33 <karpagam> command prompt
+02:42:56 <shrini1> How you are going to give input?
+02:43:12 <karpagam> my todays plan is clear the error, i konw when i clear the error my program is working perfectly
+02:43:23 <karpagam> idle 
+02:43:37 <shrini1> How you get the input from user?
+02:43:45 <karpagam> i saved the idle programs on script names
+02:44:08 <shrini1> Then?
+02:44:56 <karpagam> after run the cmd like py( check_script.py)
+02:45:07 <karpagam> here check_script is a file name
+02:45:44 <karpagam> sorry   py check_script.py --> this is correct
+02:46:10 <shrini1> What is mean by command line argument?
+02:46:40 <shrini1> What is sys.argv[1] ?
+02:47:25 <miranda> input parameter is passed to the script.
+02:47:48 <karpagam> Command Line Argument is information passed to the program when you run the program
+02:48:02 <karpagam> sys.argv[1]
+02:48:30 <karpagam> is used to represents the first cammand lline programs
+02:48:46 <karpagam> cammand line argument*
+02:49:16 <shrini1> karpagam: ?
+02:49:21 <karpagam> yeah
+02:49:38 <shrini1> How to give a command line argument?
+02:49:49 <shrini1> karpagam: ?
+02:51:09 <karpagam> when you calling sys.argv[1]
+02:51:55 <shrini1> How to give a command line argument?
+02:52:06 <shrini1> Search and show a sample here
+02:52:17 <karpagam> ok 
+02:53:04 <karpagam> import sys
+02:54:49 <karpagam> import sys
+02:54:53 <karpagam> ('Fourth argument:',  str(sys.argv[3]))
+02:57:26 <karpagam> what happens. i am wrong
+02:57:29 <shrini1> Not this
+02:57:45 <shrini1> You have to give the argument not in the code
+02:57:59 <shrini1> You have to give argument while running the code
+02:58:23 <karpagam> ok shrini
+02:58:28 <shrini1> Python code.py argument1 argument2 argument3
+02:58:47 <shrini1> You have to give like this while running code.py
+02:59:22 <karpagam> ok shrini
+03:01:59 <miranda> import glob 
+03:02:08 <miranda> print(glob.glob("apython/*"))
+03:02:21 <miranda> D:\aPython>python3 globmeth1.py
+03:02:30 <shrini1> Ok
+03:02:31 <miranda> []
+03:02:54 <shrini1> Do you have a folder apython in the folder where you have the code?
+03:03:03 <shrini1> Oh
+03:03:13 <shrini1> You are already inside that folder
+03:03:28 <miranda> in apython i am having my file
+03:03:29 <shrini1> Just run dir command
+03:03:50 <miranda> got the files and directoreis.
+03:04:20 <shrini1> Try giving full path inside glob
+03:04:36 <shrini1> Then change to relative path
+03:04:45 <shrini1> On the dir outout
+03:05:03 <shrini1> Do you see a folder named 'apython'?
+03:05:15 <miranda> ok shrini.now i am getting.
+03:05:23 <shrini1> Just give *
+03:05:29 <shrini1> Instead of path
+03:05:35 <shrini1> Inside glob
+03:06:41 <miranda> s got it.thank you shrini. lot of confusion in different IDLE.
+03:06:54 <shrini1> Hmm
+03:07:05 <shrini1> Don't use idle to develop programs
+03:07:15 <miranda> Ok shrini.
+03:07:55 <miranda> Shrini,can we type in notepad and save .py and run in command prompt ?
+03:08:19 <miranda> r I have to type in notepad++?
+03:08:24 <shrini1> Muthuramalingam: can you ask Rangaraj of chennaipy on can you give a talk on your experience about teaching python online in this month chennaipy meet ?
+03:08:32 <shrini1> It is tomorrow
+03:08:40 <shrini1> Ask in mailing list itself
+03:08:52 <shrini1> We have only one talk tomorrow
+03:09:01 <shrini1> It will be nice if we have more
+03:09:32 <shrini1> For next month talk, miranda Tamil karpagam 
+03:09:50 <shrini1> Be prepared to give a talk
+03:09:57 <shrini1> On your project experience
+03:10:02 <karpagam> ok shrini
+03:10:05 <shrini1> Or any other topic
+03:10:54 <miranda> Ok shrini.But I am beginner in python.
+03:12:26 <Tamil> ok shrini but I can't speak in english fulent
+03:13:49 <shrini1> miranda: Tamil that's ok
+03:14:02 <shrini1> Just share what you know
+03:14:09 <shrini1> We have one month time
+03:14:15 <shrini1> Prepare on any topic
+03:14:26 <miranda> About Python Shrini?
+03:14:27 <shrini1> No need for fluent english
+03:14:34 <shrini1> miranda: yes
+03:14:34 <miranda> r any other topic?
+03:14:42 <shrini1> Any topic in python
+03:14:52 <miranda> Ok shrini.
+03:14:53 <Tamil> ok shrini
+03:15:06 <shrini1> Thanks
+03:15:23 <karpagam> ok shrini
+03:15:27 <Tamil> I will give my best.
+03:15:43 <miranda> using PPT r generally we have to talk?
+03:16:14 <shrini1> Your wish
+03:16:24 <miranda> OK shrini.
+03:16:37 <shrini1> Just attend tomorrow meet and see how it goes
+03:17:04 <karpagam> ok sure
+03:17:09 <miranda> Ok sure
+03:18:19 <karpagam> Thank you
+03:20:06 <miranda> Shall I leave?
+03:21:22 <shrini1> Sure
+03:25:14 <miranda> thank you all
