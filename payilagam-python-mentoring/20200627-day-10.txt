@@ -1,0 +1,206 @@
+02:02:34 <Muthuramalingam> Good Morning
+02:02:45 <karpagam> good morning
+02:02:51 <Janet> Good morning all
+02:03:34 <shrini> good morning all
+02:03:41 <Muthuramalingam> We shall start our daily status
+02:03:57 <Janet> Yesterday : On click of view button, the actual image uploaded in uploads folder is resized and uploaded in resized folder. Today's plan : fiew minor changes need to be done in code and create demo of my project, Obstacles : No
+02:04:12 <Janet> Project blog:  https://janetpython.wordpress.com/user-profile-resize/
+02:04:24 <Janet> Github : https://github.com/janetaj/python
+02:05:03 <Muthuramalingam> great progress. shall we get your demo video by Monday? 
+02:05:13 <Janet> OK. Sure
+02:05:53 <Muthuramalingam> miranda - your status
+02:06:02 <miranda> Gud morning all.As I have assigned with lots of college work.I will not be able to continue this project.Give me further suggestions.Thank you for all your support and guidence.Special thanks to shrini and muthu.
+02:06:58 <Muthuramalingam> oh. ok. 
+02:07:08 <shrini> Thats fine miranda 
+02:07:40 <miranda> Any suggestion Shrini and Muthu?
+02:07:56 <shrini> It is always good to say "NO". No is a life saving word
+02:08:03 <shrini> what sugesstion you need miranda ?
+02:08:24 <shrini> you can do the project whenever you get time
+02:08:31 <shrini> and update on the blog
+02:08:43 <shrini> we will read through planet.payilagam.com
+02:08:54 <miranda> Ok sure shrini.
+02:09:08 <shrini> if posssible, ask all your students to write blog on whatever they learn
+02:09:15 <shrini> it will take them to heights
+02:09:30 <shrini> ask them to learn linux and python
+02:09:38 <shrini> they will help for their entire life
+02:09:56 <shrini> I sugeeset you to switch to linux
+02:10:12 <miranda> Ok sure. I am talking with many students.
+02:10:18 <shrini> that will be a move on your life
+02:10:25 <shrini> that will change how you live
+02:10:26 <miranda> Shall I attend this meeting ?
+02:10:31 <shrini> yes
+02:10:40 <shrini> you can still attend this meet
+02:10:44 <shrini> no issues
+02:11:12 <shrini> karpagam: your updates?
+02:11:14 <Muthuramalingam> yes miranda - switching to linux, I did very recently following the suggestion from shrini.  It is fantastic and gives pleasant feeling.  
+02:11:38 <miranda> Thank you Shrini.Ok sure. I will do all my updates whenever time permits.
+02:11:55 <karpagam> yesterday : i study about command line argument  and and write a blog about that
+02:12:08 <karpagam> today plan : clear the error
+02:12:10 <karpagam> https://meyeti199703659.wordpress.com/2020/06/27/command-line-argument-in-python/
+02:12:29 <miranda> Sure muthu. 
+02:13:38 <Muthuramalingam> Yesterday: I spent time on Nannool.  Blog Link: https://kadanthavai.wordpress.com/2020/06/26/%e0%ae%a8%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%82%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%af%8a%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%be%e0%ae%b0%e0%ae%ae%e0%af%8d-%e0%ae%aa%e0%af%86/Today: Will continue the same.  shrini: I have a thirukkural at
+02:13:38 <Muthuramalingam> the same time (3 PM) every saturday.  Thats why I couldnt attend linux meet today.  
+02:14:01 <Muthuramalingam> Obstacle: I couldn't set slug in wordpress yesterday.  Today I will check that.  
+02:15:16 <Muthuramalingam> Tamil - your status
+02:15:38 <Tamil> Yesterday I did selenium using download all link in text file.
+02:16:03 <Tamil> today open a text file and line by line link execute and download the book.
+02:16:44 <Tamil> obstracle is: open a single link in text file is working well. but set of link is not working how to clear this. And how open link in line by line I tried but i can't, I write blog in detail.
+02:16:57 <Tamil> Blog: https://tamilvelanpython.wordpress.com/2020/06/27/selenium-using-download-all-link-in-text-file/
+02:17:17 <Tamil> Github: https://gist.github.com/tamilvelan7/9e90cc36a54904987570fd2fa232e8d2
+02:17:22 <shrini> Tamil: did you add all the PDF links in that file?
+02:17:34 <shrini> how many PDF files are there in total?
+02:18:20 <Tamil> there is no pdf file in upto download page.
+02:19:29 <shrini> Tamil: first, get all the PDF links from that site and write in a text file
+02:19:36 <Tamil> Each link have a each pdf file
+02:19:47 <shrini> in that text file, we need all the links for all the pdf files on that site
+02:19:49 <shrini> yes
+02:19:53 <shrini> is this done?
+02:20:21 <shrini> use selenium to goto all the pages, click the required links and get the download link for the pdf files
+02:20:29 <shrini> is this done?
+02:21:02 <Tamil> No
+02:21:56 <shrini> collect all the links first
+02:22:05 <shrini> use scrapy or selenium 
+02:22:14 <shrini> to get the pdf file links
+02:22:34 <shrini> what is the current content of your text file now?
+02:23:28 <Tamil> page 2-A-Z link in text file 
+02:25:17 <shrini> we dont want all the links on that page
+02:25:23 <shrini> we need only pdf files
+02:25:35 <shrini> we currently donw know how many pdf files are there on the site
+02:25:56 <shrini> traverse the site with selenium and get only pdf file links and store on the text files
+02:26:16 <shrini> then read that file line by line using readlines()
+02:26:23 <shrini> then download each file locally
+02:26:36 <shrini> then upload these files to archive.org
+02:26:46 <shrini> this is the flow 
+02:26:51 <shrini> is this fine Tamil ?
+02:27:05 <Tamil> ok
+02:28:30 <shrini> thanks
+02:29:18 <shrini> For all, did anyone talk to our missing friends?
+02:29:30 <Janet> According to myself, time is not an issue, in python class we had many people in this time only, but in project mentoring section the count is keep on decreasing, main thing they may hesitate to say I didn't do anything today. Next not that much effort clear their issues by using Google. Bcz most of the time we generally depend on others, we think
+02:29:31 <Janet> person only clear our issues, they may try Google, but can't get immediate result. Bcz next day mentoring section they want to show only result. Not their attempts. I took 4 days to find the resize result. Getting immediate result is impossible. Keep on trying then we get result according to our hard work.  Afraid to ask doubts in mentoring
+02:29:31 <Janet> section. These all the reasons as per my thoughts. 
+02:30:24 <shrini> good points Janet 
+02:30:27 <shrini> thanks
+02:30:59 <Janet> Many of them very interactive in python session
+02:31:12 <shrini> we need to know the progress only
+02:31:16 <shrini> not the results
+02:31:34 <Janet> Yes, I understood that
+02:31:38 <shrini> we should inform this on next mentoring sessions
+02:32:02 <Janet> OK shrini
+02:32:06 <shrini> all these mentoring is just to remove the dependancy of others to do any project
+02:32:26 <shrini> we are trying to do all the works by the students only
+02:32:49 <shrini> we have chennaipy mailing list to ask questions
+02:33:18 <shrini> it is completely ok to say that "I did nothing yesterday"
+02:33:45 <shrini> tell these to friends and ask them to join the irc meet
+02:33:57 <Janet> Yes. Can you please share example question posted by Tamil and their response in telegram
+02:33:57 <shrini> is there any issue with the IRC meet format?
+02:34:46 <karpagam> shrini: nop
+02:34:50 <shrini> Janet: Tamil Muthuramalingam karpagam share your thoughts on the IRC meet format
+02:35:13 <shrini> do we have to switch to any video/voice chat for the standup meets?
+02:35:20 <Tamil> No issue
+02:35:32 <Janet> Actually they may feel pushing them to work hard without helping
+02:36:04 <Janet> This what I think
+02:37:01 <karpagam> actually it was a good idea
+02:37:17 <shrini> hmmm
+02:37:29 <shrini> Janet: got it
+02:37:33 <miranda40> According to my point of view. I think many students are struggling to work in the daily basis. as they all are beginners in python.
+02:37:36 <shrini> Janet: how can we improve it?
+02:37:49 <Janet> You all ready to help, but the missing people should speak, so only we can guide them
+02:38:27 <Janet> In telegram all may notice your message, still they are not replying
+02:38:34 <shrini> miranda40: working daily on python only get some confident and expereience
+02:38:45 <shrini> hmmm
+02:38:54 <shrini> link to get feedback from them
+02:39:06 <shrini> and improve ourself on next mentoring sessions
+02:39:24 <miranda40> Many people are in job and working in python .so i think its difficult for them. 
+02:39:26 <shrini> is it possible for any of you to talk to them and get the resons for them to miss
+02:39:38 <shrini> ?
+02:39:49 <Janet> Is is possible to send private message to all, so that they should reply right
+02:39:55 <shrini> yes miranda40 that may be a reason
+02:40:20 <shrini> Janet: can you ping them in private message?
+02:40:26 <shrini> or Muthuramalingam ?
+02:40:37 <shrini> Muthuramalingam: they may answer in pvt message
+02:40:59 <Janet> OK shrini, if Muthu send message they will reply
+02:41:41 <shrini> based on their feedback, we can make changes on the mentoring format 
+02:41:51 <Janet> Ok
+02:41:57 <miranda40> Work pressure is more during this covid period . I think instead of daily updates .we can have updates weekly twice.Becoz many are pressurized. its my suggestion.
+02:42:13 <shrini> now, need your feedback is required
+02:42:27 <shrini> Janet: miranda40 karpagam Tamil Muthuramalingam 
+02:42:45 <shrini> what do you feel on this mentoring program, after the online course
+02:42:48 <shrini> ?
+02:42:54 <shrini> are we doing good?
+02:43:05 <shrini> what are the dofficulties you face?
+02:43:18 <shrini> what are the changes we need on this mentoring program?
+02:43:23 <shrini> is 15 days is fine?
+02:43:28 <Muthuramalingam> shrini - We conducted survey on IRC meet.  The results are good.  Nobody says issues.  
+02:43:29 <Janet> For me it's improving my skills, I keep on spending time to share something regarding python here
+02:43:32 <shrini> is daily standup is fine?
+02:43:53 <shrini> is blogging helping you?
+02:44:11 <shrini> ok Muthuramalingam 
+02:44:42 <shrini> miranda40: yes. In this covid time, every one have too much pressure
+02:44:46 <Janet> It's fine, when we are in wrong flow, u people correcting us
+02:45:44 <karpagam> fine shrini , there is no difficulties i face
+02:45:46 <miranda40> Sure I have improved a lot. But I have two kids and they are going for online classes. Then college work. Laptop is not free. daily i ll sleep only by 12.30 and get up by 5.30.now i am getting heath issues.
+02:46:26 <shrini> oh sorry miranda40 
+02:46:41 <shrini> take care of health
+02:46:54 <shrini> that should be the first priority
+02:47:04 <miranda40> Ok sure. Thank you.
+02:47:09 <shrini> you can read our chatlogs any day
+02:47:18 <shrini> so get some more sleep from tomorrow
+02:47:40 <shrini> skip the project for now
+02:47:56 <Muthuramalingam> The feedback on IRC are: 
+02:47:57 <Muthuramalingam> We get a chance to share about our project, from that we get guidance for travel in a right way of the project. Obstacles are discussed which is very useful to think in a different way
+02:48:16 <shrini> ok Muthuramalingam 
+02:48:17 <miranda40> Ok shrini.Thank you for your suggestion.
+02:48:29 <Muthuramalingam> /This is my first experience and my first online class for payilagam. I did't expect this I learn more about python it is very useful for me and others. I am working for a electronic field so I don't know anything related program. last 2 months is very useful for over the course of a lifetime. IRC is very useful for me Thanks for Shrini and
+02:48:30 <Muthuramalingam> Muthu.//
+02:48:30 <miranda40> Ok muthu.
+02:48:59 <Muthuramalingam> /It's good interaction between you and me there is no issue I think so//
+02:49:13 <Muthuramalingam> I did not notice any negative updates there.  
+02:49:30 <shrini> Muthuramalingam: ok
+02:50:21 <Muthuramalingam> IRC chat is a good option for mentoring.  Whoever attended here are (though with initial struggles) - should be confident enough to discuss technical things with anyone in the world.  They can tell their issues. 
+02:50:40 <shrini> :-)
+02:50:47 <Janet> Yes correct 
+02:50:50 <miranda40> Class point of view there is no issues muthu. It was excellent.But for project we have to work more and learn.Because as of my view if i am searching anything in google it kills more time.
+02:51:05 <shrini> yes miranda40 
+02:51:16 <shrini> that is the reason for the mentoring program
+02:51:25 <shrini> the more you search, the more you learn
+02:51:34 <shrini> we can learn anything by doing only
+02:51:54 <miranda40> S that I experienced but time is very less shrini for working people.
+02:51:55 <shrini> we have spent 30 hours of watching videos by Muthuramalingam 
+02:52:13 <shrini> miranda40: understood
+02:52:25 <Muthuramalingam> miranda - it is not all about completing the project.  It is all about how much you learnt in these days.  These learnings will be useful for your life time.  
+02:52:52 <shrini> yes. completing project is not the goal here
+02:53:01 <miranda40> S I agree Shrini and muthu.
+02:53:01 <shrini> the progress is the learning
+02:53:19 <shrini> learning to search
+02:53:29 <shrini> learning to ask in a public mailing list
+02:53:31 <Muthuramalingam> we all are beginners in python.  Nobody will expect project completion. Everyone wants to know how much freely you tried.  
+02:53:35 <shrini> learning to write blog
+02:53:55 <shrini> learning to give progress update on standup meet
+02:54:06 <Muthuramalingam> positive things I feel is - writing blogs.  Writing blog is gradually changing ourselves.  
+02:54:10 <shrini> this should be the result of the mentoring
+02:55:22 <Muthuramalingam> Most people who did not attend IRC are already not writing blogs, though I insisted in most of the python classes.  
+02:55:26 <miranda40> Ok shrini. S muthu great change in my life before covid and after covid.
+02:55:32 <Muthuramalingam> :)  
+02:56:08 <miranda40> I learnt more. Till day before yesterday I updated my blog and I was working hard.
+02:56:16 <Muthuramalingam> It is their call to get changed.  
+02:57:13 <shrini> we should add few relazations for the working people Muthuramalingam for next events
+02:57:43 <shrini> hope they will give some breathing time for working people
+02:58:06 <Muthuramalingam> shrini - yes, for next event - during the initial days itself, we shall ask everyone's schedule.  Based on that, we can have teams.  
+02:58:10 <shrini> may be like - blog post once in a week, can miss standups, etc
+02:58:29 <shrini> right, splititng by teams also will help
+02:58:44 <shrini> full time students, job seekers, working people
+02:58:46 <miranda40> S that's good idea shrini.
+02:58:49 <Muthuramalingam> yes
+02:59:17 <shrini> thanks miranda40 for bringing these points
+02:59:21 <Muthuramalingam> only by now, I came to know miranda40's tough schedule.  :(
+02:59:33 <shrini> its our fault
+02:59:36 <shrini> sorry for this
+02:59:38 <Muthuramalingam> yes shrini
+02:59:56 <shrini> let us plan better on next time
+03:00:04 <Muthuramalingam> sure
+03:01:54 <shrini> thanks all
+03:02:20 <karpagam> thank you shrini  and muthu
+03:02:35 <Tamil> Today is good conversation for all.
+03:02:40 <Tamil> thank you all
+03:04:30 <miranda40> Thank Shrini and muthu. 
+03:04:37 <miranda40> Thanks
