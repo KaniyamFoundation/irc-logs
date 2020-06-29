@@ -1,0 +1,217 @@
+02:03:11 <Janet> Good morning all
+02:03:24 <shrini`> good morning all
+02:03:54 <Muthuramalingam> Good morning
+02:04:06 <Muthuramalingam> Shall we start status updates
+02:04:09 <karpagam> good morning all
+02:04:16 <Tamil> Good Morning all
+02:04:25 <Muthuramalingam> Janet
+02:04:30 <Janet> Yesterday : created a demo of my project. Today's plan :  analyze about another mini projectObstacles : No
+02:04:50 <Janet> Project blog:  https://janetpython.wordpress.com/user-profile-upload/
+02:05:02 <Janet> Github : https://github.com/janetaj/python
+02:05:13 <Janet> YouTube link : https://youtu.be/kX4ev97UabA
+02:05:50 <Muthuramalingam> Great work Janet
+02:06:42 <Janet> Thank you all
+02:06:43 <shrini`> good work janet
+02:06:52 <shrini`> use any screen recording software
+02:06:54 <Janet> Thank you
+02:06:59 <shrini`> to capture as video
+02:07:03 <shrini`> like OBS studio
+02:07:10 <Muthuramalingam> When you release YouTube videos you can change License to Creative Commons.
+02:07:18 <shrini`> so that you can add voice too
+02:07:23 <Janet> OK will update this video using s/w
+02:07:27 <Muthuramalingam> Try OBS Studio, it is a very nice tool, easy one
+02:07:33 <shrini`> are you using bootstrap css framework?
+02:07:38 <Janet> Yes
+02:07:44 <shrini`> ok
+02:08:00 <shrini`> happy to see the first project completion
+02:08:24 <shrini`> :-)
+02:08:40 <Janet> With all your guidance only I done this project
+02:09:05 <shrini`> Janet: on the github repo
+02:09:18 <shrini`> change the repo name to something relevant to your project
+02:09:33 <Muthuramalingam> Install OBS, Give definitions in Tamil, give your github link in description, Many people will get benefit from you.
+02:09:38 <shrini`> add more details on the README.me on what this repo is all bout
+02:10:05 <Janet> OK muthu, shrini. I will make these changes by today
+02:10:08 <shrini`> just using "python" as repo name is not correct
+02:10:28 <shrini`> Janet: what is your next plans?
+02:10:43 <shrini`> Janet: how much time you can give for python projects?
+02:10:46 <Janet> Need to start another project
+02:10:52 <shrini`> Janet: are you working or student?
+02:11:02 <shrini`> I dont want to add more pressure to you
+02:11:06 <Janet> I can spend only 1 hour per day.
+02:11:15 <shrini`> Janet: thats nice
+02:11:19 <shrini`> thanks
+02:11:36 <shrini`> will look for some other project in the end of today's meet
+02:11:50 <Janet> OK. Thank you
+02:12:19 <Muthuramalingam> karpagam your status
+02:12:23 <karpagam> Yesterday i done my program , i got a output .Today's plan :create a demo video
+02:13:11 <shrini`> karpagam: share some more details
+02:14:41 <karpagam> i got n number errors my project slightly i clear all the error.and also i will note all error because want write a error how i rectify it.
+02:16:11 <karpagam> i can't write a blog because a i spent 5 hours to clear the error.
+02:16:40 <karpagam> after only i got the output.
+02:17:06 <karpagam> i revise all the file oriented programs .. topics
+02:17:14 <shrini`> karpagam: okey
+02:17:32 <shrini`> yes. some errors take even days to fix
+02:17:42 <shrini`> thanks for the great effort
+02:17:59 <karpagam> thank you shrini
+02:18:00 <shrini`> it is ok to skip the blogging for few days
+02:18:12 <shrini`> but make a habit of writing daily
+02:18:13 <Muthuramalingam> cool karpagam - A developer should have this patience and continuous attempts.  You have this!  good.
+02:18:39 <shrini`> we check planet.payilagam.com before this meet, to know the updates from all
+02:18:52 <karpagam> Thank you muthu
+02:18:59 <shrini`> good to see your prpgress
+02:19:09 <shrini`> do you have any queries, doubts?
+02:19:28 <karpagam> No shrini
+02:19:46 <shrini`> ok
+02:19:48 <Muthuramalingam> Last two days, I spent time on Nannool.  I had a thirukkural meeting.  I tried to prepare a tutorial on OpenBoard tool.  But, it was not done.  I should have spent time on Python book.  It was not yet prepared.  Today's plan: Python article, Python Book.  Blog Links:
+02:19:48 <Muthuramalingam> https://kadanthavai.wordpress.com/2020/06/27/thirukkural-anbudaimai/https://kadanthavai.wordpress.com/2020/06/26/nannool-sollathikaram-peyarial/
+02:20:49 <Muthuramalingam> Tamil - your status
+02:21:11 <Tamil> yesterday I complete all pdf link in line by line using excel for download pdf file
+02:22:01 <Tamil> obstacle is can't read text file in readlines() only read() : https://tamilvelanpython.wordpress.com/2020/06/27/selenium-using-download-all-link-in-text-file/   so i take excel format
+02:22:11 <shrini`> Tamil: how many pdf files are there on the site totally?
+02:23:24 <Tamil> sorry i can't take totally only take single by single page
+02:23:52 <shrini`> you should have all the pdf files in a file
+02:23:56 <shrini`> am i right?
+02:24:04 <shrini`> a text file or an excel file
+02:24:12 <shrini`> count the lines and share here
+02:24:31 <Tamil> yes excel file
+02:24:44 <shrini`> open it and count the lines
+02:24:58 <shrini`> can you share a screenshot of that excel file?
+02:25:11 <Tamil> ok
+02:25:16 <shrini`> paste here pasteboard.co/ and share the link
+02:25:20 <shrini`> along with the count
+02:28:34 <Tamil> https://pasteboard.co/Jfgurzr.png
+02:29:35 <shrini`> ok
+02:29:43 <shrini`> can you paste here the first line
+02:29:45 <shrini`> ?
+02:30:27 <Tamil> http://www.e-books-chennaimuseum.tn.gov.in/chennaimuseum/index.php?option=com_abook&view=book&id=289
+02:30:55 <shrini`> how will you download a book with this link?
+02:31:07 <Tamil> Blog is:  https://tamilvelanpython.wordpress.com/2020/06/29/downloading-for-all-pdf-in-government-site/
+02:31:58 <shrini`> ok
+02:32:01 <shrini`> got it
+02:32:15 <shrini`>  how many pdf files you have downloaded totally?
+02:32:28 <Tamil> 10
+02:32:35 <shrini`> in excel file, we have only 15 lines
+02:32:51 <shrini`> how many books are there on the site?
+02:32:54 <shrini`> we need all the books
+02:33:30 <shrini`> I like the way you explore things and completing the tasks
+02:33:38 <shrini`> but keep the things simple
+02:33:51 <shrini`> Do the following
+02:34:31 <shrini`> 1. scrap that site using scrapy or selenium and get all the PDF links
+02:34:49 <shrini`> 2. write down all the links for pdf to a text file
+02:35:12 <shrini`> Now, we should have a text file with X number of pdf file links
+02:35:28 <shrini`> 3. now, read the text file line by line and download the pdf file
+02:35:59 <shrini`> 4. once all the pdf files are downloaded, write another program or use "ia" command to upload them all to archive.org
+02:36:37 <shrini`> the project is to complete all the steps one by one
+02:37:11 <Tamil> I can't read text file in readlines() link can't taken
+02:37:41 <Tamil> can I use excel file
+02:37:47 <shrini`> Tamil: do that as a seperate small program, to read and write text files
+02:37:53 <shrini`> dont use excel file for now
+02:38:01 <shrini`> that will add more complexities
+02:38:16 <Tamil> little
+02:38:17 <shrini`> and you should know how to read and write files
+02:38:42 <shrini`> check here - http://www.e-books-chennaimuseum.tn.gov.in/chennaimuseum/index.php?option=com_content&view=article&id=24&Itemid=144
+02:39:25 <Muthuramalingam> Tamil - you can focus on step #1 - scrapping and getting all PDF links first.  It is not yet done, right?
+02:39:44 <Tamil> yes
+02:39:45 <shrini`> Tamil: total 264 books are there
+02:40:13 <shrini`> Tamil: get all the direct links for the 264 pdf files and write them to text file
+02:40:16 <Muthuramalingam> then, you can start thinking about placing those pdf links in text file.
+02:40:43 <shrini`> In the screenshot you sent, you store main links for the books
+02:41:01 <shrini`> then you use selenium to open that link and get the pdf file link
+02:41:18 <Tamil> yes correct
+02:41:38 <shrini`> on that phase, instead of downloading the file, just write the file URL in a text fike
+02:41:40 <shrini`> file
+02:41:54 <shrini`> we need links for all 264 pdf files
+02:42:04 <shrini`> Tamil: is it okey?
+02:42:36 <shrini`> Tamil: I know you would complete the project by some way
+02:43:04 <shrini`> but, going the above mentioned way, will help you split your future projects on the same way
+02:43:17 <shrini`> it will help a lot in future
+02:43:43 <Tamil> ok i will take all pdf file in text file and line by line.
+02:43:50 <Muthuramalingam> yes, Tamil - complete your project module by module by having above steps. Thus, you can easily complete.
+02:44:14 <Muthuramalingam> Note down shrini's steps.  Complete one by one.
+02:44:39 <shrini`> Tamil: dont think that we are not letting you to complete the project
+02:44:52 <shrini`> Tamil: you are doing awesome works
+02:44:53 <Tamil> I have a doubt, can i take manually pdf link
+02:45:02 <Tamil> thank you
+02:45:12 <shrini`> going extra miles to progress further
+02:45:19 <shrini`> ahahaha
+02:45:28 <shrini`> Tamil: no manual work here
+02:45:30 <Tamil> of course
+02:45:51 <shrini`> getting the pdf file links is the major work here
+02:46:14 <shrini`> you have already found all the things for the next steps like, downlading files
+02:46:19 <shrini`> and uploading to archive.org
+02:46:33 <shrini`> now, focus on scrapping the site
+02:46:43 <shrini`> learn scrapy if required
+02:46:50 <Tamil> ya but is little difficult for getting all pdf file in whole website
+02:47:07 <shrini`> Tamil: it can be difficult
+02:47:26 <shrini`> but that is what web scrapping is
+02:47:44 <shrini`> browing the website automatically, we a human do is web scrapping
+02:47:45 <Tamil> extract all data
+02:47:54 <shrini`> it will give great learnings
+02:48:00 <shrini`> give scrapy a try
+02:48:15 <Tamil> ok I will try.
+02:48:21 <shrini`> ok
+02:48:38 <Muthuramalingam> By the way, shrini and all - We planned for two weeks mentoring till June 30th.  and it is tomorrow.
+02:48:59 <Tamil> oh
+02:49:38 <Tamil> after?
+02:50:37 <shrini`> Janet: Tamil karpagam miranda17 Muthuramalingam you have tell on what to do next?
+02:51:14 <Janet> I like to take few more projects in python
+02:51:22 <shrini`> who are all students or job seekers here?
+02:51:34 <karpagam> my point of viewTake some more projects
+02:52:06 <karpagam> B.E completed , but not working
+02:52:07 <Tamil> Me too take project and learn more
+02:52:30 <Janet> Working as web developer
+02:53:07 <miranda17> Gud morning all,I am not a student or job seeker .out of my interest i learnt python.Just to know some basics about python and help my students in doing projects in final year.
+02:55:12 <Janet> Suggest us few more projects to learn more
+02:55:21 <Tamil> I am working for Repair Engineer till now. lockdown time is useful for learn python. but it is very interesting to learn more.
+02:55:46 <shrini`> good to know about all
+02:56:31 <shrini`> Muthuramalingam: share your thoughts
+02:58:27 <shrini`> fine
+02:58:37 <shrini`> let us continue on this week
+02:58:52 <shrini`> or till you complete the taken project
+02:59:07 <Tamil> Thank you shrini
+02:59:10 <shrini`> Janet: can you explore this issue
+02:59:12 <shrini`> https://github.com/KaniyamFoundation/ProjectIdeas/issues/68
+02:59:21 <shrini`> already taken by Gokul
+02:59:27 <shrini`> but he is too busy
+02:59:35 <miranda17> Thank you Shrini.
+02:59:40 <shrini`> he may not have time to finish it
+02:59:59 <Janet> OK shrini
+03:00:19 <Janet> I will go through this issue
+03:00:23 <shrini`> Janet: what is the languge you use for your works?
+03:00:47 <Janet> Php
+03:00:59 <shrini`> any framework?
+03:01:23 <Janet> No frameworks
+03:01:51 <shrini`> ok
+03:02:03 <shrini`> then I hope you will enjoy learning python and flask
+03:02:08 <Janet> Tell me what to Learn. I will learn
+03:02:44 <shrini`> rest API, flask - these will help you develop backend stuff for any project
+03:02:56 <Janet> OK.
+03:03:07 <shrini`> Django is a full big framework to build web applications quickly
+03:03:26 <shrini`> RabbitMQ is a queue manager
+03:03:32 <Janet> Shall I learn Django along with python
+03:03:46 <shrini`> redis or rq also will help to manage queues
+03:03:48 <shrini`> yes
+03:03:55 <shrini`> django will help a lot
+03:04:04 <Janet> OK shrini
+03:04:15 <shrini`> but before going to django, build few command line applications in python
+03:04:26 <Janet> OK sure
+03:04:29 <shrini`> the real power of python comes with command line only
+03:04:46 <shrini`> for the opds.io project, build as a command line tool
+03:05:02 <shrini`> then you can learn django
+03:05:04 <Janet> Now suggest command line project
+03:05:41 <Janet> I will work on that now
+03:05:47 <shrini`> I shared project idea about opds.io
+03:05:55 <shrini`> Janet:https://github.com/KaniyamFoundation/ProjectIdeas/issues/68
+03:06:06 <Janet> OK shrini
+03:06:07 <shrini`> build this as a command line too
+03:06:15 <Janet> Sure
+03:06:20 <shrini`> on the same issue, write a comment that you are working on that
+03:06:29 <shrini`> so that others wont work on it
+03:06:42 <Janet> OK shrini
+03:07:26 <shrini`> okey all. see you tomorrow
+03:07:37 <Janet> Thank you all
+03:07:45 <karpagam> Thank you all
+03:08:00 <miranda17> Thank You all
+03:08:09 <shrini`> come up with  a plan how we have to help you after the mentoring period (from next week)
+03:08:26 <shrini`> so that we can explore more
+03:08:51 <karpagam> ok sure.
