@@ -1,0 +1,99 @@
+02:00:35 <Muthuramalingam> Good Morning all
+02:00:40 <karpagam> good morning all
+02:02:39 <Muthuramalingam> shall we start our status updates from you karpagam?
+02:03:31 <karpagam> Yesterday : created a demo of my project. Today's plan first clear my laptop because my laptop display virus detected pls restart like that
+02:03:47 <karpagam> my github link:https://github.com/karpagamVT/Check_dupe_file-and-original_file
+02:04:06 <karpagam> wordpress : https://meyeti199703659.wordpress.com/2020/06/29/check-duplicate-file-and-original-file-in-a-directory/
+02:04:18 <karpagam> youtube link : https://youtu.be/sb7AlKEte0Q
+02:05:35 <Muthuramalingam> Good Karpagam
+02:05:48 <karpagam> thank you sir
+02:05:53 <Muthuramalingam> What software you used for recording
+02:06:29 <karpagam> ispring free cam
+02:06:33 <Muthuramalingam> ok
+02:06:52 <karpagam> my voice is clear ?
+02:06:54 <Muthuramalingam> can you release a tamil video of the same.
+02:07:21 <karpagam> yes ofcourse
+02:07:21 <Muthuramalingam> yes, it is good
+02:07:30 <Muthuramalingam> ok
+02:08:02 <Muthuramalingam> Janet your status
+02:08:10 <Janet> Yesterday : learned about xml file generation, implemented small example of creating xml file Today's plan :  create a demo of my project and change name in Github. Obstacles : need to information on my project.
+02:08:28 <Janet> Project blog:  https://janetpython.wordpress.com/create-a-opds-io-compatable-catalog-for-freetamilebooks-com/
+02:09:03 <shrini1> Janet: what information you need?
+02:09:17 <Janet> I am not clear with the flow
+02:09:46 <Janet> Can you share what is the flow, what are the steps involved in this project
+02:10:30 <shrini1> Opds.io is a standard for keeping a book list
+02:10:49 <Janet> Ok
+02:11:16 <shrini1> Any library software like calibre can read a remote opds  XML file and show the list of books there in a remote website
+02:11:41 <shrini1> We run FreeTamilEbooks.com
+02:12:06 <shrini1> We have to generate the opds standard XML file for that site
+02:12:27 <shrini1> We have a custom XML file
+02:12:44 <shrini1> You have learn what is opds standard
+02:12:54 <shrini1> And check our XML file
+02:13:15 <shrini1> Compare them and ask us for any missing detail for opds standard
+02:13:44 <shrini1> Then generate opds  formatted XML file with the details in current XML file
+02:13:50 <shrini1> It is a one time task
+02:14:13 <Janet> OK.  I will write my understanding in my blog. Correct me if I am wrong
+02:14:28 <shrini1> Once it is done, we will ditch the current XML file and couniue to add new book details in opds  format itself
+02:14:58 <shrini1> Learn about opds  first
+02:15:06 <shrini1> And blog about it
+02:15:14 <Janet> OK sure
+02:15:26 <shrini1> What are the details we need about any book to add in opds  format
+02:15:31 <shrini1> Like this
+02:15:44 <shrini1> Then make a XML file manually for 5 books
+02:16:10 <shrini1> Then read our XML file and generate opds  XML file automatically
+02:16:16 <Janet> Ok
+02:16:46 <shrini1> For your previous project make a demo video using screen recording
+02:16:51 <Muthuramalingam> My status
+02:16:54 <shrini1> Add that in your blog
+02:17:05 <Janet> Today will make those chnages
+02:17:07 <Muthuramalingam> Yesterday: I prepared Python article for Open source conference.  parallelly listened to Neechalkaran video in youtube on Tamil Computing.  It is good one.  Link: https://www.youtube.com/watch?v=Hxa-3CxFzYE  If you have time, please listen to it.  Today: Will focus on python material for ebook.
+02:17:59 <Muthuramalingam> Tamil - shall we get your status
+02:18:26 <Tamil> yesterday i don't do anything because of my laptop issue
+02:18:37 <Tamil> today learn scrapy and write program for extract all pdf link
+02:19:04 <shrini1> Ok
+02:20:02 <Muthuramalingam> karpagam - you can have linux along with your windows.  Thus you can avoid virus issues.
+02:20:19 <karpagam> no
+02:20:35 <shrini1> For all, migrate to linux as soon as possible
+02:20:58 <karpagam>  linux are avilabli in net?
+02:21:00 <shrini1> It will give you tons of powertools to do any programs quickly
+02:21:23 <Muthuramalingam> if you still have any important software in windows, search for 'linux mint parallel installation with windows' or 'dual boot linux mint with windows'
+02:21:24 <karpagam> ok shrini i will instal the linux
+02:21:31 <shrini1> Linuxmint is good to start with
+02:21:51 <karpagam> ok muthu and shrini
+02:21:56 <Janet> OK I will slowly move to linux
+02:21:59 <shrini1> Before installing linux, take backup of all your important data
+02:22:18 <karpagam> ok
+02:22:40 <Tamil> ya I feel the linux power
+02:22:42 <shrini1> On some partition mistake, it will wipe all your harddisk and install linux only
+02:22:48 <karpagam> which antivirus software is best ?
+02:22:59 <shrini1> Linux is the best antivirus
+02:23:10 <shrini1> There is no virus in linux
+02:23:12 <karpagam> Tamil: ok tamil
+02:23:37 <karpagam> shrini1: Ok shrini
+02:23:47 <shrini1> Remember to take backup before installing Linux
+02:23:59 <shrini1> There is no recovery software for linux
+02:24:07 <karpagam> sure
+02:24:16 <shrini1> If some thing is gone, it is gone forever
+02:24:19 <Muthuramalingam> if anyone is hesitating to move, I have moved to linux completely few months back.
+02:24:36 <Muthuramalingam> It is hardly 1 hour task.
+02:24:44 <shrini1> I am using only linux for past 15 years happily
+02:25:02 <shrini1> Can do all the things we can do in windows
+02:25:13 <shrini1> We have tons of software for all tasks
+02:25:19 <Muthuramalingam> can do all the things better than windows.
+02:25:53 <Muthuramalingam> Even my kid is enjoying linux games.  In Windows, we always have a fear of virus
+02:26:09 <shrini1> Fine. Thanks all. I am moving to kitchen. See you all tomorrow
+02:26:11 <karpagam> nice, i am surely move on Linux
+02:26:28 <Janet> I too will slowly move
+02:26:43 <Tamil> ok shrini
+02:27:03 <karpagam> shrini1: ok shrini thank you for your guidance and muthu's guidance.
+02:27:11 <Muthuramalingam> any other off topics to be discussed?
+02:28:46 <karpagam> Nop
+02:29:06 <Tamil> No
+02:29:27 <Muthuramalingam> ok then we shall wind up here.
+02:29:34 <Muthuramalingam> thank you all
+02:29:42 <Tamil> Thank you all see you tomorrow.
+02:29:45 <Janet> Thank you all
+02:30:04 <karpagam> thank you
+03:41:34 <Gokul> hi srini ..
+03:45:49 <Gokul> Good Morning ..saw your note regarding : KaniyamFoundation/ProjectIdeas #68 regarding Janet .. Janet can work on the issue parallely let me also try look this week ..
+03:46:57 <Gokul> Actually 2 resources in my project left india due to covid and some visa related issues ..so supporting all apps parallely due to which getting very less time in mentioned above OPDS project .. Thanks for your inputs ..
