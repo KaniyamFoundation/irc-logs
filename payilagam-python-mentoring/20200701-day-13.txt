@@ -1,0 +1,238 @@
+02:01:01 <Janet> Good morning all
+02:01:12 <karpagam> Good Morning
+02:01:22 <miranda55> Good morning all.
+02:01:37 <Tamil> Good morning
+02:01:45 <karpagam> Hi miranda how is your health
+02:02:00 <Muthuramalingam> Good morning
+02:02:17 <miranda55> Still under treatment karpagam.
+02:02:46 <karpagam> ok Take care of your health
+02:02:59 <miranda55> Thank You.
+02:03:44 <Muthuramalingam> Shall we start our status updates
+02:03:56 <Muthuramalingam> from Janet
+02:04:15 <Janet> due to production issue, not able to work in python.
+02:04:44 <Janet> Today's plan :  create a demo of my project and change name in Github and compare opds structure with our xml file
+02:05:20 <Muthuramalingam> ok
+02:05:24 <Muthuramalingam> karpagam
+02:05:28 <karpagam> Yesterday :  i did a program to change color using Tkinter.
+02:05:30 <karpagam> today's : create a demo video about that
+02:05:36 <karpagam> https://github.com/karpagamVT/Change-color-using-tkinter
+02:05:44 <karpagam> https://meyeti199703659.wordpress.com/2020/06/30/sample-program-to-change-the-color-using-tkinter/
+02:05:58 <Muthuramalingam> ok
+02:06:24 <Muthuramalingam> karpagam you can go through kaniyam projects and can take any one.
+02:06:54 <Muthuramalingam> thus, you can get feeling of completing and contributing a real project.  https://goinggnu.wordpress.com/2014/07/23/need-50-ideas-for-a-python-hackathon/
+02:07:04 <karpagam> ok sir
+02:08:18 <shrini> karpagam: can you work on this https://github.com/KaniyamFoundation/ProjectIdeas/issues/70?
+02:08:46 <karpagam> yes sure.
+02:09:00 <shrini> it is to convert epub books to static html web pages
+02:09:19 <karpagam> yeah i see
+02:09:40 <shrini> explore it , read all the comments there
+02:09:59 <shrini> for any queries, ask in the comment itself
+02:10:02 <karpagam> i know html . i have practiced to do html projects
+02:10:10 <shrini> okey
+02:10:10 <Muthuramalingam> Go through What is needed.  Note down the steps one by one.  Ask all your questions, doubts here.
+02:10:52 <Muthuramalingam> First prepare - what is needed.  No technical details - It should be like Business Requirements Specification document.
+02:11:04 <Muthuramalingam> Then, you can complete step by step.
+02:11:16 <karpagam> ok muthu
+02:11:56 <Muthuramalingam> miranda - do you have something to say?
+02:12:36 <miranda55> I am learning data science through you tube.https://youtu.be/--RBFsQXj7c
+02:12:53 <miranda55> https://youtu.be/aV4SJ8TPOVM
+02:13:03 <miranda55> https://youtu.be/HbQpfbJjyP8
+02:13:58 <Muthuramalingam> by the way, did you complete your project?
+02:14:39 <shrini> miranda55 told that she is too busy
+02:14:45 <miranda55> No muthu.
+02:14:52 <Muthuramalingam> ok
+02:14:55 <miranda55> s Shrini.
+02:15:14 <miranda55> I will try to complete.
+02:15:17 <shrini> it is fine to go slowly
+02:15:53 <miranda55> I have some health issue . Soon I ll try to start.
+02:16:11 <Muthuramalingam> oh. ok.  take care.  health is wealth.
+02:16:21 <miranda55> Thank you muthu.
+02:16:34 <shrini`> no issues miranda55
+02:16:44 <Muthuramalingam> Its my turn now.
+02:16:45 <shrini`> you can keep the progress updates on your blog
+02:16:59 <shrini`> we will check it daily even after this mentoring time
+02:16:59 <miranda55> Thank you Shrini. Sure
+02:17:04 <Muthuramalingam> Yesterday: I spent time on preparing Python material.  Today: I will continue that.  I will prepare for blog as well.  Obstacles: No. Blog: No post. Hopefully will resume today.
+02:17:27 <Muthuramalingam> Tamil - your status
+02:18:05 <Tamil> yesterday I tried to get all pdf link in one text but the output is sigle by sigle pdf link i take.
+02:18:19 <Tamil> there is total 378 books
+02:18:31 <shrini`> nice
+02:18:35 <Tamil> Blog: https://tamilvelanpython.wordpress.com/2020/07/01/scrapy-framework/
+02:18:43 <shrini`> Tamil: can you share a screenshot of the text file?
+02:18:51 <Tamil> not nice shrini
+02:19:41 <shrini`> it means?
+02:19:53 <shrini`> I have read the blog post
+02:19:56 <shrini`> good start
+02:20:05 <shrini`> scrapy can do wonders
+02:20:53 <Tamil> but i can't get all link at once
+02:21:17 <Tamil> I think i don't know
+02:21:27 <shrini`> no worries
+02:21:41 <Tamil> any ideas
+02:21:50 <shrini`> just explore scrapy and learn how to browse the website
+02:21:55 <shrini`> as you browse manually
+02:22:06 <shrini`> where are you now?
+02:22:13 <shrini`> what is your doubts?
+02:22:27 <shrini`> I hope you are done with learning scrapy
+02:22:40 <shrini`> you can use it to scrap a web page
+02:22:50 <shrini`> then, what is the issue now?
+02:22:50 <Tamil> still learning
+02:22:55 <shrini`> ok
+02:23:55 <Tamil> this the website of all pdf here : http://www.e-books-chennaimuseum.tn.gov.in/chennaimuseum/index.php?option=com_abook&view=search&Itemid=101
+02:23:55 <shrini`> Tamil: http://www.e-books-chennaimuseum.tn.gov.in/chennaimuseum/index.php?option=com_content&view=article&id=24&Itemid=144
+02:24:27 <shrini`> yes
+02:24:33 <shrini`> open the page with scrapy
+02:24:42 <Tamil> this page is no pdf link
+02:25:02 <shrini`> pdf link in secondary page only
+02:25:12 <shrini`> you have to click each book title
+02:25:17 <shrini`> goto each book's page
+02:25:22 <shrini`> get pdf link
+02:25:27 <shrini`> write to a text file
+02:25:38 <shrini`> again open the book list page
+02:25:46 <shrini`> goto second book's page
+02:25:49 <shrini`> get pdf link
+02:25:53 <Tamil> ok
+02:25:56 <shrini`> and repeat
+02:26:16 <shrini`> scrapy shell is just for quick test only
+02:26:24 <shrini`> test using that shell
+02:26:38 <shrini`> and write programs as a new python file and run
+02:27:01 <Tamil> ok
+02:27:32 <Tamil> Thank you shrini
+02:27:48 <shrini`> take your time
+02:27:53 <shrini`> there is no urgent
+02:28:10 <shrini`> by all these tough project, you will know tons of things
+02:29:24 <Tamil> ok shrini
+02:30:01 <shrini`> off topic discussions now
+02:30:08 <shrini`> join the mailing list http://lists.dgplug.org/listinfo.cgi/users-dgplug.org
+02:30:18 <shrini`> they run summer training every year
+02:30:23 <shrini`> over IRC
+02:31:00 <shrini`> https://dgplug.org
+02:31:21 <miranda55> Shrini,You referred one book for data science.Give the link.
+02:31:31 <shrini`> read more about here - https://dgplug.org/summertraining18/
+02:31:40 <shrini`> miranda55: I forget it
+02:31:52 <shrini`> when did i share it?
+02:32:30 <miranda55> Tamil book by nithiya shrinivasan.
+02:33:44 <shrini`> freetamilebooks.com/authors/nithyaduraisamy/
+02:33:52 <shrini`> http://freetamilebooks.com/authors/nithyaduraisamy/
+02:34:01 <shrini`> all her books are available here
+02:34:09 <miranda55> Oh ok Shrini.Sry.Thank you.
+02:34:36 <shrini`> https://foss.training/
+02:34:43 <shrini`> https://dgplug.org/irclogs/
+02:34:56 <shrini`> all the training logs on IRC are available here
+02:35:02 <shrini`> read these on your free time
+02:35:16 <shrini`> read this too https://summertraining.readthedocs.io/en/latest/
+02:36:51 <shrini`> this year training they have started yesterday
+02:37:05 <shrini`> join their mailing list to get updates on the training
+02:37:21 <shrini`> next
+02:37:39 <miranda55> ok Shrini.
+02:37:56 <shrini`> today evening there is a webinar on "making blogs with wordpress" by Muthuramalingam
+02:37:58 <shrini`> http://www.kaniyam.com/%e0%ae%b5%e0%ae%b2%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%82blog-%e0%ae%89%e0%ae%b0%e0%af%81%e0%ae%b5%e0%ae%be%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b2%e0%ae%be%e0%ae%ae%e0%af%8d-%e0%ae%b5%e0%ae%be/
+02:38:25 <shrini`> this weekend we have a online conference for open source
+02:38:27 <shrini`> http://www.kaniyam.com/announcing-first-tamil-open-source-conference/
+02:38:41 <Muthuramalingam> yes, do attend this open source conference.
+02:38:57 <shrini1> https://youtu.be/TEyJ2dFypJA
+02:38:59 <miranda55> S shrini.Registered.
+02:39:01 <Muthuramalingam> many things you will get to know
+02:39:05 <shrini`> see the trailer here
+02:39:56 <Muthuramalingam> Android workshop, NLP talk, ML talk, ekalappai software compiling, etc, etc.
+02:40:20 <shrini`> Nithya will give a talk on ML
+02:40:42 <shrini`> will release full schedule by friday
+02:40:47 <shrini`> stay tuned
+02:41:23 <Muthuramalingam> in two days, you can get clear idea about technical things, that too in tamil.
+02:41:46 <miranda55> Ok muthu.
+02:42:01 <shrini`> check http://kaniyam.com
+02:42:11 <shrini`> on the right side, check 'பதிவுகளை மின்னஞ்சலில் பெறுக'
+02:42:30 <shrini`> give your email address and confirm the mail you receive
+02:42:39 <shrini`> to get all the updates from us
+02:43:26 <shrini`> next
+02:43:27 <shrini`> https://sachachua.com/sharing/pdfs/2014-02-14%20A%20No-Excuses%20Guide%20to%20Blogging%20-%20Sacha%20Chua%20v4.pdf
+02:43:39 <shrini`> read this wonderful small book on blogging
+02:44:00 <shrini`> this will encourage on writing more
+02:44:22 <shrini`> next
+02:44:30 <shrini`> I am learning emacs editor
+02:44:56 <shrini`> emacs is a text editor but with many many addons
+02:45:09 <shrini`> I am using org-mode to organize my life
+02:45:33 <shrini`> I use that to take notes, write daily journal, prepare to-do list etc
+02:45:41 <shrini`> It has a IRC client too
+02:46:00 <shrini`> I using the emacs IRC client rcirc now
+02:46:15 <shrini`> I am typing from the emacs irc client
+02:46:39 <shrini`> like this, it has RSS feed reader, calculator, games, mail client
+02:47:12 <shrini`> https://xkcd.com/378/
+02:47:20 <shrini`> see a funny comic on emacs
+02:47:34 <shrini`> just remember this name emacs
+02:47:46 <shrini`> start learning it slowly
+02:48:01 <shrini`> it will be a editor for our lifetime
+02:48:14 <shrini`> it is available for all OS
+02:48:22 <Muthuramalingam> Yes, shrini - I saw Mr. Shakthi Kannan's description in twitter.  He mentioned himself as Emacster.  It made me to think about emac.
+02:48:35 <shrini`> just check youtube on "orgmode emacs"
+02:48:51 <shrini`> you can see how it can be helpful to organize our life
+02:49:08 <Muthuramalingam> ok
+02:49:09 <Muthuramalingam> sure
+02:49:52 <Muthuramalingam> for all who want to get involved in automating your daily activities - go through https://automatetheboringstuff.com/
+02:50:11 <shrini`> http://www.markwk.com/plain-text-life.html
+02:50:25 <shrini`> read this on the usage of plain text files
+02:50:54 <shrini`> make a habit of note taking on all the things you learn
+02:51:13 <shrini`> by writing notes on your own hand, you can learn anything better
+02:51:29 <shrini`> these notes can help to publish the blogs quickly
+02:51:50 <shrini`> start note taking in plain text file using any editor you use
+02:51:58 <shrini`> then slowly move to emacs
+02:52:17 <shrini`> emacs and org mode can boost your productivity a lot
+02:52:39 <shrini`> no more context switching between applications
+02:52:59 <shrini`> shakthi kannan is telling about emacs for many years
+02:53:08 <shrini`> in all ILUGC meets
+02:53:16 <shrini`> I missed many years
+02:53:30 <shrini`> now only found time to explore emacs
+02:53:35 <shrini`> it is really good
+02:55:07 <shrini`> thats all from me today
+02:55:34 <shrini`> now share your thoughts on how you need to connected after this mentoring time
+02:55:39 <shrini`> we are winding up by friday
+02:55:47 <miranda55> ok Shrini for sharing your infromation.
+02:55:59 <shrini`> so that you can enjoy your mornings :-)
+02:56:18 <shrini`> we are at chennaipy mailing list
+02:56:26 <shrini`> we will read your blogs daily
+02:56:42 <shrini`> we are at payilagam telegram group
+02:57:20 <shrini`> you can share your same update in telegram group along with blog/git link
+02:57:25 <shrini`> anytime
+02:57:30 <shrini`> is this fine?
+02:57:37 <Tamil> sure
+02:58:03 <miranda55> Ok Shrini. Shall I will send my project updates in telegram or Edmodo?
+02:58:27 <miranda55> Ok I ll share in telegram.
+02:58:58 <shrini`> miranda55: yes. first update on your blog
+02:59:14 <shrini`> then share the blog link and github repo link to telegram
+02:59:17 <shrini`> anytime
+02:59:21 <miranda55> Ok sure shrini.
+02:59:32 <shrini`> learning is a lifelong process
+02:59:36 <shrini`> so, go slowly
+02:59:44 <shrini`> take baby steps always
+03:00:00 <shrini`> learning slowly will help much
+03:00:19 <shrini`> we are in too tight schedule
+03:00:26 <shrini`> too many online classes
+03:00:30 <shrini`> too many webinars
+03:00:40 <shrini`> too many social media
+03:00:47 <shrini`> dont attend all
+03:01:01 <shrini`> give attention to only few things
+03:01:07 <miranda55> Ok Shrini.
+03:01:13 <shrini`> learn,take notes,blog, repeat
+03:01:48 <shrini`> take care of mind and body
+03:01:55 <shrini`> write journal daily
+03:02:06 <shrini`> on what you did on that day
+03:02:15 <shrini`> this will give a better future
+03:02:22 <shrini`> i am advising a lot
+03:02:25 <shrini`> sorry
+03:02:31 <shrini`> I am done with today session
+03:02:54 <shrini`> is there any questions?
+03:02:55 <miranda55> Sure I ll try to follow Shrini.
+03:03:29 <Tamil> No shrini your advise is very useful
+03:03:45 <shrini`> thanks
+03:04:01 <shrini`> see you all tomorow
+03:04:15 <Tamil> thank you all
+03:04:32 <miranda55> Really it is motivating me more even though I am having health issues. Thank you shrini
+03:05:11 <shrini`> take care of health miranda55
+03:05:16 <shrini`> all others are next
+03:05:43 <miranda55> Sure shrini. Thank You.
+03:05:47 <shrini`> beyond all the tech things we do, our family needs us more
+03:06:14 <shrini`> only our family is going to suffer a lot, if we are ill
+03:06:32 <shrini`> not our friends, not our collegues, not the social media contacts
+03:06:47 <shrini`> so ditch all digital things and take good rest
+03:06:48 <miranda55> S shrini. I ll take care.
+03:07:16 <shrini`> bye for all
+03:08:12 <miranda55> Thank you Shrini and Muthu for your motivating and caring messages.
