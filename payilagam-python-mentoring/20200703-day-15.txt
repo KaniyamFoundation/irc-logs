@@ -1,0 +1,305 @@
+02:01:32 <Muthuramalingam> Good Morning
+02:01:57 <Janet> Good morning all
+02:02:45 <Muthuramalingam> Shall we start our status updates
+02:03:22 <Janet> Yesterday : converted all blog pages into post in WordPress. created a demo of my project both in Tamil and English. 
+02:03:34 <Janet> YouTube link in English : https://youtu.be/L7FR90NId4k
+02:03:48 <Janet> YouTube link in Tamil: https://youtu.be/CHaAQnAqTVI
+02:04:03 <Janet> Wrote blog about calibre software. Blog : https://janetpython.wordpress.com/2020/07/02/calibre-software/
+02:04:18 <Janet> Today's plan :  Need to work on opds structure
+02:04:34 <Muthuramalingam> ok
+02:05:09 <Muthuramalingam> Janet - it is good that you published in Tamil and in Creative Commons license.  
+02:05:34 <Janet> Thank you 
+02:05:47 <Muthuramalingam> as in future, you may publish videos, blogs more - get to know about Creative Commons License too.  
+02:05:59 <Janet> Yeah sure
+02:06:00 <Muthuramalingam> Shrini's video is available on the same in YouTube.  
+02:06:38 <Janet> Can you please share link here
+02:07:07 <shrini1> https://youtu.be/CmjvrqrvEe8
+02:07:09 <Muthuramalingam> https://www.youtube.com/watch?v=CmjvrqrvEe8
+02:07:24 <Janet> OK thank you 
+02:07:26 <shrini1> This is intro video about creative commons license
+02:08:06 <Muthuramalingam> Miranda - do you have anything to share. 
+02:08:08 <Janet> OK shrini, I will watch
+02:08:18 <miranda22> Project I didn't do. I my college they are going to implement moodle. so I  learnt about moodle. my blog https://mirandalakshmit.wordpress.com/2020/07/02/learning-management-system-lms/
+02:08:40 <Muthuramalingam> great.  Moodle - again a Free Software.  
+02:08:44 <miranda22> In*
+02:09:00 <shrini1> Moodle is a good move
+02:09:18 <shrini1> miranda22: learn about OER
+02:09:24 <miranda22> S muthu  and Shrini.
+02:09:29 <shrini1> Open Educational Resources
+02:09:33 <miranda22> ok shrini.
+02:10:00 <shrini1> Publish your class notes free for all in your blog and as eBook in future
+02:10:16 <shrini1> They will help a lot for many students all over the world
+02:10:40 <shrini1> You may write text books in future
+02:10:58 <miranda22> Sure I am having my class notes . I will publish soon.
+02:11:00 <shrini1> Release them all in Creative commons license
+02:11:05 <Muthuramalingam> For all - "Free" Software - is not freely(zero payment) software.  In Free Software, Free talks about Freedom.  
+02:11:10 <shrini1> So that they can be used by all
+02:11:41 <Muthuramalingam> For example, FB, YouTube, Google are "NOT" Free Software.  
+02:11:45 <miranda22> I will learn about CCL and OER
+02:12:07 <miranda22> Ok muthu
+02:12:36 <miranda22> I like to thank muthu. Because this is my first blog in wordpress.
+02:12:43 <shrini1> If possible, make video tutorials for your subject in tamil
+02:12:55 <shrini1> And publish online
+02:13:06 <shrini1> Just like what muthu did
+02:13:25 <shrini1> We don't have any content in tamil for college subjects
+02:13:51 <shrini1> That's why many college students come out with less or no knowledge on the subjects
+02:14:10 <miranda22> S sure Shrini. I have created youtube videos in English but in tamil i ll publish soon.
+02:14:15 <Muthuramalingam> yes
+02:14:17 <shrini1> If we have enough content online in tamil, the next generation will come out with more knowledge
+02:14:34 <shrini1> Nice. Thanks
+02:15:06 <shrini1> Take to interested teachers on making tamil videos and connect to us
+02:15:16 <shrini1> Will help them on all possible ways
+02:15:41 <Muthuramalingam> for all - dont think many people are already doing tamil videos and blogs.  Definitely somebody will like your content and style.  
+02:15:46 <miranda22> Ok shrini. Sure.Thank You.
+02:15:55 <Muthuramalingam> start from known content.  
+02:16:24 <miranda22> Ok muthu.
+02:17:19 <Muthuramalingam> its my turn now.  
+02:17:23 <Muthuramalingam> Yesterday: I attended Swecha remote workshop. 
+02:17:37 <Muthuramalingam> Blog about this: https://kadanthavai.wordpress.com/2020/07/02/swecha-day2-linux-knowledge-commons/
+02:17:47 <Muthuramalingam> Today: Will attend the same.
+02:18:14 <Muthuramalingam> Will check python online workshop URL for tomorrow's conference.  
+02:18:38 <shrini1> Here is a sneak preview
+02:18:41 <shrini1> https://youtu.be/-LMgqf22Wb4
+02:18:59 <shrini1> http://youtube.com/omtamil/live
+02:19:29 <shrini1> Here you can see all the events
+02:19:35 <shrini1> For both the days
+02:19:40 <Janet> OK shrini 
+02:20:03 <Muthuramalingam> In case, if you want to type in tamil in blogs, make use of e kalappai.  
+02:20:04 <Muthuramalingam> https://kadanthavai.wordpress.com/2020/07/01/ekalappai-tamil-typing/
+02:21:40 <shrini1> Next Tamil ?
+02:22:04 <Tamil> yesterday i did all category link stored in list and get one by one
+02:22:23 <shrini1> Good
+02:22:31 <Tamil> Today get the book all book page link
+02:22:40 <shrini1> Ok
+02:22:49 <shrini1> Good job then
+02:22:53 <Tamil> Blog : https://tamilvelanpython.wordpress.com/2020/07/03/selenium-using-get-all-link-stored-in-list-and-get-one-by-one/
+02:23:16 <Tamil> Github: https://gist.github.com/tamilvelan7/28406a094ec702c7a25ec86bc5fad020
+02:23:38 <shrini1> Good work
+02:24:00 <Tamil> Thank you
+02:24:35 <shrini1> Hope you got the point of automation
+02:24:45 <shrini1> You should learn scrapy too
+02:25:05 <shrini1> Send mail to chennaipy list with the issue you get with scrapy
+02:27:16 <Tamil> system not support some software so i can't install. This is my friend laptop windows not supported wheel,twistes etc.,
+02:27:28 <shrini1> Hmm
+02:27:37 <shrini1> Ask there with the error message
+02:27:47 <shrini1> Python should run on all os
+02:27:51 <Tamil> ok
+02:29:02 <shrini1> https://youtu.be/vOwHrtbtDWM here is preview video of Nithya
+02:29:14 <shrini1> For tomorrow machine learning talk
+02:29:41 <Janet> Super
+02:29:50 <miranda22> Woh super.
+02:30:09 <shrini1> https://goinggnu.wordpress.com/2018/10/17/how-to-learn-bigdata-ml-dl-ai-etc/
+02:30:22 <shrini1> Read this and follow all
+02:30:31 <Janet> Sure
+02:30:38 <shrini1> If you like to dive into all new buzz words
+02:30:49 <Janet> Hi I need guidance for my career.
+02:30:58 <miranda22> Ok sure.
+02:30:59 <shrini1> Janet: ask
+02:31:24 <shrini1> I hope you are already on PHP development
+02:31:33 <Janet> I have 8 years experience in IT. Knowledged on html, css, JavaScript, jquery, Bootstrap,CakePHP, WordPress, php. Now learning python.I am working in small organization, whereever work comes I will work on that. Not in a particular domain. For career growth I wish to attend interviews, before that I need to prepare myself. I don't have full
+02:31:34 <Janet> knowledge on above languages, now how I could improve myself on these skills. Can you all suggest me.Because I didn't attend any interviews so far. This is my 2nd company working from 2013. If u give project I can work, but I can't answer in interview point of view
+02:32:30 <Janet> How to make myself confident 
+02:32:37 <shrini1> The easy way is to attend more interviews
+02:32:47 <shrini1> Just to know what they ask
+02:33:04 <Muthuramalingam> 1.  Attend more interviews without any expectation.  
+02:33:28 <Janet> OK 
+02:33:32 <Muthuramalingam> 2. Ask feedback from interviewer if possible after the interviews.  
+02:33:48 <shrini1> Attend 10-20 interviews just to fail
+02:33:54 <Muthuramalingam> 3. Note down all questions after interviews.  
+02:33:59 <shrini1> Don't worry on the fails
+02:34:02 <Muthuramalingam> 4. Prepare for all questions.  
+02:34:30 <Muthuramalingam> 5. More than this, choose any IT friend with good experience.  Ask them to conduct "Mock Interviews" for you.  
+02:35:00 <Muthuramalingam> 6.  Prepare resume properly.  
+02:35:04 <shrini1> Search for php interview questions
+02:35:23 <shrini1> Or Python interview questions
+02:35:46 <Janet> Total experience is high but really worked in few php projects
+02:35:57 <Muthuramalingam> If you say,  I know HTML, CSS, JS, JQuery, PHP, MySQL.  Interviewer may ask question in any area from the list.  
+02:35:57 <shrini1> Learn about software engineering
+02:36:13 <shrini1> Scrum, agile etc
+02:36:18 <Janet> OK shrini
+02:36:18 <shrini1> Learn git
+02:36:29 <Muthuramalingam> Say Clearly mention HTML - 80%, CSS - 90%, JS - 60%, PHP - 65%
+02:36:37 <Janet> Yes Muthu
+02:36:42 <shrini1> The best way is teach 
+02:36:57 <shrini1> By teaching only we can get good confidence
+02:37:12 <Muthuramalingam> like this.  Then, interviewer will get to know which is your strong area.  Then, they will focus on that part more.  
+02:37:34 <Janet> Sure muthu
+02:37:45 <shrini1> If you get time, plan to teach Php via online classes like muthu did
+02:38:00 <shrini1> It will give great experience
+02:38:09 <Tamil> janet: interview tips: https://www.youtube.com/watch?v=RFUNm-0iEmU&list=PLgWpUXNR_WCcT10bOhl-cORQA7YYJ5uCW
+02:38:10 <Janet> Teaching all the php concepts right
+02:38:17 <shrini1> Yes
+02:38:32 <Janet> Thank you Tamil 
+02:38:48 <Janet> OK shrini, I will watch muthu videos on php
+02:38:51 <shrini1> Write a book 
+02:39:33 <miranda22> I also want some suggestion.Shall I ask?
+02:39:36 <Janet> Shall I refer Nithya's ebooks
+02:40:04 <shrini1> Sure
+02:40:08 <shrini1> Ask miranda22 
+02:40:13 <shrini1> Yes Janet 
+02:40:13 <miranda22> In our college they are insisting us to take some classes in "hardware trouble shooting". Because last year from centers they took this course. But this year since its only online mode I don't know whether the students will join the course and spend amount. Can anyone give me some idea about this?
+02:40:18 <shrini1> We have this too
+02:40:19 <Muthuramalingam> For all - dont prepare resume.  Instead, learn git, commit your programs there.  
+02:40:21 <shrini1> https://freetamilebooks.com/ebooks/learn-php-in-tamil/
+02:40:29 <Janet> Thank you all for your suggestions 
+02:40:31 <Muthuramalingam> Then, go to https://resume.github.io/
+02:40:47 <Muthuramalingam> It will automatically prepare your resume based on git contributions.  
+02:41:01 <shrini1> Wow
+02:41:04 <Muthuramalingam> I tried for shrini
+02:41:07 <Muthuramalingam> :)  
+02:41:08 <Muthuramalingam> https://resume.github.io/?tshrinivasan
+02:41:10 <shrini1> Hehe
+02:42:10 <shrini1> Seems nice
+02:42:28 <Janet> Nice muthu
+02:42:41 <shrini1> miranda22: what do you mean by hardware trouble shooting?
+02:42:50 <shrini1> Relating computers?
+02:43:03 <shrini1> Reparing  computers?
+02:43:04 <miranda22> computers and mobiles shrini
+02:43:11 <miranda22> s reparing
+02:43:11 <shrini1> Oh
+02:44:09 <shrini1> Get some hardware trainer and ask them to run online course
+02:44:40 <shrini1> That is the best way
+02:45:20 <Gokul> Hi Shrini and Muthu and everyone in the group .. Good morning all .. 
+02:45:31 <shrini1> Welcome gokul
+02:46:10 <Gokul> Regarding the Shrini and Muthu .. Regarding Chennai Python group its good initiative .. what about group email so that it will easy for me or you share any code reference ..
+02:46:12 <miranda22> Ok shrini.For hardware trainer they will charge more amount.But since its covid situation i don't know whether the students will afford.
+02:46:59 <shrini1> Gokul: chennaipy is the group 
+02:47:06 <shrini1> It has a mailing lisy
+02:47:09 <shrini1> List
+02:47:23 <shrini1> Join there and share anything related to python
+02:47:35 <Gokul> for example i searched briefly opds but iam not sure i am on the right path .. so left over all the time in halfway .. 
+02:47:48 <Gokul> ohhh okay okay ..
+02:48:12 <shrini1> Chennaipy is a very friendly group
+02:48:31 <Gokul> ohh then fine ..will ask questions in future then .. 
+02:49:20 <shrini1> miranda22: is it a mandatory course?
+02:49:44 <shrini1> miranda22: is it part of syllabus?
+02:49:51 <Gokul> One more quick doubt .. related to data analytics yesterday i was breifly studing one article related to SAS VS R VS Python analytics .. and Python its having very good future regarding analytics related ..so you have any breif idea on the same ..
+02:50:38 <miranda22> Not specifically this course. The course apart from regular curriculum  is "Value added course".
+02:50:48 <shrini1> Yes Gokul 
+02:51:02 <shrini1> Python rocks on data science
+02:51:23 <shrini1> It is better than R and SAS
+02:51:46 <shrini1> miranda22: not sure how we can help for hardware course
+02:52:05 <shrini1> May be Muthuramalingam can try with his contacts
+02:52:24 <miranda22> Are any other course u suggest shrini?
+02:52:30 <shrini1> miranda22: share your requirement in detail
+02:52:47 <miranda22> Ok shrini.
+02:53:01 <shrini1> I would suggest all students should learn linux and python
+02:53:18 <Gokul> okay thanks Srini .. then i try something with Python analytics as well and will share the code in our telegram soon once after implementing the opds xml .. 
+02:53:18 <shrini1> That will change all their life
+02:53:34 <shrini1> OK Gokul thanks
+02:53:41 <shrini1> Here is a question for all
+02:54:01 <shrini1> What Payilagam or kaniyam should do next?
+02:54:15 <miranda22> The duration of value added courses is 15 (30) periods of theory or a maximum of theory and Laboratory courses and the course can have a maximum of three hours per day. 
+02:54:52 <Janet> Give us project to improve our skills
+02:55:30 <shrini1> There are many open source projects to contribute
+02:55:47 <shrini1> Just seach net on this
+02:56:01 <shrini1> And you can contribute
+02:56:09 <shrini1> Welcome seth
+02:56:16 <miranda22> I want muthu to take some tamil videos about git,github and gist.github. I searched in net but its not clear.
+02:56:30 <seth> Thanks Shrini 
+02:56:34 <Gokul> Shrini : thats my friend Sethu whom i mentioned in the telegram .. 
+02:56:39 <Janet> We are ready to contribute
+02:57:01 <shrini1> https://freetamilebooks.com/ebooks/eliya_tamizhil_git/
+02:57:18 <shrini1> Here is a good book on git by Muthuramalingam 
+02:57:50 <shrini1> OK Gokul 
+02:58:06 <shrini1> Seth you can read our past chat logs
+02:58:28 <shrini1> Check the topic of this channel to get the logs
+02:58:42 <shrini1> Fine Janet 
+02:58:57 <shrini1> Explore for few wordpress plugins
+02:58:59 <miranda22> Ok shrini.
+02:59:05 <shrini1> And contribute to them
+02:59:15 <Janet> OK shrini 
+02:59:18 <shrini1> They will help a lot to start with
+02:59:27 <Muthuramalingam> ok miranda - I will add git in my list.  
+02:59:28 <seth> Can someone suggests some sample code for python web exploitation?
+02:59:45 <miranda22> Thank you muthu.
+03:00:03 <shrini1> seth: google can give more code
+03:00:25 <shrini1> I used some tools to audit web sites
+03:00:37 <shrini1> Forgot their names
+03:01:44 <shrini1> Zed, zap etc
+03:02:11 <shrini1> Check chennaipy.org 
+03:02:20 <shrini1> And join their mailing list
+03:02:31 <shrini1> You can ask any questions there
+03:02:41 <shrini1> But do a google search before asking
+03:03:08 <seth> Got it. thanks Shrini
+03:03:17 <shrini1> We are at final thoughts time
+03:03:40 <shrini1> Tons of thanks for all your support and hardwork all these days
+03:04:17 <shrini1> All these online mentoring is new for us too
+03:05:02 <Janet> We had great opportunity to come to know many things like blog writing,
+03:05:06 <shrini1> Apologies if I was harsh or not much supportive
+03:05:08 <Janet> Writing ebooks
+03:05:30 <Janet> Good start for us
+03:05:31 <miranda22> Thank you  Shrini and muthu for the great change you both have made in our life. Soon I will satisfy all your needs.
+03:05:36 <shrini1> I wanted you all to learn by yourself
+03:05:50 <shrini1> Self learning is the best thing 
+03:06:04 <Janet> We understood 
+03:06:27 <shrini1> Thanks Muthuramalingam for the great training
+03:06:31 <Janet> Yes off course 
+03:06:40 <miranda22> Really I am working for 19 years in the college but in this 1 month i learnt more.I established more contacts.
+03:06:43 <Janet> Thank you shrini and muthu
+03:06:58 <miranda22> S muthu you are really great.
+03:08:12 <shrini1> Thanks all for your great works
+03:08:15 <Janet> We learned a lot from you all
+03:08:22 <shrini1> Keep sharing your knowledge
+03:08:27 <miranda22> I thank shrini for making me to search and learn from google. Its because of you I started to search in google.
+03:08:37 <shrini1> :-)
+03:09:10 <miranda22> (y) 
+03:09:31 <Gokul> Yes thanks a lot for really great training i never attended earlier .. really nice to attend ..Even my friends used to rag me that attending muthu sir session more focussing than Office works :)  Learned a lot from this session .. Writing blog and moving code to Github lot of knowledge shared in this 1 month training ..appriciate your great effort
+03:09:32 <Gokul> .. 
+03:09:47 <shrini1> You can share your blog posts and code repos to our telegram group anytime
+03:10:08 <shrini1> We will check there and give further updates there itself
+03:10:14 <Janet> Ok
+03:10:30 <miranda22> Ok shrini.
+03:10:40 <shrini1> Thanks gokul
+03:11:13 <shrini1> We will conduct more trainings on IRC
+03:11:18 <Gokul> And also motivational speech from shrini and Khallel also helped to understand how all working in IT its gate open for all in the group .. thanks again ..
+03:11:27 <shrini1> Check training.ilugc.in
+03:12:02 <shrini1> It is a custom python application 
+03:12:28 <shrini1> To run trainings and practise by students all over IRC
+03:13:04 <shrini1> https://mohan43u.space/blog/2020/1-MeeTTY.html
+03:13:14 <shrini1> https://mohan43u.space/blog/2020/meetty/idea.html
+03:13:46 <Janet> Sure 
+03:13:48 <shrini1> Here the developer mohan43u wrote how developed that site with python
+03:14:11 <shrini1> Will announce our trainings too
+03:14:21 <shrini1> Join meetup.com groups
+03:14:29 <shrini1> Attend meetings on your freetime
+03:14:37 <shrini1> Don't just be attnding
+03:14:40 <shrini1> Give talks
+03:14:52 <shrini1> We can grow only when start to give
+03:15:08 <shrini1> The more we share, the more we get
+03:15:52 <shrini1> Feeling hard to leave :-)
+03:16:04 <shrini1> That's all from me for now
+03:16:13 <miranda22> S shrini me too. 
+03:16:19 <shrini1> See you all on another sessions
+03:16:31 <miranda22> S Sure
+03:17:04 <Gokul> Yes for me also .. thats the reason joined today kind of farewell .. thanks again everyone .. really lot learned from everyone .. 
+03:17:25 <shrini1> Yes, feeling like college farewell
+03:17:49 <Tamil> Thanks a lot muthu and shrini
+03:17:52 <shrini1> Thanks all
+03:18:01 <Tamil> :)
+03:18:03 <Gokul> Is Muthu available in the chat ??
+03:18:31 <mohan43u> shrini1: bro thanks for that training.ilugc.in insert :)
+03:19:05 <miranda22> If i want to contact you both related to college. Can you give your official address and contact details?
+03:19:17 <shrini1> tshrinivasan⊙gc
+03:19:18 <Gokul> thanks a lot Muthu .. 
+03:19:46 <shrini1> muthu1809⊙gc
+03:20:12 <Gokul> and will look in detail regarding the links shared Shrini ... Hope telegram chat will be active so we can contact and post our  technical discussions in future as well .. 
+03:20:16 <miranda22> Thanks Shrini.
+03:20:34 <miranda22> S gokul.
+03:21:15 <Gokul> Sure shrini will note your email id by sending test email today ..so that will remember your email ids for future reference .. 
+03:21:32 <shrini1> Sure Gokul 
+03:21:43 <shrini1> Will be on telegram group too
+03:21:56 <shrini1> Muthuramalingam seems busy
+03:22:23 <shrini1> He is attending internship by swecha
+03:22:38 <shrini1> A free software organization in Andra
+03:22:42 <Gokul> Also i shared some openings for freshsers and experience .. pls post your updates ..Got those openings from one of my cousin who is HR in Canada in one company who s havnig some Other hr contacts .. 
+03:23:01 <shrini1> Sure
+03:23:48 <Gokul> thanks Miranda for the reply .. yes everybody will be in contact in the telegram group .. nice to learn with you all for this 1 month .. 
+03:24:35 <miranda22> :] 
+03:25:03 <shrini1> Bye all
+03:25:11 <shrini1> Moving to kitchen to cook
+03:25:38 <Gokul> okay everyone bye for now .. thanks :)
+03:25:57 <miranda22> Oh great. multi Personality person shrini.
+03:26:03 <Tamil> thanks all
+03:26:14 <miranda22> Ok bye everyone. Stay safe.
+

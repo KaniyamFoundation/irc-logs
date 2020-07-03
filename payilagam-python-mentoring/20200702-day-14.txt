@@ -1,0 +1,246 @@
+02:00:12 <shrini1> Hello all 
+02:00:16 <shrini1> Good morning
+02:00:27 <shrini1> Shall we wait for 5 more min?
+02:01:08 <Janet> Good morning all 
+02:01:17 <shrini1> Good morning all
+02:01:25 <shrini1> Let us wait for 5 min
+02:01:47 <shrini1> I am in kitchen
+02:01:52 <shrini1> Will come quickly
+02:02:48 <miranda4> Good morning all
+02:03:22 <Tamil> Good morning
+02:03:50 <miranda4> Ok Shrini
+02:06:10 <shrini`> hello Janet
+02:06:16 <shrini`> start with your updates
+02:06:51 <Janet> Yesterday : created a demo of my project and change name in Github. Wrote a blog about whole project and updated blog, Github links in video. Prepared a blog about opds. YouTube : https://youtu.be/L7FR90NId4kToday's plan :   search opds standard structure. Obstacles : noProject blog:
+02:06:52 <Janet> https://janetpython.wordpress.com/create-a-opds-io-compatable-catalog-for-freetamilebooks-com/
+02:07:32 <Janet> YouTube : https://youtu.be/L7FR90NId4k
+02:08:23 <shrini`> nice work Janet
+02:08:35 <shrini`> use OBS studio to record screen
+02:08:44 <Janet> Thank you shrini
+02:08:48 <shrini`> for any software, search for a free/open source software
+02:08:54 <Janet> Ok
+02:09:22 <shrini`> if we use all free/open source software in windows, then it will be very easy to switch to linux
+02:09:34 <shrini`> we use only the applications all the times
+02:09:41 <Janet> Yes, I got Ur point. 
+02:10:06 <shrini`> share your updates on the telegram group too
+02:10:20 <shrini`> ask everyone to watch the video
+02:10:30 <Janet> Existing project information ah
+02:10:48 <Janet> OK shrini, will update it 
+02:11:05 <shrini`> what is the git url Janet?
+02:11:33 <shrini`> add a final blog post about the project, its git url and demo video
+02:11:39 <Janet> https://github.com/janetaj/User-Profile-Upload-in-Python-Flask-SQLITE3
+02:11:45 <shrini`> nice name
+02:11:55 <Janet> Thank you
+02:12:24 <shrini`> happy to see the good progress
+02:12:27 <shrini`> thanks
+02:12:41 <shrini`> karpagam: next your updates
+02:12:50 <karpagam> Yesterday : i have pending work about interview questions i wrote in last month.i will complete that work .Today :  i want to start a project 
+02:13:13 <karpagam> https://meyeti199703659.wordpress.com/2020/07/01/java-interview-questions/
+02:14:20 <shrini`> karpagam I can not download the file
+02:14:34 <shrini`> you should write all them as blog post itself
+02:14:48 <shrini`> so that they can be easy readable even on mobile
+02:15:00 <shrini`> Janet: I miss your blog posts on planet.payilagam.com
+02:15:04 <karpagam> now i checked its download
+02:15:07 <shrini`> but you blog is added there
+02:15:16 <shrini`> Janet: how are you adding new posts?
+02:15:22 <shrini`> posts->new
+02:15:34 <shrini`> are you creating in this way?
+02:15:38 <shrini`> dont add pages
+02:15:42 <shrini`> create only posts
+02:15:58 <karpagam> ok shrini.
+02:16:23 <shrini`> Janet: create post-> new is for you
+02:16:33 <shrini`> karpagam: I can not still download
+02:16:38 <shrini`> karpagam: leave it
+02:16:46 <karpagam> i will check.
+02:16:50 <shrini`> karpagam you just share as blog post also
+02:17:08 <shrini`> karpagam if your first project is completed, then
+02:17:30 <shrini`> make a blog post along with all git repo, description and a youtube video
+02:17:49 <shrini`> it will help all others to understand what you have done
+02:18:28 <karpagam> want to move other project as you gave yesterday . like to host HTML version of all the free tamil ebooks
+02:18:44 <shrini`> yes
+02:18:49 <Janet> I am adding only pages. Not post 
+02:19:01 <shrini`> Janet: you should add only posts
+02:19:05 <shrini`> not ages
+02:19:12 <Janet> OK will add everything in posts
+02:19:36 <shrini`> pages are only for "about me, contact, profile" etc
+02:19:49 <shrini`> pages are static like any other web site
+02:19:54 <shrini`> posts are dynamic
+02:20:04 <shrini`> add only posts for new contents
+02:20:11 <Janet> OK. Today I will correct those mistakes. 
+02:20:13 <shrini`> move all your existing pages to posts
+02:20:24 <Janet> Sure
+02:20:37 <shrini`> karpagam: I asked for a new blog post for your finished project
+02:20:39 <karpagam> i have one doubt , in my project  (  change to html version in full ebook ?)
+02:20:44 <shrini`> yes
+02:20:45 <shrini`> ask
+02:20:47 <shrini`> karpagam: ?
+02:21:29 <karpagam> https://meyeti199703659.wordpress.com/2020/06/29/check-duplicate-file-and-original-file-in-a-directory/
+02:22:13 <shrini`> ok karpagam
+02:22:21 <shrini`> this post is enough
+02:22:25 <shrini`> you did it already
+02:22:36 <shrini`> ask the question on the new project
+02:23:17 <karpagam> Today only i started a new project.
+02:23:35 <karpagam> *  wnat to start
+02:23:50 <shrini`> karpagam: ok
+02:23:54 <shrini`> no hurries
+02:24:21 <karpagam> ok shrini.
+02:24:33 <shrini`> what is yout doubt karpagam?
+02:25:04 <karpagam> should i need to convert whole ebook as html..
+02:25:16 <shrini`> yes
+02:25:26 <karpagam> ok shrini.
+02:25:57 <shrini`> Tamil: now your updates
+02:26:11 <karpagam> should i create Exact design?
+02:26:31 <shrini`> karpagam it should be a bunch of html pages
+02:26:38 <shrini`> dont worry about the css/design
+02:26:45 <shrini`> extract an epub file
+02:26:53 <shrini`> it will have may html files
+02:27:01 <shrini`> check the TOC file
+02:27:17 <karpagam> okay.
+02:27:18 <shrini`> then link to other html files
+02:28:23 <shrini`> Tamil: are you there?
+02:28:27 <Tamil> Yesterday scrapy can't install in my laptop some software are not support. So i take the selenium 
+02:28:27 <Tamil> write a program for getting pdf link. In my flow is correct
+02:28:40 <Tamil> Blog : https://tamilvelanpython.wordpress.com/2020/07/02/forward-backward-and-click-a-page-using-selenium/
+02:29:01 <Tamil> Github: https://gist.github.com/tamilvelan7/1d5549f39320590ac46d6f3d2c6e4865
+02:29:26 <shrini`> Tamil: it is a good start
+02:29:36 <shrini`> but you should not hard code the book names
+02:29:44 <shrini`> you have to analyse that html structure
+02:29:54 <shrini`> and get the names automatically
+02:30:52 <shrini`> http://www.e-books-chennaimuseum.tn.gov.in/chennaimuseum/index.php?option=com_content&view=article&id=24&Itemid=144
+02:31:02 <shrini`> in this page, check its HTML source
+02:31:03 <Tamil> automatically using get the book name and put it
+02:31:09 <shrini`> all it has a table
+02:31:41 <shrini`> web.find_element_by_link_text("ADIVASIS OF KODIAKKARAI").click()
+02:31:56 <shrini`> you should not hard code the book names like this
+02:32:05 <shrini`> we have around 300 books
+02:32:14 <shrini`> will you add all the book names like this?
+02:32:24 <shrini`> what will you do if we have 1 lakh books?
+02:32:38 <shrini`> just analyse the structure of the html page
+02:32:46 <shrini`> get the table
+02:32:52 <shrini`> get the rows
+02:33:04 <shrini`> get the href element inside a td
+02:33:21 <shrini`> the use it to click to goto next page
+02:33:42 <shrini`> web.find_element_by_link_text("Anthropology").click()
+02:33:42 <shrini`> web.find_element_by_link_text("A PROFILE OF PROFESSOR A. AIYAPPAN & HIS WORKS").click()
+02:34:07 <shrini`> you should not hardcode any of the category or book names like this
+02:34:28 <shrini`> automatically get all these is called web scrapping
+02:34:47 <shrini`> take your time and analyse the structure of the html source content
+02:36:56 <shrini`> got it Tamil?
+02:37:08 <Tamil> 1st get all book name using web scrap in text file and excute the link
+02:37:32 <shrini`> okey
+02:37:39 <shrini`> thats also fine
+02:37:45 <shrini`> go slowly
+02:37:48 <shrini`> no hurries
+02:37:51 <Tamil> ok 
+02:38:07 <shrini`> miranda4: do you have any updates?
+02:39:05 <miranda4> yesterday i attended muthu wordpress webinar and created wordpress website.
+02:39:35 <shrini`> nice
+02:39:40 <shrini`> how was the session?
+02:40:03 <miranda4> Great session.everyone enjoyed the session.
+02:40:22 <miranda4> clearly explained .
+02:40:38 <shrini1>  Ok
+02:40:44 <shrini1> I missed it
+02:41:03 <shrini1> Will see if they shared video
+02:41:25 <Janet> Is that session is updated in our channel? 
+02:41:38 <shrini1> Yes
+02:41:44 <shrini1> Posted on telegram
+02:41:49 <Janet> Ok
+02:42:07 <shrini1> Will get video and share in telegram
+02:42:17 <shrini1> Learning wordpress is good one
+02:42:30 <shrini1> We can build websites using it easily
+02:42:30 <Janet> OK shrini 
+02:42:36 <shrini1> Kaniyam.com 
+02:42:44 <shrini1> FreeTamilEbooks.com
+02:42:54 <shrini1> Are built by wordpress only
+02:43:12 <miranda4> Oh super shrini.
+02:43:37 <karpagam> wow
+02:43:58 <shrini1> Most of the content site will have WordPress or drupal
+02:44:16 <shrini1> They are called as CMS
+02:44:25 <miranda4> Soon I ll make my PG  students to create a wordpress website.
+02:44:28 <shrini1> Content Management System
+02:44:47 <Janet> When I started my career I worked 3 months in WordPress its on 2013
+02:45:01 <shrini1> Good
+02:45:12 <shrini1> All WordPress and drupal are made of PHP
+02:45:26 <Janet> Yes
+02:45:32 <shrini1> building plugins and themes are best selling skills
+02:46:07 <shrini1> miranda4: good
+02:46:27 <shrini1> Ask all students to write their notes on their blog
+02:46:41 <shrini1> Here is a story of Nithya
+02:46:47 <shrini1> She is my wife
+02:47:27 <shrini1> When got married, we decided not to watch TV, as the serial's added lot of troubles in our life
+02:48:47 <miranda4> Oh nice to hear.Ok shrini. We will also not watch serials in TV
+02:49:00 <miranda4> I have not watched serials
+02:50:17 <shrini1> Then
+02:50:23 <shrini1> She got more time
+02:50:33 <shrini1> As I have only linux 
+02:50:48 <shrini1> Asked her to learn it
+02:50:57 <shrini1> She was a tester on those days
+02:51:37 <shrini1> She learnt Linux
+02:52:12 <shrini1> She took notes
+02:52:28 <shrini1> She published the notes in tamil at kaniyam.com
+02:52:40 <shrini1> Then we compiled as eBook and released
+02:52:56 <shrini1> In kaniyam.com and FreeTamilEbooks.com
+02:53:20 <shrini1> She did for mysql, linux, HTML, CSS,JavaScript, 
+02:53:35 <shrini1> Machine learning, deep learning
+02:53:39 <shrini1> Selenium
+02:53:52 <Janet> Great
+02:54:02 <miranda4> Great to hear. Saw her books. 
+02:54:21 <shrini1> She made videos on YouTube on machine learning too
+02:54:39 <miranda4> Share me the link shrini.
+02:54:44 <shrini1> Now she works as a machine learning developer
+02:55:11 <miranda4> Woh super.
+02:55:14 <karpagam> really great 
+02:55:14 <shrini1> She reads all her books only
+02:55:21 <shrini1> Before any interview
+02:55:36 <shrini1> That's enough for her to clear any interview
+02:56:06 <shrini1> https://freetamilebooks.com/authors/nithyaduraisamy/
+02:56:33 <karpagam> youtube channel name ?
+02:56:37 <shrini1> https://m.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg
+02:56:40 <Janet> I will look her books 
+02:56:53 <shrini1> Search as nithya duraisamy  in youtube
+02:57:21 <Janet> We will follow her
+02:57:44 <shrini1> Thus, blogging helped nithya all in her career
+02:58:04 <shrini1> That's why asking all of you to write blogs
+02:58:36 <miranda4> Thank You Shrini. I will share with my colleagues. 
+02:58:45 <shrini1> Welcome gokul
+02:59:00 <Janet> I will share these information to my friends too
+02:59:13 <shrini1> Still nithya is learning new things
+02:59:24 <shrini1> Now on to docker and devops
+03:00:04 <shrini1> New blogs and book on devops will come soon
+03:00:16 <Gokul> Hi shrini .. thanks .. Good morning everyone ..
+03:00:28 <shrini1> Any update from you gokul
+03:00:31 <shrini1> ?
+03:00:33 <miranda4> How she is able to manage household works and spend time in writing books?
+03:00:52 <shrini1> miranda4: we have a agreement
+03:01:10 <miranda4> what agreement shrini?
+03:01:30 <shrini1> If she is reading book or on computer, I have to do all the house hold works
+03:01:49 <shrini1> Cooking, cleaning, kids works all
+03:01:55 <Gokul> No updates from me .. as i still occupied with lot of pending tasks ..will try to post update before friday .. 
+03:01:56 <shrini1> We have 3 kids
+03:02:10 <shrini1> OK Gokul no hurry
+03:02:21 <shrini1> You can post on telegram anytime anyday
+03:02:22 <miranda4> Oh great shrini.
+03:02:30 <shrini1> Don't add pressure to yourself
+03:02:50 <shrini1> https://goinggnu.wordpress.com/2020/04/26/annual-review-what-i-did-on-2019/
+03:03:09 <shrini1> Here is my story of 2019
+03:03:34 <miranda4> Because myself and my husband in same field. But busy in college works and looking after the children's. 
+03:04:01 <shrini1> For all male here, if we do the household works, women can do great wonders
+03:04:30 <shrini1> miranda4: yes. Life is tough for both working families
+03:04:43 <shrini1> Somehow we are managing
+03:05:06 <shrini1> Too much personal stories today
+03:05:06 <miranda4> But my husband is working in thiruvarur.
+03:05:29 <miranda4> I have to take care of the family.
+03:05:35 <shrini1> Oh then even tough for you
+03:05:46 <shrini1> Take care of your health
+03:05:57 <shrini1> Don't add too many tasks
+03:06:03 <shrini1> On mind
+03:06:39 <miranda4> Ok shrini. Thank You for sharing your life experience. 
+03:07:12 <shrini1> Okey
+03:07:16 <shrini1> Thanks all
+03:07:33 <shrini1> Is there any  questions?
+03:08:19 <Tamil> No 
+03:08:25 <Tamil> Thanks 
+03:08:26 <shrini1> If no questions, we can windup for the day
+03:09:15 <miranda52> Ok shrini. Thank you. 
+03:09:32 <Tamil> see you tomorrow.
+
