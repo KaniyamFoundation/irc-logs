@@ -1,174 +1,174 @@
-10:37:40	stephenrajy	hi
-10:37:49	-->	Thas (c63485a3@198.52.133.163) has joined #kaniyam
-10:38:05	-->	Thulasi_Prabha (9d330562@157.51.5.98) has joined #kaniyam
-10:38:11	-->	ThenmozhiVijay (9d3307c8@157.51.7.200) has joined #kaniyam
-10:38:27	-->	LENIN (67cc9c3d@103.204.156.61) has joined #kaniyam
-10:38:36	-->	PavithraB (9d2e5938@157.46.89.56) has joined #kaniyam
-10:38:45	shrini	stephenrajy: hello
-10:38:51	--	LENIN is now known as Guest97578
-10:38:56	-->	seelan (ac61f88c@172-97-248-140.cpe.distributel.net) has joined #kaniyam
-10:39:12	-->	Celin (5af0a851@90.240.168.81) has joined #kaniyam
-10:39:19	Celin	வணக்கம்
-10:39:35	seelan	வணக்கம்
-10:39:37	mohan43u	shrini: I dont have op permissions, try to change topic with 'topicappend' get result as "#kaniyam' is not registered
-10:39:50	ThenmozhiVijay	i have completed date difference calculator project
-10:39:51	ThenmozhiVijay	i have picked weather scrapping project next - today only.
-10:39:51	ThenmozhiVijay	i am checking on how to do scrapping data from any website.
-10:39:52	ThenmozhiVijay	i will update tomorrow on my progress
-10:40:51	Thulasi_Prabha	i have completed Alarm clock
-10:41:05	Thulasi_Prabha	i am working on image processing
-10:41:15	-->	priyaramesh (9d33a3a2@157.51.163.162) has joined #kaniyam
-10:41:57	shrini	ThenmozhiVijay: good
-10:42:12	PavithraB	I am completed Crossword puzzles and i am writing blog about the project and i start with next project
-10:42:17	seelan	i am currently working on web/Internet  usage tool  and CPU high indication call Apache reboot function
-10:42:30	shrini	explore the module beautifulsoup
-10:42:39	Ilango	My project is Scraping PNR status. Got API key from a website. But response code is showing as 201. Not able proceed further and print json
-10:42:48	ThenmozhiVijay	ok sir
-10:43:00	Ilango	Or is there any other option using bs4
-10:43:22	<--	priyaramesh (9d33a3a2@157.51.163.162) has quit (Client Quit)
-10:43:39	-->	Ganesh (1b3e2a9d@27.62.42.157) has joined #kaniyam
-10:43:50	-->	priyaramesh (9d33a3a2@157.51.163.162) has joined #kaniyam
-10:43:52	ThenmozhiVijay	sir can i leave
-10:44:02	shrini	yes ThenmozhiVijay you can leave
-10:44:22	shrini	explore bs4 and requests modules
-10:44:56	shrini	Thulasi_Prabha: what is the image processing you are working on?
-10:45:31	rajarajan	i had completed captcha generator sir
-10:45:46	Ganesh	Hi I'm new to chat, missed last session
-10:45:50	Guest97578	iam currently working in sodoku i will complete it by tommorow
-10:46:08	stephenrajy	i completed uploading image using flickr api task using flickr_api . i am working on the blog for this task .it will be over before 7 pm.
-10:46:09	-->	aishwarya38 (2a6ab958@42.106.185.88) has joined #kaniyam
-10:46:09	<--	priyaramesh (9d33a3a2@157.51.163.162) has quit (Client Quit)
-10:46:14	<--	stephenrajy (9d33b9f0@157.51.185.240) has quit (Quit: Ping timeout (120 seconds))
-10:46:16	<--	Celin (5af0a851@90.240.168.81) has quit (Quit: Ping timeout (120 seconds))
-10:46:17	<--	ThenmozhiVijay (9d3307c8@157.51.7.200) has quit (Quit: Ping timeout (120 seconds))
-10:46:19	<--	Thulasi_Prabha (9d330562@157.51.5.98) has quit (Quit: Ping timeout (120 seconds))
-10:46:22	<--	PavithraB (9d2e5938@157.46.89.56) has quit (Quit: Ping timeout (120 seconds))
-10:46:30	shrini	share your github urls and blogpost urls here
-10:46:39	-->	stephenrajy (9d33b9f0@157.51.185.240) has joined #kaniyam
-10:46:41	shrini	it will help to keep a log on what is doing what
-10:46:45	Ganesh	I don't have a project to work on
-10:47:01	<--	Ganesh (1b3e2a9d@27.62.42.157) has quit (Client Quit)
-10:47:09	<--	Thas (c63485a3@198.52.133.163) has quit (Quit: Connection closed)
-10:47:14	shrini	Ganesh: i can give a list of projects
-10:47:19	shrini	you can pick up
-10:47:58	Guest97578	yes sir send that list
-10:48:39	-->	Thulasi_prabha (9d330562@157.51.5.98) has joined #kaniyam
-10:48:59	shrini	Ilango: bs4 is the best for web scrapping
-10:49:13	rajarajan	here is my Repositories  https://github.com/Rajarajansama/image_captcha.git
-10:49:21	shrini	Guest97578: good to know that you are on sudoku
-10:49:28	Thulasi_prabha	Getting random image from the wikipedia and convert it into grayscale
-10:49:39	shrini	Thulasi_prabha: good
-10:49:41	-->	priyaramesh (9d33a3a2@157.51.163.162) has joined #kaniyam
-10:50:03	-->	PavithraB (9d2e5938@157.46.89.56) has joined #kaniyam
-10:50:13	Thulasi_prabha	Along with try to resize the same image
-10:50:23	shrini	Thulasi_prabha: Get Picture of the image from commons.wikimedia.org and send a tweet and mastodon toot with the url and image
-10:50:38	shrini	do this after your current image processing works
-10:51:15	<--	priyaramesh (9d33a3a2@157.51.163.162) has quit (Client Quit)
-10:51:21	shrini	Ilango: is the PNR status works fine manually?
-10:51:21	Thulasi_prabha	Sure shrini
-10:51:48	shrini	Ilango: what is the website you are scrapping?
-10:51:57	Ilango	shrini no not working
-10:52:09	Ilango	indianrailapi.com
-10:52:23	Ilango	https://indianrailapi.com/
-10:52:52	Thulasi_prabha	Import module is a best Or doing without module is a best shrini
-10:53:30	-->	Muthuramalingam (3cf31b31@60.243.27.49) has joined #kaniyam
-10:53:50	shrini	if some module is available already, use it
-10:54:14	Thulasi_prabha	Thank you
-10:54:16	PavithraB	please tell me how to start this tamilvu and makes as ebooks
-10:54:39	PavithraB	what type of module i can use
-10:54:50	<--	Guest97578 (67cc9c3d@103.204.156.61) has quit (Quit: Connection closed)
-10:55:33	-->	Thulasi_Prabha45 (9d330562@157.51.5.98) has joined #kaniyam
-10:55:43	<--	Thulasi_prabha (9d330562@157.51.5.98) has quit (Quit: Connection closed)
-10:56:01	shrini	check the ebooks links manaully
-10:56:15	shrini	we need them as word documents or text files
-10:56:47	shrini	use beautifulsoup and request modules to click the links, get the content and save in a text file
-10:57:01	shrini	we can conver the text file to word or html later
-10:58:31	PavithraB	ok thank you
-10:58:55	<--	aishwarya38 (2a6ab958@42.106.185.88) has quit (Ping timeout: 248 seconds)
-10:59:14	shrini	Ilango: if that api site is not working, then try http://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en
-10:59:38	shrini	or any other similar site, fill the form with a PNR number and get the next page
-10:59:45	shrini	parse the result and show
-11:00:14	-->	arvind (9d2e539a@157.46.83.154) has joined #kaniyam
-11:00:15	Ilango	shriniOk
-11:00:28	shrini	seelan: For you, check the cpu usage for every second, if it is >50, run the commands to restart apache and mysql
-11:00:54	shrini	if possible, make them as a configuration file, to get cpu limit and commands to run
-11:01:02	shrini	check ConfigParser module
-11:01:29	stephenrajy	https://github.com/stephenraj314/flickrupload.git  i used flickr_api module which packed with Oauth2,requests module . for should i implement this task on Oauth2 and requests without Flickr_api. shrini1
-11:01:32	shrini	arvind: hi
-11:02:09	shrini	stephenrajy: not required
-11:02:21	shrini	stephenrajy: usign exising module is fine
-11:02:52	stephenrajy	thank you
-11:04:05	shrini	stephenrajy: can you work on creating a command linetool to query, tamil wiktionary and show the results?
-11:04:10	-->	Celin (5af0a851@90.240.168.81) has joined #kaniyam
-11:04:38	stephenrajy	yes
-11:04:43	seelan	Thanks Shrini
-11:05:28	shrini	Celin: arvind what are the projects you are working on?
-11:06:14	Celin	web scrapping of flipkart
-11:06:24	seelan	Hi Shrini Can i leave ?
-11:06:36	arvind	Sir get pic from wiki to set as wallpaper
-11:06:37	shrini	seelan: you can leave
-11:06:44	shrini	arvind: ok
-11:07:00	shrini	Celin: any progress or queries?
-11:07:11	Celin	Flipkart web scrapping. இதனை வார இறுதியில் செய்ய முடியவில்லை. இன்று முதல் தொடங்குகிறேன்.
-11:07:21	shrini	Celin: okey
-11:07:40	shrini	arvind: any progress?
-11:07:52	Thulasi_Prabha45	shrini can i leave ?!
-11:08:03	arvind	Started today only
-11:08:43	shrini	ok
-11:08:44	shrini	yes
-11:09:05	shrini	if you have provided the updates, you can leave
-11:09:13	Celin	shrini, BeautifulSoup மாடுயூலை Web Scrapping க்கு பயன்படுத்தலாமா? நன்றி.
-11:09:35	<--	PavithraB (9d2e5938@157.46.89.56) has quit (Ping timeout: 248 seconds)
-11:09:42	shrini	we had a guest who asked for project ideas. is he/she here now?
-11:09:50	shrini	yes Celin 
-11:10:03	shrini	it is good for scrapping
-11:10:22	shrini	explore its tutorials and guides
-11:10:32	Celin	shrini நன்றி.
-11:12:34	Ilango	shrinimanually giving random PNR to check are mostly showing invalid PNR(eventhough PNR naming norms are followed)
-11:13:05	shrini	Ilango: ah. then thats ok
-11:13:15	shrini	we dont know the real PNR numbers
-11:13:35	shrini	then its fine. just check the result and display
-11:13:38	shrini	as it is
-11:13:48	shrini	then move to any other project
-11:14:39	Ilango	result of PNR status? But only on knowing a real PNR I get result. Pls clarify
-11:15:09	shrini	You will get a error message like "invalid PNR" or similar
-11:15:21	Ilango	ok
-11:15:26	shrini	just show the same result what ever you get from the websites
-11:15:35	Ilango	ok
-11:15:39	shrini	try with the website I mentioned
-11:15:56	shrini	fill the form, submit, get error message and display the message
-11:16:09	Ilango	ok
-11:16:16	shrini	this will be a good practise to automate the form filling processes
-11:16:57	<--	arvind (9d2e539a@157.46.83.154) has quit (Quit: Connection closed)
-11:17:17	Ilango	ok. good to know
-11:18:52	<--	stephenrajy (9d33b9f0@157.51.185.240) has quit (Quit: Connection closed)
-11:20:19	shrini	hope you all know how to install modules using pip
-11:20:32	shrini	http://pymbook.readthedocs.io
-11:20:37	shrini	read this super easy book
-11:20:43	-->	stephenrajy (9d33b9f0@157.51.185.240) has joined #kaniyam
-11:20:57	shrini	it is a good book to start python
-11:22:57	<--	Thulasi_Prabha45 (9d330562@157.51.5.98) has quit (Quit: Connection closed)
-11:23:12	shrini	we are done for today
-11:23:25	shrini	If anyone has any quereies, please ask here
-11:23:35	shrini	else, we can leave
-11:24:16	Ilango	thank you
-11:24:23	<--	Ilango (75dd818f@117.221.129.143) has quit (Quit: Connection closed)
-11:24:29	rajarajan	thank you
-11:24:50	stephenrajy	no queries.Thank you
-11:25:14	<--	rajarajan (~Palani_Ve@106.198.62.161) has left #kaniyam
-11:25:20	seelan	Than you Shrini /All
-11:25:57	<--	seelan (ac61f88c@172-97-248-140.cpe.distributel.net) has quit (Quit: Connection closed)
-11:26:01	shrini	stephenrajy: I see a disconnect and reconnect for you
-11:26:19	shrini	is there any issue for you on the connection?
-11:26:36	stephenrajy	yes issue in network
-11:27:05	stephenrajy	is "https://freenode.logbot.info/kaniyam is working now
-11:27:17	shrini	ok
-11:27:24	shrini	the log bot is not working
-11:27:32	shrini	trying to enable it again
-11:27:35	shrini	will do it asap
-11:27:48	shrini	so that we call can read the missing stuff
-11:28:37	stephenrajy	yes , it will be very useful
-11:29:39	shrini	will try today night
-11:30:06	stephenrajy	ok thankyou
-11:30:48	<--	stephenrajy (9d33b9f0@157.51.185.240) has quit (Quit: Connection closed)
-11:34:52	<--	Muthuramalingam (3cf31b31@60.243.27.49) has quit (Quit: Connection closed)
+stephenrajy	hi
+-->	Thas (c63485a3@198.52.133.163) has joined #kaniyam
+-->	Thulasi_Prabha (9d330562@157.51.5.98) has joined #kaniyam
+-->	ThenmozhiVijay (9d3307c8@157.51.7.200) has joined #kaniyam
+-->	LENIN (67cc9c3d@103.204.156.61) has joined #kaniyam
+-->	PavithraB (9d2e5938@157.46.89.56) has joined #kaniyam
+shrini	stephenrajy: hello
+--	LENIN is now known as Guest97578
+-->	seelan (ac61f88c@172-97-248-140.cpe.distributel.net) has joined #kaniyam
+-->	Celin (5af0a851@90.240.168.81) has joined #kaniyam
+Celin	வணக்கம்
+seelan	வணக்கம்
+mohan43u	shrini: I dont have op permissions, try to change topic with 'topicappend' get result as "#kaniyam' is not registered
+ThenmozhiVijay	i have completed date difference calculator project
+ThenmozhiVijay	i have picked weather scrapping project next - today only.
+ThenmozhiVijay	i am checking on how to do scrapping data from any website.
+ThenmozhiVijay	i will update tomorrow on my progress
+Thulasi_Prabha	i have completed Alarm clock
+Thulasi_Prabha	i am working on image processing
+-->	priyaramesh (9d33a3a2@157.51.163.162) has joined #kaniyam
+shrini	ThenmozhiVijay: good
+PavithraB	I am completed Crossword puzzles and i am writing blog about the project and i start with next project
+seelan	i am currently working on web/Internet  usage tool  and CPU high indication call Apache reboot function
+shrini	explore the module beautifulsoup
+Ilango	My project is Scraping PNR status. Got API key from a website. But response code is showing as 201. Not able proceed further and print json
+ThenmozhiVijay	ok sir
+Ilango	Or is there any other option using bs4
+<--	priyaramesh (9d33a3a2@157.51.163.162) has quit (Client Quit)
+-->	Ganesh (1b3e2a9d@27.62.42.157) has joined #kaniyam
+-->	priyaramesh (9d33a3a2@157.51.163.162) has joined #kaniyam
+ThenmozhiVijay	sir can i leave
+shrini	yes ThenmozhiVijay you can leave
+shrini	explore bs4 and requests modules
+shrini	Thulasi_Prabha: what is the image processing you are working on?
+rajarajan	i had completed captcha generator sir
+Ganesh	Hi I'm new to chat, missed last session
+Guest97578	iam currently working in sodoku i will complete it by tommorow
+stephenrajy	i completed uploading image using flickr api task using flickr_api . i am working on the blog for this task .it will be over before 7 pm.
+-->	aishwarya38 (2a6ab958@42.106.185.88) has joined #kaniyam
+<--	priyaramesh (9d33a3a2@157.51.163.162) has quit (Client Quit)
+<--	stephenrajy (9d33b9f0@157.51.185.240) has quit (Quit: Ping timeout (120 seconds))
+<--	Celin (5af0a851@90.240.168.81) has quit (Quit: Ping timeout (120 seconds))
+<--	ThenmozhiVijay (9d3307c8@157.51.7.200) has quit (Quit: Ping timeout (120 seconds))
+<--	Thulasi_Prabha (9d330562@157.51.5.98) has quit (Quit: Ping timeout (120 seconds))
+<--	PavithraB (9d2e5938@157.46.89.56) has quit (Quit: Ping timeout (120 seconds))
+shrini	share your github urls and blogpost urls here
+-->	stephenrajy (9d33b9f0@157.51.185.240) has joined #kaniyam
+shrini	it will help to keep a log on what is doing what
+Ganesh	I don't have a project to work on
+<--	Ganesh (1b3e2a9d@27.62.42.157) has quit (Client Quit)
+<--	Thas (c63485a3@198.52.133.163) has quit (Quit: Connection closed)
+shrini	Ganesh: i can give a list of projects
+shrini	you can pick up
+Guest97578	yes sir send that list
+-->	Thulasi_prabha (9d330562@157.51.5.98) has joined #kaniyam
+shrini	Ilango: bs4 is the best for web scrapping
+rajarajan	here is my Repositories  https://github.com/Rajarajansama/image_captcha.git
+shrini	Guest97578: good to know that you are on sudoku
+Thulasi_prabha	Getting random image from the wikipedia and convert it into grayscale
+shrini	Thulasi_prabha: good
+-->	priyaramesh (9d33a3a2@157.51.163.162) has joined #kaniyam
+-->	PavithraB (9d2e5938@157.46.89.56) has joined #kaniyam
+Thulasi_prabha	Along with try to resize the same image
+shrini	Thulasi_prabha: Get Picture of the image from commons.wikimedia.org and send a tweet and mastodon toot with the url and image
+shrini	do this after your current image processing works
+<--	priyaramesh (9d33a3a2@157.51.163.162) has quit (Client Quit)
+shrini	Ilango: is the PNR status works fine manually?
+Thulasi_prabha	Sure shrini
+shrini	Ilango: what is the website you are scrapping?
+Ilango	shrini no not working
+Ilango	indianrailapi.com
+Ilango	https://indianrailapi.com/
+Thulasi_prabha	Import module is a best Or doing without module is a best shrini
+-->	Muthuramalingam (3cf31b31@60.243.27.49) has joined #kaniyam
+shrini	if some module is available already, use it
+Thulasi_prabha	Thank you
+PavithraB	please tell me how to start this tamilvu and makes as ebooks
+PavithraB	what type of module i can use
+<--	Guest97578 (67cc9c3d@103.204.156.61) has quit (Quit: Connection closed)
+-->	Thulasi_Prabha45 (9d330562@157.51.5.98) has joined #kaniyam
+<--	Thulasi_prabha (9d330562@157.51.5.98) has quit (Quit: Connection closed)
+shrini	check the ebooks links manaully
+shrini	we need them as word documents or text files
+shrini	use beautifulsoup and request modules to click the links, get the content and save in a text file
+shrini	we can conver the text file to word or html later
+PavithraB	ok thank you
+<--	aishwarya38 (2a6ab958@42.106.185.88) has quit (Ping timeout: 248 seconds)
+shrini	Ilango: if that api site is not working, then try http://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en
+shrini	or any other similar site, fill the form with a PNR number and get the next page
+shrini	parse the result and show
+-->	arvind (9d2e539a@157.46.83.154) has joined #kaniyam
+Ilango	shriniOk
+shrini	seelan: For you, check the cpu usage for every second, if it is >50, run the commands to restart apache and mysql
+shrini	if possible, make them as a configuration file, to get cpu limit and commands to run
+shrini	check ConfigParser module
+stephenrajy	https://github.com/stephenraj314/flickrupload.git  i used flickr_api module which packed with Oauth2,requests module . for should i implement this task on Oauth2 and requests without Flickr_api. shrini1
+shrini	arvind: hi
+shrini	stephenrajy: not required
+shrini	stephenrajy: usign exising module is fine
+stephenrajy	thank you
+shrini	stephenrajy: can you work on creating a command linetool to query, tamil wiktionary and show the results?
+-->	Celin (5af0a851@90.240.168.81) has joined #kaniyam
+stephenrajy	yes
+seelan	Thanks Shrini
+shrini	Celin: arvind what are the projects you are working on?
+Celin	web scrapping of flipkart
+seelan	Hi Shrini Can i leave ?
+arvind	Sir get pic from wiki to set as wallpaper
+shrini	seelan: you can leave
+shrini	arvind: ok
+shrini	Celin: any progress or queries?
+Celin	Flipkart web scrapping. இதனை வார இறுதியில் செய்ய முடியவில்லை. இன்று முதல் தொடங்குகிறேன்.
+shrini	Celin: okey
+shrini	arvind: any progress?
+Thulasi_Prabha45	shrini can i leave ?!
+arvind	Started today only
+shrini	ok
+shrini	yes
+shrini	if you have provided the updates, you can leave
+Celin	shrini, BeautifulSoup மாடுயூலை Web Scrapping க்கு பயன்படுத்தலாமா? நன்றி.
+<--	PavithraB (9d2e5938@157.46.89.56) has quit (Ping timeout: 248 seconds)
+shrini	we had a guest who asked for project ideas. is he/she here now?
+shrini	yes Celin 
+shrini	it is good for scrapping
+shrini	explore its tutorials and guides
+Celin	shrini நன்றி.
+Ilango	shrinimanually giving random PNR to check are mostly showing invalid PNR(eventhough PNR naming norms are followed)
+shrini	Ilango: ah. then thats ok
+shrini	we dont know the real PNR numbers
+shrini	then its fine. just check the result and display
+shrini	as it is
+shrini	then move to any other project
+Ilango	result of PNR status? But only on knowing a real PNR I get result. Pls clarify
+shrini	You will get a error message like "invalid PNR" or similar
+Ilango	ok
+shrini	just show the same result what ever you get from the websites
+Ilango	ok
+shrini	try with the website I mentioned
+shrini	fill the form, submit, get error message and display the message
+Ilango	ok
+shrini	this will be a good practise to automate the form filling processes
+<--	arvind (9d2e539a@157.46.83.154) has quit (Quit: Connection closed)
+Ilango	ok. good to know
+<--	stephenrajy (9d33b9f0@157.51.185.240) has quit (Quit: Connection closed)
+shrini	hope you all know how to install modules using pip
+shrini	http://pymbook.readthedocs.io
+shrini	read this super easy book
+-->	stephenrajy (9d33b9f0@157.51.185.240) has joined #kaniyam
+shrini	it is a good book to start python
+<--	Thulasi_Prabha45 (9d330562@157.51.5.98) has quit (Quit: Connection closed)
+shrini	we are done for today
+shrini	If anyone has any quereies, please ask here
+shrini	else, we can leave
+Ilango	thank you
+<--	Ilango (75dd818f@117.221.129.143) has quit (Quit: Connection closed)
+rajarajan	thank you
+stephenrajy	no queries.Thank you
+<--	rajarajan (~Palani_Ve@106.198.62.161) has left #kaniyam
+seelan	Than you Shrini /All
+<--	seelan (ac61f88c@172-97-248-140.cpe.distributel.net) has quit (Quit: Connection closed)
+shrini	stephenrajy: I see a disconnect and reconnect for you
+shrini	is there any issue for you on the connection?
+stephenrajy	yes issue in network
+stephenrajy	is "https://freenode.logbot.info/kaniyam is working now
+shrini	ok
+shrini	the log bot is not working
+shrini	trying to enable it again
+shrini	will do it asap
+shrini	so that we call can read the missing stuff
+stephenrajy	yes , it will be very useful
+shrini	will try today night
+stephenrajy	ok thankyou
+<--	stephenrajy (9d33b9f0@157.51.185.240) has quit (Quit: Connection closed)
+<--	Muthuramalingam (3cf31b31@60.243.27.49) has quit (Quit: Connection closed)

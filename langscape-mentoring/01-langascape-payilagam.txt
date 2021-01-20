@@ -1,233 +1,233 @@
-10:40:32	Celin	வணக்கம்
-10:41:09	shrini1	வணக்கம் Celin 
-10:41:15	RAJARAJAN	good evening sir
-10:41:25	shrini1	Muthuramalingam: எல்லோரும் வந்தாச்சா ?
-10:41:26	Pavithraboopathy	Good Evening sir
-10:41:40	shrini1	Will start in 5 min
-10:42:37	Muthuramalingam	சரி
-10:42:51	<--	Guest75682 (67cc9c3d@103.204.156.61) has quit (Client Quit)
-10:43:01	-->	Ilango83 (75dd8f28@117.221.143.40) has joined #kaniyam
-10:43:33	-->	Thulasi_Prabha (9d3376e3@157.51.118.227) has joined #kaniyam
-10:45:05	Muthuramalingam	ஒரு சிலர் இன்னும் இணையவில்லை
-10:45:10	-->	stephenrajy (9d31ef0c@157.49.239.12) has joined #kaniyam
-10:45:15	Muthuramalingam	இருந்தாலும் தொடங்கலாம்
-10:45:19	shrini1	Ok
-10:45:22	shrini1	Hello all
-10:45:30	shrini1	Welcome to the world of IRC
-10:45:33	JeyaseelanV	Vanakkam
-10:45:39	RAJARAJAN	hello sir
-10:45:45	shrini1	Iit is all text based chat
-10:46:04	shrini1	Keep a file for taking notes, and links shared here
-10:46:20	shrini1	As these text will go away if you close your browser
-10:46:36	shrini1	Not like telegram or WhatsApp
-10:46:44	shrini1	Chats are very realtime
-10:46:55	shrini1	I will share few links here
-10:47:05	shrini1	Copy them all on your notes file
-10:47:06	Celin	வணக்கம்..
-10:47:08	shrini1	https://goinggnu.wordpress.com/2012/05/11/what-to-do-after-learning-python-programming/
-10:47:15	Pavithraboopathy	ok sir.
-10:47:28	shrini1	https://goinggnu.wordpress.com/2014/07/23/need-50-ideas-for-a-python-hackathon/
-10:47:38	Thulasi_Prabha	ok sir
-10:48:18	Ilango83	Ok
-10:48:51	ThenmozhiVijay	ok
-10:48:53	shrini1	https://goinggnu.wordpress.com/2020/04/14/why-i-like-irc-internet-relay-chat-even-in-2020/
-10:49:04	shrini1	Read these links
-10:49:18	shrini1	Join the mailing list at chennaipy.org
-10:49:49	shrini1	Click join link, give your mail I'd, submit
-10:50:03	shrini1	You will get a mail with activation link
-10:50:06	shrini1	Click it 
-10:50:09	-->	Aishwarya (6ac640de@106.198.64.222) has joined #kaniyam
-10:50:21	shrini1	To join the chennaipy mailing g list
-10:50:53	shrini1	https://goinggnu.wordpress.com/2014/07/23/need-50-ideas-for-a-python-hackathon/
-10:51:09	shrini1	In this blog post, I have shared few project ideas
-10:51:15	shrini1	They can be done easily
-10:51:30	shrini1	Hope you all have a blog and github account
-10:51:54	shrini1	Pick a project, work on daily, write a blog post on the days work and push the code to a github repo
-10:52:02	Thulasi_Prabha	yes sir
-10:52:16	shrini1	I will share few more projects in coming days
-10:52:32	Moorthy	Do we need to go through all links now or are they for future reference?
-10:52:46	shrini1	Check the project idea lists first
-10:52:53	shrini1	That is immediate 
-10:53:05	Moorthy	Ok
-10:53:21	shrini1	Other links are for your reference. Read them all asap
-10:53:51	stephenrajy	subscribed chennaipy sir
-10:53:52	shrini1	If you all can read the project list post now,
-10:54:13	Ilango83	 yes I can read
-10:54:14	shrini1	Can everyone pick a project idea, type the idea and your name here
-10:54:39	shrini1	If you have any queries, ask here
-10:54:43	Ilango83	Train PNR status - Ilangoven
-10:54:54	shrini1	It is ok, if you don't understand any idea
-10:55:09	shrini1	We can discuss and I can explain more
-10:55:15	Moorthy	 Credit Card Validator --Suresh
-10:55:25	stephenrajy	upload image in Flickr  - stephenraj
-10:56:05	Thulasi_Prabha	Alarm Clock-Thulasi Prabha
-10:56:16	Celin	Celin - 1. scrap a flipkart.com and get rate of a given peoduct
-10:56:37	shrini1	Happy to see the pickups
-10:56:40	shrini1	:-)
-10:57:14	ThenmozhiVijay	 get two dates and calculate the no of days between them-ThenmozhiVijay
-10:57:15	JeyaseelanV	27. Bandwidth Monitor – A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it.
-10:57:23	Thulasi_Prabha	sir,if i finish my project early can i do one more
-10:57:27	RAJARAJAN	Captcha generator
-10:57:34	shrini1	Few ideas are too small. Once you are done with them, you can take another one
-10:57:50	shrini1	Yes
-10:57:51	Thulasi_Prabha	ok sir
-10:58:01	ThenmozhiVijay	ok sir
-10:58:34	RAJARAJAN	ok sir
-10:58:38	shrini1	Search on google for the project ideas you choose, to read about its basics
-10:58:49	Moorthy	any deadlines for these projects?
-10:58:54	Pavithraboopathy	crossword puzzles -pavithra B
-10:58:59	shrini1	For example, credit xsrd validator has some logics behind it
-10:59:19	shrini1	15 days is the project time
-10:59:24	shrini1	One full sprint
-10:59:28	Moorthy	sounds good!
-11:00:00	stephenrajy	sir i already finished this one "Download picture of the day from http://commons.wikimedia.org and make it as wallpaper or a widget" should i take a new project idea or upgrade this one.
-11:00:00	shrini1	If you have any technical query, ask in the chennaipy mailing liat
-11:00:19	shrini1	Yes stephenrajy pick another one
-11:00:32	stephenrajy	ok sir
-11:01:07	shrini1	We have more real time project ideas here
-11:01:13	shrini1	https://github.com/KaniyamFoundation/ProjectIdeas/issues
-11:02:21	shrini1	That's all for now today
-11:02:24	Moorthy	are we meeting again here same time tomorrow?
-11:02:46	shrini1	Actual projects can start from monday
-11:02:55	JeyaseelanV	Thank you Sir
-11:02:57	Moorthy	Ok. Thanks
-11:03:05	Ilango83	Ok. Thank you
-11:03:05	Thulasi_Prabha	ok sir
-11:03:12	ThenmozhiVijay	ok sir.Thank you
-11:03:13	Celin	1. scrap a flipkart.com and get rate of a given product - இதற்கு, input என்ன? product ID ஆ?
-11:03:15	shrini1	I don't want you all to sit in front of computers on festival days
-11:03:29	shrini1	Celin: product name
-11:03:53	shrini1	For example - Realme x2 pro mobile phone
-11:04:17	shrini1	Muthuramalingam: do you have class tomorrow?
-11:04:28	Muthuramalingam	no
-11:04:33	shrini1	How many days are holifayo for the team?
-11:04:39	shrini1	When is next class?
-11:04:40	Muthuramalingam	tomorrow and day after tomorrow - holidays
-11:04:43	shrini1	Ok
-11:04:56	Muthuramalingam	We can plan on Monday
-11:05:11	Muthuramalingam	as few requested they will go to home town
-11:05:12	shrini1	Then we can have irc session on Saturday, after the class
-11:05:19	shrini1	Ok
-11:05:24	shrini1	Ok 
-11:05:31	shrini1	Then Monday is fine
-11:05:55	shrini1	In the meantime, if anyone have any queries on project idea, ask in telegram
-11:06:01	shrini1	Will answer there
-11:06:10	Thulasi_Prabha	ok sir
-11:06:20	ThenmozhiVijay	ok sir
-11:06:25	Ilango83	Ok
-11:06:38	RAJARAJAN	ok sir
-11:06:40	shrini1	Ok. Shall we have some intro about ourself?
-11:06:54	Pavithraboopathy	sure sir
-11:07:08	shrini1	I am shrinivasan from chennai. Doing devops role for Saama.com 
-11:07:30	shrini1	Contributes to kaniyam.com and FreeTamilEbooks.com
-11:07:44	shrini1	Like this, please share few info about yourself
-11:07:57	shrini1	From where you come, what you do etc
-11:08:16	Ilango83	Ilango from Erode. Jointly running a Organic Store
-11:08:36	shrini1	Nice
-11:08:52	Moorthy	I am Suresh Moorthy from Kumabakonam and I am a chemist.
-11:09:22	shrini1	Ok
-11:09:28	stephenrajy	I am stephen raj from chennai. A job seeker.
-11:09:30	<--	sankar (75d7b0d0@117.215.176.208) has quit (Quit: Connection closed)
-11:09:46	Thulasi_Prabha	I am Thulasi Prabha residue at  dindigul . i am engineering graduate in-stream of Electronics and Communication and i'm a fresher seeking for a job
-11:10:47	shrini1	Good
-11:10:58	ThenmozhiVijay	I am ThenmozhiVijay from chennai. I am a homemaker. seaching for IT job,looking for an exposure in IT field
-11:11:08	RAJARAJAN	i am Rajarajan S from chidambaram, a job seeker
-11:12:11	Aishwarya	 i am aishwarya from vellore. a job seekar
-11:12:21	Pavithraboopathy	I am pavithra from Thirupathur. am searching job
-11:13:25	shrini1	Celin: ?
-11:13:35	shrini1	JeyaseelanV: ?
-11:13:50	Celin	செலின், மென்பொருள் துறையில் பணியாற்றுகிறேன். பைத்தான் கற்க விருப்பம்.
-11:14:19	shrini1	கற்று விட்டீர்கள் Celin 
-11:14:40	shrini1	Shall all yours blog URL and github URL, if you have
-11:14:50	Celin	கொஞ்சம் கொஞ்சம் தான்..
-11:14:53	shrini1	Mine is goinggnu.WordPress.com
-11:15:05	shrini1	Github.com/tshrinivasan
-11:15:05	JeyaseelanV	i am Jeyaseelan  from Canada   doing Linux admin role @Virthusa  Polaris  Looking for  move on devops
-11:15:27	Celin	https://pythonintamil.wordpress.com/
-11:15:29	Ilango83	Ilangoven. Blog: https://wordpress.com/home/pylearnilango.wordpress.com    Git: https://github.com/ilangovenac
-11:15:44	shrini1	Happy to see participants from various places and domains
-11:16:06	shrini1	Python and Linux will help all of us to reach great heights 
-11:16:58	shrini1	If you don't have a blog, start one at WordPress.com and write there daily
-11:16:58	ThenmozhiVijay	https://wordpress.com/posts/thenuvijay.wordpress.com
-11:17:04	shrini1	That is manditory
-11:17:30	Thulasi_Prabha	https://github.com/THULASIPRABHA
-11:17:33	shrini1	Blog url is somename.WordPress.com
-11:17:44	shrini1	Share in this format
-11:17:54	Moorthy	https://github.com/MoorthySuresh
-11:18:01	ThenmozhiVijay	https://github.com/ThenuVijay
-11:18:16	JeyaseelanV	jayseworldblog.wordpress.com --working on it will update soon
-11:18:32	Thulasi_Prabha	http://thulasiprabha.wordpress.com
-11:18:37	shrini1	http://www.kaniyam.com/how-to-get-a-computer-science-job/
-11:18:45	shrini1	Read this post
-11:18:49	RAJARAJAN	https://mycareers1.wordpress.com/blog/
-11:18:54	RAJARAJAN	https://github.com/Rajarajansama/PYTHON.git
-11:20:18	shrini1	If possible, read more about Internet Relay Chat, IRC and write a blog post about it
-11:20:29	ThenmozhiVijay	ok sir
-11:20:33	Pavithraboopathy	https://github.com/pavithrab230/dictionary-in-python
-11:20:40	stephenrajy	Stephen Raj Y . Blog: https://5t3ph3ndotpy.wordpress.com/   GitHub: https://github.com/stephenraj314
-11:20:41	shrini1	How do you all feel on this chat ?
-11:20:53	shrini1	Is it comfortable for you ?
-11:20:59	Thulasi_Prabha	yes sir
-11:21:03	shrini1	Or do you need zoom?
-11:21:04	ThenmozhiVijay	yes sir
-11:21:20	Moorthy	this is like whatsapp chat, but seems to be a productive one.
-11:21:29	Thulasi_Prabha	IRC is comfortable
-11:21:42	shrini1	Ok
-11:21:51	Pavithraboopathy	https://wordpress.com/post/pavithrabboopathy.wordpress.com/158
-11:22:19	Pavithraboopathy	comfortable sir
-11:22:47	shrini1	Can anyone copy all the chat log text from browser, post as a gist in github?
-11:23:00	Celin	ஐ.ஆர்.சி. எளிமையாக உள்ளது
-11:23:01	shrini1	So that the missed people can read them all?
-11:23:13	Thulasi_Prabha	ok sir
-11:23:20	shrini1	Who can volunteer for this daily?
-11:23:43	shrini1	Muthuramalingam: can you do it today?
-11:24:18	shrini1	I am done for today
-11:24:28	shrini1	Anyone can ask any question
-11:24:35	shrini1	We can close in ten minutes
-11:25:15	stephenrajy	Is this real time project is still open can i contribute sir https://github.com/KaniyamFoundation/ProjectIdeas/issues/124 shrini1 sir
-11:25:53	shrini1	It is completed 
-11:26:00	stephenrajy	ok sir
-11:26:02	shrini1	I think you did it already
-11:26:10	stephenrajy	yes sir
-11:26:15	shrini1	Share the cleaned CSV file with all the books list
-11:26:31	stephenrajy	ok sir
-11:27:03	shrini1	Will add few more project ideas there in 2 days
-11:27:12	shrini1	Getting requirements from friends
-11:27:25	shrini1	So that we can work for real users
-11:27:41	<--	Aishwarya (6ac640de@106.198.64.222) has quit (Quit: Connection closed)
-11:27:52	stephenrajy	csv file should be pushed on repo or someother cloud sir
-11:28:03	shrini1	Push to your same repo
-11:28:12	stephenrajy	ok sir
-11:28:16	shrini1	No need to call me sir
-11:28:21	shrini1	Just use my name
-11:28:28	shrini1	Type s and tab
-11:28:34	shrini1	It will be expanded
-11:28:46	shrini1	On the free software world, sir is not required
-11:30:07	Celin	s and tab நல்ல தகவல்
-11:30:10	Celin	நன்றி
-11:30:30	shrini1	These are the tasks for the weekend. 1. Read all the links shared here 2. Write about irc experience 3. Explore about your chosen project idea 4. Write about how you are planning to do the project 
-11:30:48	JeyaseelanV	Thank you Shrini    Happy "Thai Pongal "  to All .
-11:31:03	shrini1	All username will be expanded by first letter and tab
-11:31:18	shrini1	Thanks JeyaseelanV 
-11:31:49	shrini1	Thanks all
-11:31:55	ThenmozhiVijay	happy pongal to all
-11:31:57	Moorthy	Thank you. See you all next week.
-11:32:11	Thulasi_Prabha	Thanks shrini
-11:32:24	Celin	இனிய பொங்கல் நல்வாழ்த்துகள். தைப்புத்தாண்டு நல்வாழ்த்துகள்.
-11:32:34	Ilango83	Thank you
-11:32:40	shrini1	For all, download or copy all the chat logs daily, keep your own copy for notes and links
-11:32:43	RAJARAJAN	thank you
-11:33:05	Thulasi_Prabha	Ok
-11:33:11	shrini1	Check option for download chat logs on the same irc page
-11:33:24	shrini1	Each client have different options
-11:33:54	<--	RAJARAJAN (6ac32472@106.195.36.114) has quit (Quit: Connection closed)
-11:34:31	shrini1	https://github.com/KaniyamFoundation/irc-logs
-11:34:52	shrini1	If you have more time to kill, read our previous chat logs here
-11:35:25	shrini1	Bye all
-11:35:36	shrini1	Happy holidays
-11:35:48	<--	ThenmozhiVijay (9d33328f@157.51.50.143) has quit (Quit: Connection closed)
-11:35:57	Thulasi_Prabha	Bye happy holiday all
-11:36:00	<--	Moorthy (75ddd9c2@117.221.217.194) has quit (Quit: Connection closed)
-11:36:12	Pavithraboopathy	 Thank You And Happy Pongal
-11:36:19	<--	Ilango83 (75dd8f28@117.221.143.40) has quit (Quit: Connection closed)
-11:36:21	Pavithraboopathy	Bye
+Celin	வணக்கம்
+shrini1	வணக்கம் Celin 
+RAJARAJAN	good evening sir
+shrini1	Muthuramalingam: எல்லோரும் வந்தாச்சா ?
+Pavithraboopathy	Good Evening sir
+shrini1	Will start in 5 min
+Muthuramalingam	சரி
+<--	Guest75682 (67cc9c3d@103.204.156.61) has quit (Client Quit)
+-->	Ilango83 (75dd8f28@117.221.143.40) has joined #kaniyam
+-->	Thulasi_Prabha (9d3376e3@157.51.118.227) has joined #kaniyam
+Muthuramalingam	ஒரு சிலர் இன்னும் இணையவில்லை
+-->	stephenrajy (9d31ef0c@157.49.239.12) has joined #kaniyam
+Muthuramalingam	இருந்தாலும் தொடங்கலாம்
+shrini1	Ok
+shrini1	Hello all
+shrini1	Welcome to the world of IRC
+JeyaseelanV	Vanakkam
+RAJARAJAN	hello sir
+shrini1	Iit is all text based chat
+shrini1	Keep a file for taking notes, and links shared here
+shrini1	As these text will go away if you close your browser
+shrini1	Not like telegram or WhatsApp
+shrini1	Chats are very realtime
+shrini1	I will share few links here
+shrini1	Copy them all on your notes file
+Celin	வணக்கம்..
+shrini1	https://goinggnu.wordpress.com/2012/05/11/what-to-do-after-learning-python-programming/
+Pavithraboopathy	ok sir.
+shrini1	https://goinggnu.wordpress.com/2014/07/23/need-50-ideas-for-a-python-hackathon/
+Thulasi_Prabha	ok sir
+Ilango83	Ok
+ThenmozhiVijay	ok
+shrini1	https://goinggnu.wordpress.com/2020/04/14/why-i-like-irc-internet-relay-chat-even-in-2020/
+shrini1	Read these links
+shrini1	Join the mailing list at chennaipy.org
+shrini1	Click join link, give your mail I'd, submit
+shrini1	You will get a mail with activation link
+shrini1	Click it 
+-->	Aishwarya (6ac640de@106.198.64.222) has joined #kaniyam
+shrini1	To join the chennaipy mailing g list
+shrini1	https://goinggnu.wordpress.com/2014/07/23/need-50-ideas-for-a-python-hackathon/
+shrini1	In this blog post, I have shared few project ideas
+shrini1	They can be done easily
+shrini1	Hope you all have a blog and github account
+shrini1	Pick a project, work on daily, write a blog post on the days work and push the code to a github repo
+Thulasi_Prabha	yes sir
+shrini1	I will share few more projects in coming days
+Moorthy	Do we need to go through all links now or are they for future reference?
+shrini1	Check the project idea lists first
+shrini1	That is immediate 
+Moorthy	Ok
+shrini1	Other links are for your reference. Read them all asap
+stephenrajy	subscribed chennaipy sir
+shrini1	If you all can read the project list post now,
+Ilango83	 yes I can read
+shrini1	Can everyone pick a project idea, type the idea and your name here
+shrini1	If you have any queries, ask here
+Ilango83	Train PNR status - Ilangoven
+shrini1	It is ok, if you don't understand any idea
+shrini1	We can discuss and I can explain more
+Moorthy	 Credit Card Validator --Suresh
+stephenrajy	upload image in Flickr  - stephenraj
+Thulasi_Prabha	Alarm Clock-Thulasi Prabha
+Celin	Celin - 1. scrap a flipkart.com and get rate of a given peoduct
+shrini1	Happy to see the pickups
+shrini1	:-)
+ThenmozhiVijay	 get two dates and calculate the no of days between them-ThenmozhiVijay
+JeyaseelanV	27. Bandwidth Monitor – A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it.
+Thulasi_Prabha	sir,if i finish my project early can i do one more
+RAJARAJAN	Captcha generator
+shrini1	Few ideas are too small. Once you are done with them, you can take another one
+shrini1	Yes
+Thulasi_Prabha	ok sir
+ThenmozhiVijay	ok sir
+RAJARAJAN	ok sir
+shrini1	Search on google for the project ideas you choose, to read about its basics
+Moorthy	any deadlines for these projects?
+Pavithraboopathy	crossword puzzles -pavithra B
+shrini1	For example, credit xsrd validator has some logics behind it
+shrini1	15 days is the project time
+shrini1	One full sprint
+Moorthy	sounds good!
+stephenrajy	sir i already finished this one "Download picture of the day from http://commons.wikimedia.org and make it as wallpaper or a widget" should i take a new project idea or upgrade this one.
+shrini1	If you have any technical query, ask in the chennaipy mailing liat
+shrini1	Yes stephenrajy pick another one
+stephenrajy	ok sir
+shrini1	We have more real time project ideas here
+shrini1	https://github.com/KaniyamFoundation/ProjectIdeas/issues
+shrini1	That's all for now today
+Moorthy	are we meeting again here same time tomorrow?
+shrini1	Actual projects can start from monday
+JeyaseelanV	Thank you Sir
+Moorthy	Ok. Thanks
+Ilango83	Ok. Thank you
+Thulasi_Prabha	ok sir
+ThenmozhiVijay	ok sir.Thank you
+Celin	1. scrap a flipkart.com and get rate of a given product - இதற்கு, input என்ன? product ID ஆ?
+shrini1	I don't want you all to sit in front of computers on festival days
+shrini1	Celin: product name
+shrini1	For example - Realme x2 pro mobile phone
+shrini1	Muthuramalingam: do you have class tomorrow?
+Muthuramalingam	no
+shrini1	How many days are holifayo for the team?
+shrini1	When is next class?
+Muthuramalingam	tomorrow and day after tomorrow - holidays
+shrini1	Ok
+Muthuramalingam	We can plan on Monday
+Muthuramalingam	as few requested they will go to home town
+shrini1	Then we can have irc session on Saturday, after the class
+shrini1	Ok
+shrini1	Ok 
+shrini1	Then Monday is fine
+shrini1	In the meantime, if anyone have any queries on project idea, ask in telegram
+shrini1	Will answer there
+Thulasi_Prabha	ok sir
+ThenmozhiVijay	ok sir
+Ilango83	Ok
+RAJARAJAN	ok sir
+shrini1	Ok. Shall we have some intro about ourself?
+Pavithraboopathy	sure sir
+shrini1	I am shrinivasan from chennai. Doing devops role for Saama.com 
+shrini1	Contributes to kaniyam.com and FreeTamilEbooks.com
+shrini1	Like this, please share few info about yourself
+shrini1	From where you come, what you do etc
+Ilango83	Ilango from Erode. Jointly running a Organic Store
+shrini1	Nice
+Moorthy	I am Suresh Moorthy from Kumabakonam and I am a chemist.
+shrini1	Ok
+stephenrajy	I am stephen raj from chennai. A job seeker.
+<--	sankar (75d7b0d0@117.215.176.208) has quit (Quit: Connection closed)
+Thulasi_Prabha	I am Thulasi Prabha residue at  dindigul . i am engineering graduate in-stream of Electronics and Communication and i'm a fresher seeking for a job
+shrini1	Good
+ThenmozhiVijay	I am ThenmozhiVijay from chennai. I am a homemaker. seaching for IT job,looking for an exposure in IT field
+RAJARAJAN	i am Rajarajan S from chidambaram, a job seeker
+Aishwarya	 i am aishwarya from vellore. a job seekar
+Pavithraboopathy	I am pavithra from Thirupathur. am searching job
+shrini1	Celin: ?
+shrini1	JeyaseelanV: ?
+Celin	செலின், மென்பொருள் துறையில் பணியாற்றுகிறேன். பைத்தான் கற்க விருப்பம்.
+shrini1	கற்று விட்டீர்கள் Celin 
+shrini1	Shall all yours blog URL and github URL, if you have
+Celin	கொஞ்சம் கொஞ்சம் தான்..
+shrini1	Mine is goinggnu.WordPress.com
+shrini1	Github.com/tshrinivasan
+JeyaseelanV	i am Jeyaseelan  from Canada   doing Linux admin role @Virthusa  Polaris  Looking for  move on devops
+Celin	https://pythonintamil.wordpress.com/
+Ilango83	Ilangoven. Blog: https://wordpress.com/home/pylearnilango.wordpress.com    Git: https://github.com/ilangovenac
+shrini1	Happy to see participants from various places and domains
+shrini1	Python and Linux will help all of us to reach great heights 
+shrini1	If you don't have a blog, start one at WordPress.com and write there daily
+ThenmozhiVijay	https://wordpress.com/posts/thenuvijay.wordpress.com
+shrini1	That is manditory
+Thulasi_Prabha	https://github.com/THULASIPRABHA
+shrini1	Blog url is somename.WordPress.com
+shrini1	Share in this format
+Moorthy	https://github.com/MoorthySuresh
+ThenmozhiVijay	https://github.com/ThenuVijay
+JeyaseelanV	jayseworldblog.wordpress.com --working on it will update soon
+Thulasi_Prabha	http://thulasiprabha.wordpress.com
+shrini1	http://www.kaniyam.com/how-to-get-a-computer-science-job/
+shrini1	Read this post
+RAJARAJAN	https://mycareers1.wordpress.com/blog/
+RAJARAJAN	https://github.com/Rajarajansama/PYTHON.git
+shrini1	If possible, read more about Internet Relay Chat, IRC and write a blog post about it
+ThenmozhiVijay	ok sir
+Pavithraboopathy	https://github.com/pavithrab230/dictionary-in-python
+stephenrajy	Stephen Raj Y . Blog: https://5t3ph3ndotpy.wordpress.com/   GitHub: https://github.com/stephenraj314
+shrini1	How do you all feel on this chat ?
+shrini1	Is it comfortable for you ?
+Thulasi_Prabha	yes sir
+shrini1	Or do you need zoom?
+ThenmozhiVijay	yes sir
+Moorthy	this is like whatsapp chat, but seems to be a productive one.
+Thulasi_Prabha	IRC is comfortable
+shrini1	Ok
+Pavithraboopathy	https://wordpress.com/post/pavithrabboopathy.wordpress.com/158
+Pavithraboopathy	comfortable sir
+shrini1	Can anyone copy all the chat log text from browser, post as a gist in github?
+Celin	ஐ.ஆர்.சி. எளிமையாக உள்ளது
+shrini1	So that the missed people can read them all?
+Thulasi_Prabha	ok sir
+shrini1	Who can volunteer for this daily?
+shrini1	Muthuramalingam: can you do it today?
+shrini1	I am done for today
+shrini1	Anyone can ask any question
+shrini1	We can close in ten minutes
+stephenrajy	Is this real time project is still open can i contribute sir https://github.com/KaniyamFoundation/ProjectIdeas/issues/124 shrini1 sir
+shrini1	It is completed 
+stephenrajy	ok sir
+shrini1	I think you did it already
+stephenrajy	yes sir
+shrini1	Share the cleaned CSV file with all the books list
+stephenrajy	ok sir
+shrini1	Will add few more project ideas there in 2 days
+shrini1	Getting requirements from friends
+shrini1	So that we can work for real users
+<--	Aishwarya (6ac640de@106.198.64.222) has quit (Quit: Connection closed)
+stephenrajy	csv file should be pushed on repo or someother cloud sir
+shrini1	Push to your same repo
+stephenrajy	ok sir
+shrini1	No need to call me sir
+shrini1	Just use my name
+shrini1	Type s and tab
+shrini1	It will be expanded
+shrini1	On the free software world, sir is not required
+Celin	s and tab நல்ல தகவல்
+Celin	நன்றி
+shrini1	These are the tasks for the weekend. 1. Read all the links shared here 2. Write about irc experience 3. Explore about your chosen project idea 4. Write about how you are planning to do the project 
+JeyaseelanV	Thank you Shrini    Happy "Thai Pongal "  to All .
+shrini1	All username will be expanded by first letter and tab
+shrini1	Thanks JeyaseelanV 
+shrini1	Thanks all
+ThenmozhiVijay	happy pongal to all
+Moorthy	Thank you. See you all next week.
+Thulasi_Prabha	Thanks shrini
+Celin	இனிய பொங்கல் நல்வாழ்த்துகள். தைப்புத்தாண்டு நல்வாழ்த்துகள்.
+Ilango83	Thank you
+shrini1	For all, download or copy all the chat logs daily, keep your own copy for notes and links
+RAJARAJAN	thank you
+Thulasi_Prabha	Ok
+shrini1	Check option for download chat logs on the same irc page
+shrini1	Each client have different options
+<--	RAJARAJAN (6ac32472@106.195.36.114) has quit (Quit: Connection closed)
+shrini1	https://github.com/KaniyamFoundation/irc-logs
+shrini1	If you have more time to kill, read our previous chat logs here
+shrini1	Bye all
+shrini1	Happy holidays
+<--	ThenmozhiVijay (9d33328f@157.51.50.143) has quit (Quit: Connection closed)
+Thulasi_Prabha	Bye happy holiday all
+<--	Moorthy (75ddd9c2@117.221.217.194) has quit (Quit: Connection closed)
+Pavithraboopathy	 Thank You And Happy Pongal
+<--	Ilango83 (75dd8f28@117.221.143.40) has quit (Quit: Connection closed)
+Pavithraboopathy	Bye

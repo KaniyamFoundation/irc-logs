@@ -1,235 +1,235 @@
-10:38:08	stephenrajy	hi
-10:38:12	-->	Moorthy (75dddd5c@117.221.221.92) has joined #kaniyam
-10:38:19	shrini	hi stephenrajy 
-10:38:24	shrini	welcome
-10:38:33	rajarajan	good evening all
-10:38:36	stephenrajy	creating a command linetool to query, tamil wiktionary and show the results?
-10:38:39	stephenrajy	started
-10:38:41	-->	LENIN (67cc9c3d@103.204.156.61) has joined #kaniyam
-10:38:47	Thulasi_prabha	Hai
-10:38:52	Moorthy	Hi
-10:38:54	-->	seelan (ac61fae2@172-97-250-226.cpe.distributel.net) has joined #kaniyam
-10:39:05	--	LENIN is now known as Guest46356
-10:39:08	-->	murugesh (9d2e458c@157.46.69.140) has joined #kaniyam
-10:39:17	Thulasi_prabha	I have finish -convert the image into greyscale and check it width and height if it exceed certain pixel then resize it and add some enhancement in the image
-10:39:24	shrini	hello all
-10:39:25	stephenrajy	stuck in using tamil font in command line  .
-10:39:26	shrini	wait
-10:39:31	shrini	let us go one by one
-10:39:36	shrini	in alphabetical order
-10:39:47	shrini	so that it will be easier to follow
-10:40:01	shrini	Do we have all the team here?
-10:40:30	<--	murugesh (9d2e458c@157.46.69.140) has quit (Client Quit)
-10:40:43	<--	Guest46356 (67cc9c3d@103.204.156.61) has left #kaniyam
-10:40:48	-->	Ilango (75dd8acf@117.221.138.207) has joined #kaniyam
-10:40:49	shrini	seems few have internet issues
-10:41:06	shrini	fine
-10:41:16	shrini	lets start in alphabetical order
-10:41:18	-->	arvind (9d31fd31@157.49.253.49) has joined #kaniyam
-10:41:21	shrini	Ilango: share your updates
-10:41:30	shrini	ah we have arvind here
-10:41:30	-->	leninbala (67cc9c3d@103.204.156.61) has joined #kaniyam
-10:41:37	shrini	let us start with arvind 
-10:41:43	shrini	share your updates arvind 
-10:42:27	-->	celin (5af0a851@90.240.168.81) has joined #kaniyam
-10:42:54	shrini	seems arvind is busy
-10:42:57	shrini	next celin 
-10:43:03	shrini	share your updates
-10:43:13	arvind	Yesterday browsed  sites and videos.sorry I will complete my project within today
-10:43:35	shrini	no sorries
-10:43:47	shrini	it is ok to be busy on some other works
-10:44:15	shrini	feel free to ask for any queries here on any day time. I will be here in this channel
-10:44:21	shrini	next celin 
-10:44:45	arvind	OK thank u sir
-10:45:26	<--	arvind (9d31fd31@157.49.253.49) has quit (Client Quit)
-10:45:38	shrini	celin: ?
-10:46:07	celin	நான் இன்னும் முடிக்க வில்லை
-10:46:11	seelan	Hi Shrini  sorry i also didnt complete my task will update today..
-10:46:22	shrini	no issues
-10:46:30	shrini	it is not about completing
-10:46:34	celin	ஆனால், BeautifulSoup பதிவிறக்கி விட்டேன். வேலை செய்கிறது.
-10:46:46	shrini	as long as you spent time with the task, that is good progress
-10:46:51	celin	realpython இணையத்தில் webscrapping படித்துக் கொண்டிருக்கிறேன்..
-10:46:59	celin	நன்றி
-10:47:06	-->	Ganesh (1b3e3a39@27.62.58.57) has joined #kaniyam
-10:47:08	shrini	even one line of code and good reading, searching itself a progress
-10:47:14	shrini	thanks celin and seelan 
-10:47:27	shrini	try to blog your learnings and notes daily
-10:47:59	shrini	writing something in our own words will help to understand anything really well
-10:48:12	shrini	thats why asking to blog everything we learn
-10:48:24	shrini	Ganesh: your updates please
-10:48:31	<--	Ganesh (1b3e3a39@27.62.58.57) has quit (Client Quit)
-10:48:46	-->	Ganesh (1b3e3a39@27.62.58.57) has joined #kaniyam
-10:49:26	shrini	Next Ilango 
-10:49:35	shrini	Ilango: share your updates
-10:49:41	Ilango	Tried with bs4 for pnr scraping after manually entering PNR in makemytrip.com
-10:49:48	Ilango	because indianrail is using captcha. could not do in that. Tried requests post and get in form .
-10:49:57	Ilango	makemytrip.com result string in soup is giving 'None'. Checking other websites with robots.txt if any webs
-10:49:58	shrini	nice
-10:50:07	Ilango	git link: https://github.com/ilangovenac/PNR-status-Webscrap/blob/master/PNR_check_bs4.py
-10:50:22	shrini	ok
-10:50:45	shrini	I think, this is enough with this project. As we dont have much traveling people to get a PNR, 
-10:50:54	shrini	this is not right time to proceed further
-10:51:03	shrini	Ilango: pick up some other idea
-10:51:20	seelan	Hi Shrini can i leave now,? i will catch up with notes.
-10:51:34	Ilango	ok. thanks. even i felt very much stuck for last few days.
-10:51:39	shrini	sure seelan 
-10:51:52	shrini	will share the chatlogs on telegram
-10:51:56	shrini	bye seelan 
-10:52:07	shrini	thanks Ilango 
-10:52:34	shrini	I should have thought this before. sorry. my bad
-10:52:47	Ganesh	Hi I have chosen cost estimator for my project.
-10:52:48	shrini	still, it is a good exercise to explore bs4
-10:53:02	shrini	Ganesh: hi
-10:53:09	Ilango	it was good experience only
-10:53:13	shrini	explain about your project idea and progress
-10:53:59	<--	Thulasi_prabha (9d330ef0@157.51.14.240) has quit (Quit: Connection closed)
-10:54:04	leninbala	Hi sir i finished my task and iam in middle of writing my blog after finishing it i will post my git link and blog in our telegram channel
-10:54:17	-->	Thenmozhivijay (9d2e66e2@157.46.102.226) has joined #kaniyam
-10:54:28	shrini	leninbala: ok, what is your task?
-10:54:32	-->	Thulasi_prabha (9d330ef0@157.51.14.240) has joined #kaniyam
-10:54:39	shrini	if you are done, pick up something else
-10:54:53	shrini	if you are out of ideas, ping here or in telegram
-10:54:56	Thenmozhivijay	Hi sir I completed my second project weather scraping
-10:54:58	shrini	will add few more tasks
-10:55:13	shrini	Thenmozhivijay: wait. we are going on alphabetical order
-10:55:23	shrini	we are with leninbala now
-10:55:28	Thenmozhivijay	Oh ok sir
-10:55:41	leninbala	i have taken a own project password generator
-10:55:49	shrini	no need to call me sir
-10:55:54	shrini	leninbala: good
-10:55:58	-->	ThenmozhiVijay34 (9d2e66e2@157.46.102.226) has joined #kaniyam
-10:56:10	shrini	happy to know this
-10:56:15	shrini	good project idea
-10:56:24	shrini	will add this in our list too
-10:56:27	leninbala	thank you
-10:56:33	shrini	next Moorthy 
-10:56:36	<--	Thenmozhivijay (9d2e66e2@157.46.102.226) has quit (Client Quit)
-10:56:38	Moorthy	I was not there yesterday in the IRC chat, but I can catch up things. I picked up the "CREDIT CARD VALIDATION" project - I am almost through - will share it on github tonight.
-10:56:52	shrini	super. thanks
-10:57:08	Moorthy	it is quite easy actually, so I can pick up the other project soon.
-10:57:12	-->	murugesh (9d2e458c@157.46.69.140) has joined #kaniyam
-10:57:20	<--	seelan (ac61fae2@172-97-250-226.cpe.distributel.net) has quit (Ping timeout: 248 seconds)
-10:57:28	shrini	sure, yes. with python, all the project will be easy
-10:57:29	<--	leninbala (67cc9c3d@103.204.156.61) has quit (Quit: Connection closed)
-10:57:36	shrini	they may seem big on first sight
-10:57:46	Moorthy	shrini thank you!
-10:58:00	shrini	but, once we understand the requirement fully, we can write the code easily
-10:58:11	shrini	modules will be available on pip for most of the things
-10:58:22	Moorthy	ok
-10:58:36	shrini	just search for it, read the documentation, use it and rock. Thats the beauty of the python
-10:58:48	shrini	rajarajan: hi, share your updates
-10:58:55	rajarajan	i had completed my first project captcha generator and working on blog,could you list some more projects title
-10:59:34	shrini	ok rajarajan will list after the updates
-10:59:47	shrini	share the blog and git link, once they are ready
-10:59:56	shrini	stephenrajy: your updates please
-10:59:59	rajarajan	can we use code reuse
-11:00:16	stephenrajy	hi shrini bro
-11:00:22	shrini	sure, as long as you understand what you do
-11:00:23	stephenrajy	my task -creating a command linetool to query, tamil wiktionary and showing the results
-11:00:30	shrini	hmmm
-11:00:31	stephenrajy	scraped ta.wiktionary.com using bs4
-11:00:32	stephenrajy	But stuck in giving tamil commandline line input my win10 not supporting tamil font
-11:00:32	stephenrajy	any suggestions
-11:00:49	shrini	ah. 
-11:00:59	shrini	I dont know about windows
-11:01:16	shrini	I used windows arounf 2004. after that only linux
-11:01:23	shrini	no idea on that
-11:01:29	shrini	search net and fix it
-11:01:40	stephenrajy	ok thankyou
-11:01:44	shrini	try to use the wikipedia api, instead of scrapping
-11:01:52	shrini	it is better
-11:02:28	<--	stephenrajy (9d330809@157.51.8.9) has quit (Quit: Connection closed)
-11:02:38	shrini	Thulasi_prabha: your updates please
-11:02:45	Thulasi_prabha	I have finish -convert the image into greyscale and check it width and height if it exceed certain pixel then resize it and add some enhancement in the image
-11:03:00	shrini	nice
-11:03:01	Thulasi_prabha	https://github.com/THULASIPRABHA/Image-Processing
-11:03:03	-->	stephenrajy (9d330809@157.51.8.9) has joined #kaniyam
-11:03:14	stephenrajy	can i use gui
-11:03:25	Thulasi_prabha	Today i'm going to start Get Picture of the image from commons.wikimedia.org and send a tweet and mastodon toot with the url and image
-11:03:34	shrini	great
-11:03:40	<--	murugesh (9d2e458c@157.46.69.140) has quit (Quit: Connection closed)
-11:03:51	shrini	stephenrajy: yes, you can use gui too
-11:04:02	Thulasi_prabha	That's my git link
-11:04:11	stephenrajy	thank shrini
-11:04:42	shrini	Thulasi_prabha: any blog post on that?
-11:05:04	<--	Moorthy (75dddd5c@117.221.221.92) has quit (Quit: Connection closed)
-11:05:05	Thulasi_prabha	Working on it .. Will send it by today
-11:05:23	shrini	ok
-11:05:51	shrini	Thulasi_prabha: after the tasks, if you get time, work on a meme creator
-11:06:14	Thulasi_prabha	Meme creator🥺
-11:06:16	shrini	as you are good with PIL module, you can explore creating memes automatically in tamil and in english
-11:06:33	shrini	get strings as input from user, use few template base images
-11:06:47	shrini	lay the text over the images and memes are ready
-11:07:24	shrini	Ooops. we missed ThenmozhiVijay34 sorry
-11:07:31	shrini	ThenmozhiVijay34: share your updates
-11:07:37	ThenmozhiVijay34	Hi sir i completed my second project weather scraping.
-11:07:37	ThenmozhiVijay34	I am in process of writing blog on it..
-11:07:53	Thulasi_prabha	Actually I try it.. In the above image processing I add the text into the image ?! Like that i need to create meme
-11:08:22	shrini	yes Thulasi_prabha same, use different base images
-11:08:38	Thulasi_prabha	Ok
-11:08:43	shrini	have multiple base images and choose randomly or based on user input
-11:08:48	shrini	ThenmozhiVijay34: great
-11:09:04	shrini	once it is done, pickup another task
-11:09:17	ThenmozhiVijay34	ok shrini
-11:09:33	<--	Ganesh (1b3e3a39@27.62.58.57) has quit (Quit: Connection closed)
-11:09:38	Thulasi_prabha	Great idea that's more interesting will try it shrini
-11:10:18	ThenmozhiVijay34	any suggestions on next task
-11:11:20	shrini	1. Generate bi-gram data of any given corpus - https://github.com/Ezhil-Language-Foundation/open-tamil/issues/97
-11:11:37	shrini	2. Draw plots of schools in chennai using osm and python - https://github.com/KaniyamFoundation/ProjectIdeas/issues/133
-11:12:15	shrini	explore these ThenmozhiVijay34 and rajarajan 
-11:12:29	rajarajan	ok 
-11:12:32	shrini	The details are on the respective links
-11:12:39	ThenmozhiVijay34	ok shrini
-11:12:47	shrini	ping here or on telegram who is taking which
-11:13:04	ThenmozhiVijay34	ok
-11:13:08	rajarajan	ok 
-11:15:08	stephenrajy	ok
-11:15:19	shrini	Fine
-11:15:24	shrini	thats all for today
-11:15:51	shrini	will ask to add all your blogs here - http://planet.payilagam.com/
-11:16:02	shrini	so that we can read them all on a single page
-11:16:27	shrini	The blogs have RSS feed, to provide the content to any third party RSS reader
-11:16:49	rajarajan	yes
-11:17:32	shrini	Planet is a RSS aggregator software. we installed it there
-11:17:36	<--	ThenmozhiVijay34 (9d2e66e2@157.46.102.226) has quit (Ping timeout: 248 seconds)
-11:17:49	shrini	so keep writing daily, even after the classes are over
-11:18:05	shrini	it will help you to reach heights
-11:18:33	shrini	I am writing here http://goinggnu.wordpress.com for 15 years
-11:18:45	shrini	it became my visiting card, most of the times
-11:18:59	shrini	All the jobs I got through writing there only
-11:19:34	shrini	I add the blog URL in my resume, the company tech teams read them and knew who i am
-11:19:34	Thulasi_prabha	Great work shrini
-11:19:56	shrini	and the interviews were casual discussions, as they already know who i am via my blog
-11:20:16	shrini	Thats why asking you all to write more and regularly
-11:20:31	shrini	in few years, it will become a habit and a great asset
-11:21:04	shrini	Next is to learn about Free/Open software
-11:21:05	shrini	http://www.kaniyam.com/podcast/introduction-to-freesoftware-by-amachu/
-11:21:11	shrini	hear this podcast
-11:21:20	shrini	ask me for any queries
-11:22:09	shrini	thats all for today
-11:22:23	shrini	is anybody have any quesions?
-11:23:00	stephenrajy	your works are so inspiring ill try to blog daily but it takes more time than coding.
-11:23:15	shrini	will tell one more success story on my blog, tomorrow
-11:23:24	shrini	yes, writing takes time
-11:23:29	<--	Thulasi_prabha (9d330ef0@157.51.14.240) has quit (Quit: Connection closed)
-11:23:33	shrini	code or content
-11:23:48	shrini	both take time
-11:24:07	shrini	dont worry much on the quality, grammer mistake on initial days
-11:24:16	shrini	the more you write, it will become good
-11:24:32	stephenrajy	for myself coding is faster than explaining content
-11:24:46	shrini	to embed any code on the blog, put in gist.github.com and paste the url on the blog post
-11:24:56	shrini	it will bring the code to the blog post
-11:25:01	stephenrajy	ok
-11:25:22	shrini	Fine, have to leave now
-11:25:27	shrini	see you all tomorrow
-11:25:29	shrini	bye
-11:25:31	stephenrajy	thanks for the motivation shrini bro
-11:25:32	rajarajan	thank you
-11:25:34	stephenrajy	bye
-11:25:55	<--	stephenrajy (9d330809@157.51.8.9) has quit (Quit: Connection closed)
-11:26:14	Ilango	bye
-11:26:18	<--	Ilango (75dd8acf@117.221.138.207) has quit (Quit: Connection closed)
-11:26:27	<--	rajarajan (~Palani_Ve@106.195.37.13) has left #kaniyam
-11:34:47	celin	விடைபெறுகிறேன். நாளை சந்திப்போம்.
-11:34:59	<--	celin (5af0a851@90.240.168.81) has quit (Quit: Connection closed)
+stephenrajy	hi
+-->	Moorthy (75dddd5c@117.221.221.92) has joined #kaniyam
+shrini	hi stephenrajy 
+shrini	welcome
+rajarajan	good evening all
+stephenrajy	creating a command linetool to query, tamil wiktionary and show the results?
+stephenrajy	started
+-->	LENIN (67cc9c3d@103.204.156.61) has joined #kaniyam
+Thulasi_prabha	Hai
+Moorthy	Hi
+-->	seelan (ac61fae2@172-97-250-226.cpe.distributel.net) has joined #kaniyam
+--	LENIN is now known as Guest46356
+-->	murugesh (9d2e458c@157.46.69.140) has joined #kaniyam
+Thulasi_prabha	I have finish -convert the image into greyscale and check it width and height if it exceed certain pixel then resize it and add some enhancement in the image
+shrini	hello all
+stephenrajy	stuck in using tamil font in command line  .
+shrini	wait
+shrini	let us go one by one
+shrini	in alphabetical order
+shrini	so that it will be easier to follow
+shrini	Do we have all the team here?
+<--	murugesh (9d2e458c@157.46.69.140) has quit (Client Quit)
+<--	Guest46356 (67cc9c3d@103.204.156.61) has left #kaniyam
+-->	Ilango (75dd8acf@117.221.138.207) has joined #kaniyam
+shrini	seems few have internet issues
+shrini	fine
+shrini	lets start in alphabetical order
+-->	arvind (9d31fd31@157.49.253.49) has joined #kaniyam
+shrini	Ilango: share your updates
+shrini	ah we have arvind here
+-->	leninbala (67cc9c3d@103.204.156.61) has joined #kaniyam
+shrini	let us start with arvind 
+shrini	share your updates arvind 
+-->	celin (5af0a851@90.240.168.81) has joined #kaniyam
+shrini	seems arvind is busy
+shrini	next celin 
+shrini	share your updates
+arvind	Yesterday browsed  sites and videos.sorry I will complete my project within today
+shrini	no sorries
+shrini	it is ok to be busy on some other works
+shrini	feel free to ask for any queries here on any day time. I will be here in this channel
+shrini	next celin 
+arvind	OK thank u sir
+<--	arvind (9d31fd31@157.49.253.49) has quit (Client Quit)
+shrini	celin: ?
+celin	நான் இன்னும் முடிக்க வில்லை
+seelan	Hi Shrini  sorry i also didnt complete my task will update today..
+shrini	no issues
+shrini	it is not about completing
+celin	ஆனால், BeautifulSoup பதிவிறக்கி விட்டேன். வேலை செய்கிறது.
+shrini	as long as you spent time with the task, that is good progress
+celin	realpython இணையத்தில் webscrapping படித்துக் கொண்டிருக்கிறேன்..
+celin	நன்றி
+-->	Ganesh (1b3e3a39@27.62.58.57) has joined #kaniyam
+shrini	even one line of code and good reading, searching itself a progress
+shrini	thanks celin and seelan 
+shrini	try to blog your learnings and notes daily
+shrini	writing something in our own words will help to understand anything really well
+shrini	thats why asking to blog everything we learn
+shrini	Ganesh: your updates please
+<--	Ganesh (1b3e3a39@27.62.58.57) has quit (Client Quit)
+-->	Ganesh (1b3e3a39@27.62.58.57) has joined #kaniyam
+shrini	Next Ilango 
+shrini	Ilango: share your updates
+Ilango	Tried with bs4 for pnr scraping after manually entering PNR in makemytrip.com
+Ilango	because indianrail is using captcha. could not do in that. Tried requests post and get in form .
+Ilango	makemytrip.com result string in soup is giving 'None'. Checking other websites with robots.txt if any webs
+shrini	nice
+Ilango	git link: https://github.com/ilangovenac/PNR-status-Webscrap/blob/master/PNR_check_bs4.py
+shrini	ok
+shrini	I think, this is enough with this project. As we dont have much traveling people to get a PNR, 
+shrini	this is not right time to proceed further
+shrini	Ilango: pick up some other idea
+seelan	Hi Shrini can i leave now,? i will catch up with notes.
+Ilango	ok. thanks. even i felt very much stuck for last few days.
+shrini	sure seelan 
+shrini	will share the chatlogs on telegram
+shrini	bye seelan 
+shrini	thanks Ilango 
+shrini	I should have thought this before. sorry. my bad
+Ganesh	Hi I have chosen cost estimator for my project.
+shrini	still, it is a good exercise to explore bs4
+shrini	Ganesh: hi
+Ilango	it was good experience only
+shrini	explain about your project idea and progress
+<--	Thulasi_prabha (9d330ef0@157.51.14.240) has quit (Quit: Connection closed)
+leninbala	Hi sir i finished my task and iam in middle of writing my blog after finishing it i will post my git link and blog in our telegram channel
+-->	Thenmozhivijay (9d2e66e2@157.46.102.226) has joined #kaniyam
+shrini	leninbala: ok, what is your task?
+-->	Thulasi_prabha (9d330ef0@157.51.14.240) has joined #kaniyam
+shrini	if you are done, pick up something else
+shrini	if you are out of ideas, ping here or in telegram
+Thenmozhivijay	Hi sir I completed my second project weather scraping
+shrini	will add few more tasks
+shrini	Thenmozhivijay: wait. we are going on alphabetical order
+shrini	we are with leninbala now
+Thenmozhivijay	Oh ok sir
+leninbala	i have taken a own project password generator
+shrini	no need to call me sir
+shrini	leninbala: good
+-->	ThenmozhiVijay34 (9d2e66e2@157.46.102.226) has joined #kaniyam
+shrini	happy to know this
+shrini	good project idea
+shrini	will add this in our list too
+leninbala	thank you
+shrini	next Moorthy 
+<--	Thenmozhivijay (9d2e66e2@157.46.102.226) has quit (Client Quit)
+Moorthy	I was not there yesterday in the IRC chat, but I can catch up things. I picked up the "CREDIT CARD VALIDATION" project - I am almost through - will share it on github tonight.
+shrini	super. thanks
+Moorthy	it is quite easy actually, so I can pick up the other project soon.
+-->	murugesh (9d2e458c@157.46.69.140) has joined #kaniyam
+<--	seelan (ac61fae2@172-97-250-226.cpe.distributel.net) has quit (Ping timeout: 248 seconds)
+shrini	sure, yes. with python, all the project will be easy
+<--	leninbala (67cc9c3d@103.204.156.61) has quit (Quit: Connection closed)
+shrini	they may seem big on first sight
+Moorthy	shrini thank you!
+shrini	but, once we understand the requirement fully, we can write the code easily
+shrini	modules will be available on pip for most of the things
+Moorthy	ok
+shrini	just search for it, read the documentation, use it and rock. Thats the beauty of the python
+shrini	rajarajan: hi, share your updates
+rajarajan	i had completed my first project captcha generator and working on blog,could you list some more projects title
+shrini	ok rajarajan will list after the updates
+shrini	share the blog and git link, once they are ready
+shrini	stephenrajy: your updates please
+rajarajan	can we use code reuse
+stephenrajy	hi shrini bro
+shrini	sure, as long as you understand what you do
+stephenrajy	my task -creating a command linetool to query, tamil wiktionary and showing the results
+shrini	hmmm
+stephenrajy	scraped ta.wiktionary.com using bs4
+stephenrajy	But stuck in giving tamil commandline line input my win10 not supporting tamil font
+stephenrajy	any suggestions
+shrini	ah. 
+shrini	I dont know about windows
+shrini	I used windows arounf 2004. after that only linux
+shrini	no idea on that
+shrini	search net and fix it
+stephenrajy	ok thankyou
+shrini	try to use the wikipedia api, instead of scrapping
+shrini	it is better
+<--	stephenrajy (9d330809@157.51.8.9) has quit (Quit: Connection closed)
+shrini	Thulasi_prabha: your updates please
+Thulasi_prabha	I have finish -convert the image into greyscale and check it width and height if it exceed certain pixel then resize it and add some enhancement in the image
+shrini	nice
+Thulasi_prabha	https://github.com/THULASIPRABHA/Image-Processing
+-->	stephenrajy (9d330809@157.51.8.9) has joined #kaniyam
+stephenrajy	can i use gui
+Thulasi_prabha	Today i'm going to start Get Picture of the image from commons.wikimedia.org and send a tweet and mastodon toot with the url and image
+shrini	great
+<--	murugesh (9d2e458c@157.46.69.140) has quit (Quit: Connection closed)
+shrini	stephenrajy: yes, you can use gui too
+Thulasi_prabha	That's my git link
+stephenrajy	thank shrini
+shrini	Thulasi_prabha: any blog post on that?
+<--	Moorthy (75dddd5c@117.221.221.92) has quit (Quit: Connection closed)
+Thulasi_prabha	Working on it .. Will send it by today
+shrini	ok
+shrini	Thulasi_prabha: after the tasks, if you get time, work on a meme creator
+Thulasi_prabha	Meme creator🥺
+shrini	as you are good with PIL module, you can explore creating memes automatically in tamil and in english
+shrini	get strings as input from user, use few template base images
+shrini	lay the text over the images and memes are ready
+shrini	Ooops. we missed ThenmozhiVijay34 sorry
+shrini	ThenmozhiVijay34: share your updates
+ThenmozhiVijay34	Hi sir i completed my second project weather scraping.
+ThenmozhiVijay34	I am in process of writing blog on it..
+Thulasi_prabha	Actually I try it.. In the above image processing I add the text into the image ?! Like that i need to create meme
+shrini	yes Thulasi_prabha same, use different base images
+Thulasi_prabha	Ok
+shrini	have multiple base images and choose randomly or based on user input
+shrini	ThenmozhiVijay34: great
+shrini	once it is done, pickup another task
+ThenmozhiVijay34	ok shrini
+<--	Ganesh (1b3e3a39@27.62.58.57) has quit (Quit: Connection closed)
+Thulasi_prabha	Great idea that's more interesting will try it shrini
+ThenmozhiVijay34	any suggestions on next task
+shrini	1. Generate bi-gram data of any given corpus - https://github.com/Ezhil-Language-Foundation/open-tamil/issues/97
+shrini	2. Draw plots of schools in chennai using osm and python - https://github.com/KaniyamFoundation/ProjectIdeas/issues/133
+shrini	explore these ThenmozhiVijay34 and rajarajan 
+rajarajan	ok 
+shrini	The details are on the respective links
+ThenmozhiVijay34	ok shrini
+shrini	ping here or on telegram who is taking which
+ThenmozhiVijay34	ok
+rajarajan	ok 
+stephenrajy	ok
+shrini	Fine
+shrini	thats all for today
+shrini	will ask to add all your blogs here - http://planet.payilagam.com/
+shrini	so that we can read them all on a single page
+shrini	The blogs have RSS feed, to provide the content to any third party RSS reader
+rajarajan	yes
+shrini	Planet is a RSS aggregator software. we installed it there
+<--	ThenmozhiVijay34 (9d2e66e2@157.46.102.226) has quit (Ping timeout: 248 seconds)
+shrini	so keep writing daily, even after the classes are over
+shrini	it will help you to reach heights
+shrini	I am writing here http://goinggnu.wordpress.com for 15 years
+shrini	it became my visiting card, most of the times
+shrini	All the jobs I got through writing there only
+shrini	I add the blog URL in my resume, the company tech teams read them and knew who i am
+Thulasi_prabha	Great work shrini
+shrini	and the interviews were casual discussions, as they already know who i am via my blog
+shrini	Thats why asking you all to write more and regularly
+shrini	in few years, it will become a habit and a great asset
+shrini	Next is to learn about Free/Open software
+shrini	http://www.kaniyam.com/podcast/introduction-to-freesoftware-by-amachu/
+shrini	hear this podcast
+shrini	ask me for any queries
+shrini	thats all for today
+shrini	is anybody have any quesions?
+stephenrajy	your works are so inspiring ill try to blog daily but it takes more time than coding.
+shrini	will tell one more success story on my blog, tomorrow
+shrini	yes, writing takes time
+<--	Thulasi_prabha (9d330ef0@157.51.14.240) has quit (Quit: Connection closed)
+shrini	code or content
+shrini	both take time
+shrini	dont worry much on the quality, grammer mistake on initial days
+shrini	the more you write, it will become good
+stephenrajy	for myself coding is faster than explaining content
+shrini	to embed any code on the blog, put in gist.github.com and paste the url on the blog post
+shrini	it will bring the code to the blog post
+stephenrajy	ok
+shrini	Fine, have to leave now
+shrini	see you all tomorrow
+shrini	bye
+stephenrajy	thanks for the motivation shrini bro
+rajarajan	thank you
+stephenrajy	bye
+<--	stephenrajy (9d330809@157.51.8.9) has quit (Quit: Connection closed)
+Ilango	bye
+<--	Ilango (75dd8acf@117.221.138.207) has quit (Quit: Connection closed)
+<--	rajarajan (~Palani_Ve@106.195.37.13) has left #kaniyam
+celin	விடைபெறுகிறேன். நாளை சந்திப்போம்.
+<--	celin (5af0a851@90.240.168.81) has quit (Quit: Connection closed)
