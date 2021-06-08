@@ -1,0 +1,311 @@
+
+ Join You (~shrini@171.60.226.54) have joined the channel #kaniyam.
+ Mode Channel modes: no messages from outside, topic protection
+ Created This channel was created on 6/2/21 1:34 PM.
+ Join brindha (~brindha@2a00:23c8:251e:4e01:719d:d34f:6475:b433) has joined this channel.
+ Quit brindha (~brindha@2a00:23c8:251e:4e01:719d:d34f:6475:b433) has left this server (Client Quit).
+ Join Brindha (~Brindha@2a00:23c8:251e:4e01:719d:d34f:6475:b433) has joined this channel.
+ <shrini> hello Brindha
+ <shrini> welcome
+ <shrini> let us wait for few more friends to join
+ Join Gopi (~Gopi@2409:4072:6d95:6371:184c:7739:8bf:988b) has joined this channel.
+ Join abi1 (~abirami@106.198.28.99) has joined this channel.
+ Part abi1 (~abirami@106.198.28.99) has left this channel.
+ Quit Brindha (~Brindha@2a00:23c8:251e:4e01:719d:d34f:6475:b433) has left this server (Client Quit).
+ Join thenmozhi (~thenmozhi@2401:4900:4ddf:3592:51c7:12e3:e138:aed) has joined this channel.
+ Quit Gopi (~Gopi@2409:4072:6d95:6371:184c:7739:8bf:988b) has left this server (Client Quit).
+ Join abi1 (~abirami@106.198.28.99) has joined this channel.
+ Join dhanasekar (~dna@136.185.73.117) has joined this channel.
+ <dhanasekar> hi to all 
+ Join Gopi (~Gopi@2409:4072:6d95:6371:184c:7739:8bf:988b) has joined this channel.
+ Join kowsalya (~kowsalya@2402:3a80:532:5eab:e118:6598:71a4:5f67) has joined this channel.
+ Join Brindha (~Brindha@2a00:23c8:251e:4e01:719d:d34f:6475:b433) has joined this channel.
+ <shrini> hello all
+ <shrini> welcome Brindha
+ <Brindha> Good evening
+ <shrini> this is a daily standup meeting happening on 3 pm
+ <shrini> to give updates on the projects we are working on
+ <shrini> IRC is all text based chat
+ <shrini> only plain text
+ <shrini> just keep watching the chat here
+ Join sathyaraj (~sathyaraj@157.51.127.170) has joined this channel.
+ <shrini> feel free to ask any questions
+ <shrini> abi1: start with your updates
+ <abi1> https://github.com/Abirami8799/Python
+ <abi1> https://mabirami8799.wordpress.com/
+ <shrini> abi1: dont upload the files to git
+ <shrini> always use got commands
+ <shrini> good to see the blog posts
+ <abi1> sure sir
+ <shrini> commit, push code daily and write blog daily
+ <abi1> ok sir
+ Join Thiru (~elcot@2409:4072:6d9e:8e96:74ba:4bce:7a92:5e48) has joined this channel.
+ <shrini> next dhanasekar
+ <dhanasekar> erpnext with latest lts version of node and dependencies installed and tested in multitenant dns mode in vm environment , migration to cloud work in progress 
+ <dhanasekar> by EoD cloud migration might completed
+ <shrini> blog link?
+ <dhanasekar> yet to blog
+ <shrini> ok
+ <shrini> write the blog daily
+ <dhanasekar> lot of errors happended summarize and blog and will share it
+ <shrini> write upto the status where you leave
+ <shrini> you can always edit the post and change the content
+ <shrini> but, capturing the days work done on a blog post is essential
+ <shrini> it can be always half baked
+ <shrini> and completed on next days
+ <shrini> next Gopi
+ <Gopi> Yesterday: Nothing doing
+ <Gopi> Today : 1.Learn about Generators and iterators and numpy.
+ <Gopi> 2.Start a project of convert text into audio file
+ <Gopi> problem :no
+ <Gopi> i am not wrote the blogs and push codes to git yet. 
+ <Gopi> i will share the links at tomorrow.
+ <shrini> ok
+ <shrini> we had a class on numby on last sunday kanchilug meet
+ <shrini> did you attend Gopi?
+ <shrini> what is the plan for text to audio conversion?
+ <shrini> for what language?
+ <Gopi> i attend shrini 
+ <shrini> super
+ <Gopi> currently i was planning to convert english 
+ <shrini> ok
+ <shrini> once it is done, check for tamil 
+ <Gopi> ok shrini i will do it 
+ <shrini> ok
+ <shrini> next kowsalya
+ <kowsalya> i tried to write blog in tamil
+ <kowsalya> https://kowsalyavel.wordpress.com/blog/
+ <shrini> good kowsalya
+ <shrini> good work
+ <kowsalya> thank you sir
+ Quit sathyaraj (~sathyaraj@157.51.127.170) has left this server (Quit: Client closed).
+ Join sathiyaraj (~sathiyara@157.51.127.170) has joined this channel.
+ <shrini> kowsalya: did you complete reading about open-tamil ?
+ <kowsalya> yes sir
+ <shrini> ok
+ <shrini> here is the next task
+ <shrini> https://github.com/Ezhil-Language-Foundation/open-tamil/issues/243
+ <shrini> check here
+ <kowsalya> ok sir
+ <shrini> read about Viterbi algorithm and write code to build a spellchecker using Viterbi algorithm
+ <shrini> first write a detailed blog post on what is that algo and how to implement that on python
+ <shrini> then explore on building a spellchecker using that
+ <shrini> share the progress here daily
+ <shrini> okey?
+ <kowsalya> ok sir
+ <shrini> next sathiyaraj
+ <shrini> share your updates
+ <kowsalya> i will do it
+ <shrini> sathiyaraj: are you there?
+ <sathiyaraj> Anna i dont have aby idea about bot
+ <sathiyaraj> Bot is auto messanget
+ <shrini> did you read about twitter and mastodon?
+ <shrini> you have to get input from user and publish to twitter and mastodon
+ <shrini> first start with a twitter bot
+ <shrini> did you read about twitter?
+ <sathiyaraj> What i have to read about twitter
+ <shrini> you have to learn how to publish a message on twitter manually first
+ <shrini> then you have to do it via your python program
+ <shrini> do you know twitter already? are you using it?
+ <sathiyaraj> With userid and login
+ <shrini> yes
+ <shrini> you have to write a twitter bot
+ <shrini> in python
+ <shrini> to post messages using python itself
+ <shrini> mastodon is twitter clone but open source
+ <shrini> both twitter and mastodon provides api
+ <shrini> and there are good libaries for both of them
+ <shrini> you can use them and build the application easily
+ <sathiyaraj> Is it possible share anything
+ <shrini> you have to seach and find
+ <shrini> i am not your search assistant :-)
+ <shrini> search and find these yourself
+ <sathiyaraj> Ok anna
+ <shrini> first write a blog post with your learnings first
+ <shrini> write blog daily
+ <sathiyaraj> Ok
+ <shrini> next thenmozhi
+ <thenmozhi> I have completed the pymbook
+ <thenmozhi> Git:https://github.com/Thenmozhi295/python
+ <thenmozhi> Blog:http://thenmozhi29.wordpress.com/
+ <shrini> super thenmozhi
+ <shrini> awesome
+ <shrini> how many days you took to complete the book?
+ <thenmozhi> 8 days
+ Quit Gopi (~Gopi@2409:4072:6d95:6371:184c:7739:8bf:988b) has left this server (Quit: Client closed).
+ <shrini> great
+ <shrini> kowsalya: see this
+ <shrini> this is the usual time for completing the book
+ <abi1> sir ..me also finished..
+ Join Gopi (~Gopi@2409:4072:6d95:6371:184c:7739:8bf:988b) has joined this channel.
+ Quit sathiyaraj (~sathiyara@157.51.127.170) has left this server (Quit: Client closed).
+ <shrini> thenmozhi: https://github.com/KaniyamFoundation/ProjectIdeas/issues/68
+ <shrini> good abi1
+ <shrini> thenmozhi: check the above issue
+ <thenmozhi> okay
+ <shrini> read about opds.io
+ <shrini> search and read about it
+ <shrini> write blog post on the opds.io
+ <thenmozhi> ok
+ <shrini> then check the FreeTamilEbooks.com
+ <shrini> we need a catelog of FreeTamilEbooks.com as opds.io
+ <shrini> https://github.com/KaniyamFoundation/Free-Tamil-Ebooks/blob/master/booksdb.xml
+ <shrini> we have our list of books in this xml file
+ <shrini> parse this and convert to opds.io compatable format
+ <shrini> this is the task for you thenmozhi
+ <shrini> work on this and share the progress here daily
+ <shrini> next Thiru
+ <thenmozhi> okay
+ <Thiru> Blog: https://thiruak1024.wordpress.com/2021/06/07/read-and-write-files-within-ejs-file/
+ <Thiru> working on crowdlist project
+ <Thiru> I asked for server to run scraping script
+ <Thiru> He asked my script. I gave the github link. 
+ <Thiru> shrini: He will call you regarding this
+ <Brindha> I am a ISTQB certified tester .I'm looking for manual testing projrct for my experience.Can you please help me.
+ <shrini> ok Thiru
+ <shrini> hello Brindha
+ <shrini> welcome
+ <shrini> hope these chats are not boring to you
+ <shrini> there are tons of open source projects that looks for manual testers
+ <Brindha> no its new for me
+ <shrini> https://quality.mozilla.org/
+ <shrini> hope you know firefox browser
+ <shrini> the firefox team is looking for testers
+ <shrini> https://discourse.mozilla.org/c/quality-assurance/96
+ <Brindha> yes. I will go thru the links.
+ <shrini> join this forum and give intro about you
+ <shrini> share your interest on testing
+ <Brindha> Sure
+ <shrini> they will guide you further
+ <shrini> start a free blog on wordpress.com
+ <shrini> choose free plan
+ <Brindha> ok
+ <shrini> write there daily on what you did
+ <shrini> share the status here daily
+ <Brindha> sure
+ <shrini> do you know python?
+ <Brindha> no
+ <shrini> what is your educational background?
+ <Brindha> MSc (Biochemistry)..trying to get a career in testing
+ <shrini> ok
+ <shrini> manual testing is a start
+ <shrini> but learn python
+ <Brindha> ok
+ <shrini> it will help to do automated testing and then become a developer
+ <shrini> where do you live?
+ <Brindha> UK
+ <shrini> ok
+ <shrini> we have opening in our company saama.com
+ <shrini> for developers, testers, devops
+ <shrini> but not sure they can hire from UK
+ <Brindha> Now i'm learning java from paylagam
+ <shrini> ah
+ <shrini> ok
+ <shrini> good
+ <shrini> they should teach python as first language for newbies
+ <shrini> will ask them to do so
+ <shrini> fine
+ <shrini> for now, explore the firefox testing 
+ <shrini> join their mailing list, forums and teams
+ <Brindha> Now everyone working from home.
+ <shrini> yes. but payment differs for each country
+ <shrini> where in UK ?
+ <Brindha> I can work as a volunter
+ <shrini> hmmm
+ <shrini> send your resume to tshrinivasan@gmail.com
+ <shrini> will ask our testing team
+ <Brindha> Milton keynes. 30 min away from central london
+ <shrini> but do the volunteering to firefox, libreoffice
+ <shrini> become team member for these two project
+ <shrini> they will help a lot on your career
+ <Brindha> ok thankyou so much for your time & help
+ <Brindha> I will send my CV
+ <shrini> https://developer.mozilla.org/en-US/docs/Mozilla/QA
+ <Brindha> Thanks sir will check soon
+ <shrini> https://www.libreoffice.org/community/qa/
+ <shrini> https://wiki.documentfoundation.org/QA/Testing/Regression_Tests
+ <shrini> https://freetamilebooks.com/ebooks/eliya_tamilil_software_testing/
+ <shrini> read this ebook too
+ <shrini> written by muthu of payilagam
+ <shrini> once you have explored these links
+ <shrini> start a blog
+ <Brindha> ok thank you sir
+ <shrini> all : https://medium.com/mindsdb/contributing-to-an-open-source-project-how-to-get-started-6ba812301738
+ <shrini> read this too
+ <Brindha> ok sir
+ Quit Brindha (~Brindha@2a00:23c8:251e:4e01:719d:d34f:6475:b433) has left this server (Quit: Client closed).
+ <shrini> https://goinggnu.wordpress.com/2015/01/30/how-to-become-a-software-tester/
+ <shrini> i have my old post on testing here
+ <shrini> fine
+ <shrini> thats all for today
+ <shrini> is there any questions?
+ <abi1> can you assign the task 
+ <shrini> abi1: ok
+ <shrini> abi1: checking
+ Join Brindha (~Brindha@2a00:23c8:251e:4e01:719d:d34f:6475:b433) has joined this channel.
+ <shrini> https://goinggnu.wordpress.com/2015/01/30/how-to-become-a-software-tester/
+ <shrini> Brindha: check the above my blog post too
+ <Brindha> ok
+ <shrini> https://goinggnu.wordpress.com/2014/08/26/how-to-get-a-computer-science-career/
+ <shrini> read this link too
+ <shrini> share your email address
+ <shrini> will send the chatlogs of today
+ <shrini> chatlog has all the chat content
+ <shrini> with all the links
+ <Brindha> brindhasengu@gmail.com
+ <Brindha> mobile +44 74 24 567 255
+ <shrini> mail is enough
+ <shrini> dont share mobile number on public places on internet
+ <Brindha> Ok thank you sir
+ <Brindha> i got UR link from mr.Muthu so i trust you & share my number but UR advice about phne number is valid
+ <Brindha> Thank you so much
+ <shrini> ok
+ <Brindha> ok thanks
+ <shrini> abi1: here is the task for you
+ <shrini> find the similar words 
+ <shrini> from a given collection of words
+ <shrini> wait
+ <shrini> before going for it
+ <shrini> https://goinggnu.wordpress.com/2020/07/23/irc-logs-of-introduction-to-open-tamil-python-library/
+ <shrini> https://www.slideshare.net/tshrinivasan/open-tamilpresentationta
+ <shrini> abi1: read these two links
+ <shrini> install open-tamil library
+ <shrini> and explore it
+ <abi1> ok sir
+ <shrini> github.com/kaniyamFoundation/all_tamil_words
+ <shrini> here we have 25 lakhs tamil words collected
+ <shrini> you have to get input from users as below
+ <shrini> 1. number of letters
+ <shrini> 2. starting letter
+ <shrini> 3. ending letter
+ <shrini> with this three conditions, you have to find the words from the 25 lakhs words
+ <shrini> for example 
+ <shrini> 1. number of words = 3
+ <shrini> 2. start letter = அ
+ <shrini> 3. end letter = ல்
+ <shrini> results should be
+ <shrini> அணில், அவல், அகல், அசல், அமுல், அணல்
+ <shrini> got it?
+ <shrini> abi1: can you do this ?
+ <abi1> sure sir
+ <shrini> fine
+ <shrini> Brindha: install the IRC client called pidgin
+ <shrini> download it from pidgin.im
+ <shrini> from tomorrow, join through it
+ <shrini> server = irc.libera.chat
+ <shrini> channel = #kaniyam
+ <shrini> nickname = yourname
+ <shrini> password not required
+ <shrini> Brindha: https://guruchan.home.blog/2021/06/02/how-to-install-pidgin-and-joining-with-irc/
+ <shrini> check this too
+ <shrini> check http://planet.payilagam.com 
+ <shrini> there are many students writing blog daily
+ <shrini> you can read all the blogs in a single place 
+ <Brindha> ok thank you sir
+ <shrini> fine all
+ <shrini> if there is no more questions, we can leave
+ <shrini> see you all tomorrow
+ Part abi1 (~abirami@106.198.28.99) has left this channel.
+ <thenmozhi> thank you
+ Part thenmozhi (~thenmozhi@2401:4900:4ddf:3592:51c7:12e3:e138:aed) has left this channel.
+ Quit kowsalya (~kowsalya@2402:3a80:532:5eab:e118:6598:71a4:5f67) has left this server (Quit: Client closed).
